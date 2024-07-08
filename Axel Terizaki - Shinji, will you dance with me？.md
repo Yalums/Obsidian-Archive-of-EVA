@@ -1,4 +1,7 @@
 [Axel Terizaki](https://fanfiction.net/u/4917/)
+
+[[[翻译]Shinji, Will You Dance With Me.pdf#page=1&selection=6,3,8,10|[Love.Asuka（tokyo3cn） 疯狂的北极狼（轻国）翻译]Shinji, Will You Dance With Me, page 1]]
+
 SHINJI, WILL YOU DANCE WITH ME? (a sequel to "Asuka, Will You Dance With Me?")  
 真嗣，你愿意与我共舞吗？（《明日香，你愿意与我共舞吗？》续篇）
 

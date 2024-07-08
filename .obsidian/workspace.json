@@ -11,15 +11,154 @@
             "id": "2d9a83d935a87f02",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CollectionPDF/Asuka & Shinji's Infinite Playlist(1-21).pdf"
+              }
+            }
+          },
+          {
+            "id": "b288be7365691009",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "RLLRRR - ❤️Asuka&Shinji's Infinite Playlist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb4265ac9c5646d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CollectionPDF/You Are (Not) at Fault 你（没）有错 全文翻译.pdf"
+              }
+            }
+          },
+          {
+            "id": "a62972abd882eb61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "m3m3nt0v1v3r3 - Dreams of a Distant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b747532fba47aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eric Blair - 30 Kisses, 30 Ways Asuka and Shinji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "178bfddd18641a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Donderkind - Neon Genesis Evangelion：Propinquity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0df9433e9955cad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karina Kineshi - To My Dearest Honey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff9c95caf0c1a28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Horseman - Pheonix Rising.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee212f634c309768",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CollectionPDF/新生 The 2nd try.pdf"
+              }
+            }
+          },
+          {
+            "id": "f162476866302f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AngelNo13Bardiel - Go back to sleep, precious.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f318132a79a6492e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AngelNo13Bardiel - Let Me See You Stripped, Down to the Bone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ebd71afd21f8115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AngelNo13Bardiel - Let Me See You Stripped, Down to the Bone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "267d144a05858a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SerialRavist - Orchestating the Silence.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -56,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:will you",
+                "query": "file:a glass of wine",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SerialRavist - Orchestating the Silence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SerialRavist - Orchestating the Silence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SerialRavist - Orchestating the Silence.md"
               }
             }
           }
@@ -146,42 +285,43 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2d9a83d935a87f02",
+  "active": "267d144a05858a46",
   "lastOpenFiles": [
-    "YourBlandestNightmare - What Comes After Winter.md",
+    "AngelNo13Bardiel - Let Me See You Stripped, Down to the Bone.md",
+    "SerialRavist - Orchestating the Silence.md",
+    "AngelNo13Bardiel - Go back to sleep, precious.md",
+    "AngelNo13B - Sing this corrosion to me.md",
+    "CollectionPDF/AngelNo13Bardiel三部曲.pdf",
+    "CollectionPDF/新生 The 2nd try.pdf",
     "CollectionPDF/漫长的告白（新世纪福音战士嗣香同人合集）.pdf",
-    "kikushiro - Beautiful World.epub",
-    "随身听- 无限抱拥.epub",
-    "CollectionPDF/kikushiro - Beautiful World.epub",
-    "CollectionPDF/随身听- 无限抱拥.epub",
-    "YourBlandestNightmare - Broken Hands.md",
-    "YourBlandestNightmare - Come To Me, In The Bitter Winter.md",
-    "YourBlandestNightmare - Eight Notes.md",
-    "YourBlandestNightmare - Lucky Rolls.md",
-    "YourBlandestNightmare - Till Booze Do Us (Not) Part.md",
-    "YourBlandestNightmare - Summer Contest：A Reminder That I Hated You.md",
-    "SheriffJohnStone - Moon.md",
-    "SamJaz - Walls of Jericho.md",
-    "Da Games Elite - The Little Angel.md",
-    "CollectionPDF/EVA同人合集.pdf",
-    "CollectionPDF/EVA同人合集（碇真嗣×明日香）.pdf",
-    "CollectionPDF/EVA同人合集（第二辑）.pdf",
-    "Daquarma - ❤️Open Your Eyes.md",
-    "CollectionPDF",
-    "EVA同人合集（第二辑）.pdf",
-    "DeadlyPole - 🍋Shinji and Asuka.md",
-    "Da Games Elite - In the Case of Asuka Langley Sohryu.md",
-    "Consciousness Rising - Peace and Company.md",
-    "Bardic Jester - This Way.md",
-    "Karina Kineshi - ❤️On Growing Roses.md",
+    "Toasterman、94Saturn - A Glass of Wine.md",
+    "Axel Terizaki - Asuka, Will You Dance With Me？.md",
+    "CollectionPDF/A Glass of Wine.pdf",
+    "CollectionPDF/[翻译]Asuka, Will You Dance With Me.pdf",
+    "Axel Terizaki - Shinji, will you dance with me？.md",
+    "atare - Asushin Winter Contest - Crunching Snow.md",
+    "Aki-Chan04 - ❤️Das Ewige Dasein (The Eternal Life).md",
+    "AgentKaji - The Second Impact.md",
+    "AgentKaji - A Recipe for Trouble.md",
+    "AgentKaji - ❤️The Asuka Variations.md",
+    "CollectionPDF/[翻译]Shinji, Will You Dance With Me.pdf",
+    "JimmyWolk - The Second Try.md",
+    "CollectionPDF/Shinji, Will You Dance With Me.pdf",
+    "CollectionPDF/Asuka, Will You Dance With Me.pdf",
+    "CollectionPDF/~$INJI,WILL YOU DANCE WITH ME（翻译） 1.docx",
+    "CollectionPDF/~$UKA, WILL YOU DANCE WITH ME（翻译） 1.docx",
+    "Axel Terizaki -.md",
+    "JimmyWolk -.md",
+    "Random1377 - Sanshuunoomoi.md",
+    "TalonEmpire - You Can (Not) Redo.md",
+    "Red Horseman - Pheonix Rising.md",
     "Karina Kineshi - To My Dearest Honey.md",
-    "Karina Kineshi - A Beautiful Day for Piggyback Rides.md",
-    "Norsehound - Asuka's Birthday.md",
-    "Norsehound - Splint.md",
-    "Ohimesama - I will look you in the eye.md",
-    "Norsehound - Panacea.md",
-    "Norsehound - Longing.md",
-    "Norsehound - From Dust (ROE).md",
-    "Norsehound - ❤️Lazarus Sense.md"
+    "Donderkind - Unbroken.md",
+    "Donderkind - Neon Genesis Evangelion：Propinquity.md",
+    "Eric Blair - 30 Kisses, 30 Ways Asuka and Shinji.md",
+    "m3m3nt0v1v3r3 - Dreams of a Distant.md",
+    "MisterHalt - You Are (Not) At Fault.md",
+    "RLLRRR - ❤️Asuka&Shinji's Infinite Playlist.md",
+    "MisterHalt - ❤️Read The Fine Print.md"
   ]
 }
