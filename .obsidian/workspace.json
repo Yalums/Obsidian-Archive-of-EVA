@@ -4,46 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2dad683a52c2c16",
+        "id": "ea387e39b4b4b302",
         "type": "tabs",
         "children": [
           {
-            "id": "689771af73d562f3",
+            "id": "2d9a83d935a87f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YourBlandestNightmare - What Comes After Winter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9201e8479ad00d6f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CollectionPDF/漫长的告白（新世纪福音战士嗣香同人合集）.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9ef23ba36231fe87",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "698460dee3559ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yih - So I Love You Now.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yih - So I Love You Now.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yih - So I Love You Now.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yih - So I Love You Now.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,17 +146,21 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "cae18b189083064c",
+  "active": "2d9a83d935a87f02",
   "lastOpenFiles": [
+    "YourBlandestNightmare - What Comes After Winter.md",
+    "CollectionPDF/漫长的告白（新世纪福音战士嗣香同人合集）.pdf",
+    "kikushiro - Beautiful World.epub",
+    "随身听- 无限抱拥.epub",
+    "CollectionPDF/kikushiro - Beautiful World.epub",
+    "CollectionPDF/随身听- 无限抱拥.epub",
     "YourBlandestNightmare - Broken Hands.md",
     "YourBlandestNightmare - Come To Me, In The Bitter Winter.md",
     "YourBlandestNightmare - Eight Notes.md",
     "YourBlandestNightmare - Lucky Rolls.md",
-    "YourBlandestNightmare - What Comes After Winter.md",
     "YourBlandestNightmare - Till Booze Do Us (Not) Part.md",
     "YourBlandestNightmare - Summer Contest：A Reminder That I Hated You.md",
     "SheriffJohnStone - Moon.md",
-    "CollectionPDF/漫长的告白（新世纪福音战士嗣香同人合集）.pdf",
     "SamJaz - Walls of Jericho.md",
     "Da Games Elite - The Little Angel.md",
     "CollectionPDF/EVA同人合集.pdf",
@@ -194,8 +169,6 @@
     "Daquarma - ❤️Open Your Eyes.md",
     "CollectionPDF",
     "EVA同人合集（第二辑）.pdf",
-    "EVA同人合集.pdf",
-    "EVA同人合集（碇真嗣×明日香）.pdf",
     "DeadlyPole - 🍋Shinji and Asuka.md",
     "Da Games Elite - In the Case of Asuka Langley Sohryu.md",
     "Consciousness Rising - Peace and Company.md",
@@ -209,7 +182,6 @@
     "Norsehound - Panacea.md",
     "Norsehound - Longing.md",
     "Norsehound - From Dust (ROE).md",
-    "Norsehound - ❤️Lazarus Sense.md",
-    "jcmoorehead - The Division Bell.md"
+    "Norsehound - ❤️Lazarus Sense.md"
   ]
 }
