@@ -4,161 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "ea387e39b4b4b302",
+        "id": "254f2435f25653c2",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "2d9a83d935a87f02",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CollectionPDF/Asuka & Shinji's Infinite Playlist(1-21).pdf"
-              }
-            }
-          },
-          {
-            "id": "b288be7365691009",
+            "id": "3eef67ad8105fb20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RLLRRR - ❤️Asuka&Shinji's Infinite Playlist.md",
+                "file": "Red Horseman - The More Things Change.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb4265ac9c5646d3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CollectionPDF/You Are (Not) at Fault 你（没）有错 全文翻译.pdf"
-              }
-            }
-          },
-          {
-            "id": "a62972abd882eb61",
+            "id": "8567def813ff5855",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "m3m3nt0v1v3r3 - Dreams of a Distant.md",
+                "file": "Glory-To-Our-August-King - ❤️❤️Amarantos.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "d3be062b5c69658c"
           },
           {
-            "id": "7b747532fba47aa3",
+            "id": "bd3ee54872275b14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eric Blair - 30 Kisses, 30 Ways Asuka and Shinji.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "178bfddd18641a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Donderkind - Neon Genesis Evangelion：Propinquity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0df9433e9955cad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karina Kineshi - To My Dearest Honey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff9c95caf0c1a28d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Horseman - Pheonix Rising.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee212f634c309768",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CollectionPDF/新生 The 2nd try.pdf"
-              }
-            }
-          },
-          {
-            "id": "f162476866302f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AngelNo13Bardiel - Go back to sleep, precious.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f318132a79a6492e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AngelNo13Bardiel - Let Me See You Stripped, Down to the Bone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ebd71afd21f8115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AngelNo13Bardiel - Let Me See You Stripped, Down to the Bone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "267d144a05858a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SerialRavist - Orchestating the Silence.md",
+                "file": "Red Horseman - The More Things Change.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
+      },
+      {
+        "id": "98aa63b86997f6c0",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "1cd1f31a870ee566",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Glory-To-Our-August-King - ❤️❤️Amarantos.md"
+              }
+            },
+            "group": "d3be062b5c69658c"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:a glass of wine",
+                "query": "file:an inside",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -204,7 +110,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -224,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SerialRavist - Orchestating the Silence.md",
+                "file": "Glory-To-Our-August-King - ❤️❤️Amarantos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SerialRavist - Orchestating the Silence.md",
+                "file": "Glory-To-Our-August-King - ❤️❤️Amarantos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SerialRavist - Orchestating the Silence.md"
+                "file": "Glory-To-Our-August-King - ❤️❤️Amarantos.md"
               }
             }
           }
@@ -285,14 +192,35 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "267d144a05858a46",
+  "active": "2f4432c7012e8683",
   "lastOpenFiles": [
+    "TalonEmpire - ❤️The One In Your Life.md",
+    "Glory-To-Our-August-King - ❤️❤️Amarantos.md",
+    "E.D.C. - That Night (not translatedyet).md",
+    "Red Horseman - The More Things Change.md",
+    "Random1377 - The Third Side.md",
+    "Ret Nuh - The Swim of Things.md",
+    "Random1377 - Asuka, Shinji, and the Thousand Cranes.md",
+    "CollectionPDF/AngelNo13Bardiel三部曲.pdf",
+    "CollectionPDF/新生 The 2nd try.pdf",
+    "MisterHalt - ❤️Read The Fine Print.md",
+    "CollectionPDF/You Are (Not) at Fault 你（没）有错 全文翻译.pdf",
+    "CollectionPDF/Asuka & Shinji's Infinite Playlist(1-21).pdf",
+    "m3m3nt0v1v3r3 - Dreams of a Distant.md",
     "AngelNo13Bardiel - Let Me See You Stripped, Down to the Bone.md",
+    "AgentKaji - A Recipe for Trouble.md",
+    "Obsidian-Archive-of-EVA.7z",
+    "A Writer With No Name - Asuka's First Back Rub.zip",
+    "AgentKaji - ❤️The Asuka Variations.md",
+    "A. LaRosa - Schadenfreude.md",
+    "A. LaRosa - Rough Waters.md",
+    "A. LaRosa - Forgiveness.md",
+    "A Writer With No Name - Strip Poker.md",
+    "A Writer With No Name - Therapy (Shinji x Asuka).md",
+    "A Writer With No Name - Asuka's First Back Rub.md",
     "SerialRavist - Orchestating the Silence.md",
     "AngelNo13Bardiel - Go back to sleep, precious.md",
     "AngelNo13B - Sing this corrosion to me.md",
-    "CollectionPDF/AngelNo13Bardiel三部曲.pdf",
-    "CollectionPDF/新生 The 2nd try.pdf",
     "CollectionPDF/漫长的告白（新世纪福音战士嗣香同人合集）.pdf",
     "Toasterman、94Saturn - A Glass of Wine.md",
     "Axel Terizaki - Asuka, Will You Dance With Me？.md",
@@ -301,27 +229,6 @@
     "Axel Terizaki - Shinji, will you dance with me？.md",
     "atare - Asushin Winter Contest - Crunching Snow.md",
     "Aki-Chan04 - ❤️Das Ewige Dasein (The Eternal Life).md",
-    "AgentKaji - The Second Impact.md",
-    "AgentKaji - A Recipe for Trouble.md",
-    "AgentKaji - ❤️The Asuka Variations.md",
-    "CollectionPDF/[翻译]Shinji, Will You Dance With Me.pdf",
-    "JimmyWolk - The Second Try.md",
-    "CollectionPDF/Shinji, Will You Dance With Me.pdf",
-    "CollectionPDF/Asuka, Will You Dance With Me.pdf",
-    "CollectionPDF/~$INJI,WILL YOU DANCE WITH ME（翻译） 1.docx",
-    "CollectionPDF/~$UKA, WILL YOU DANCE WITH ME（翻译） 1.docx",
-    "Axel Terizaki -.md",
-    "JimmyWolk -.md",
-    "Random1377 - Sanshuunoomoi.md",
-    "TalonEmpire - You Can (Not) Redo.md",
-    "Red Horseman - Pheonix Rising.md",
-    "Karina Kineshi - To My Dearest Honey.md",
-    "Donderkind - Unbroken.md",
-    "Donderkind - Neon Genesis Evangelion：Propinquity.md",
-    "Eric Blair - 30 Kisses, 30 Ways Asuka and Shinji.md",
-    "m3m3nt0v1v3r3 - Dreams of a Distant.md",
-    "MisterHalt - You Are (Not) At Fault.md",
-    "RLLRRR - ❤️Asuka&Shinji's Infinite Playlist.md",
-    "MisterHalt - ❤️Read The Fine Print.md"
+    "CollectionPDF/[翻译]Shinji, Will You Dance With Me.pdf"
   ]
 }
