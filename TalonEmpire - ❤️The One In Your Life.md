@@ -13,8 +13,7 @@ I'm not a native English speaker so I sincerely hope someone may find this idea 
 我不是英语母语者，所以衷心希望有人会觉得这个想法有趣并加以拓展。尽管拿走我的想法，然后放手去做吧。
 
 ---
-**Chapter 1: Prologue: Here We Go Again  
-第一章：序章：我们又来了**
+### Chapter 1: Prologue: Here We Go Again  
 
 _"As of 01:12:30 PM today, a special state of emergency has been declared for the Kanto and Chubu regions surrounding the Tokai district. All residents must evacuate to their designated shelters immediately. Repeating: As of 01:12:30 PM today, the Kanto and Chubu regions surrounding the Tokai district have been declared to be under a state of emergency. All residents must evacuate to their designated shelters immediately."  
 截至今天下午 1 点 12 分 30 秒，已宣布对围绕东海地区的关东和中部地区实施特别紧急状态。所有居民必须立即撤离至指定避难所。重复：截至今天下午 1 点 12 分 30 秒，围绕东海地区的关东和中部地区已被宣布进入紧急状态。所有居民必须立即撤离至指定避难所。_
@@ -5490,6 +5489,204 @@ AN: Maybe you've noticed, I don't fancy writing battles that aren't significant.
 ## *Chapter 18*: Chapter 18: Flux  
 *第十八章*: 第十八章：变迁
 
+an and threw it on the floor. "This should be professional soldiers' job! Just what the hell is NERV planning on?!" She glanced at Kaji. "Kaji…do you know how do they find the pilots?"  
+“他们还是孩子，该死！”美里提高音量，将啤酒罐压碎，扔到地板上。 “这应该是职业军人的工作！NERV到底想搞什么鬼？！”她看了加吉一眼。 “加持……你知道他们是怎么找到飞行员的吗？”
+
+Ryoji blinked, taken back by the intense curiosity of the Major of NERV. "The Marduk institute, of course," he knew it was a lie, but it was the only answer Misato needed to hear. He really didn't want to drag the woman he loved down the pit.  
+良司因 NERV 少校强烈的好奇心而眨了眨眼。 “当然是马杜克学院，”他知道这是一个谎言，但这是美里唯一需要听到的答案。他实在不想把自己心爱的女人拖入深渊。
+
+"I know that," Misato turned his gaze to the man standing next to her. "But how? How do they pick out pilots? Is there like some sort of test they take, or something?"  
+“我知道。”美里将目光转向站在她身边的男人。 “但是如何？他们如何挑选飞行员？他们是否参加了某种测试，或者其他什么？”
+
+Kaji had trouble feeding the woman lies. One day she'd learn the truth. Today was not that day, however. "You could say that, I guess. Though they're not exactly traditional tests." He wasn't necessarily lying, but he wasn't giving her anywhere near the whole truth either.  
+加治很难向这个女人撒谎。有一天她会知道真相。然而，今天不是那一天。 “我想你可以这么说。尽管它们并不完全是传统的测试。”他不一定是在撒谎，但他也没有告诉她全部真相。
+
+"What a load of bullshit…" She could give Asuka a pass at that, but nothing in Shinji's file indicated he was tested by any means. "But Shinji's records-"  
+“真是一派胡言……”她可以让明日香通过，但真嗣的档案中没有任何内容表明他接受过任何测试。 “但是真嗣的记录——”
+
+"Do you seriously believe anything from his file anymore, Katsuragi?" Kaji cut her off with a firm voice as he recollected his interactions with the supposedly-shy-and-reserved boy. "From what I see, the Shinji we know could be said as a complete antithesis to what his file describes."  
+“葛城，你真的相信他档案中的任何内容吗？”梶回想起自己与这个看似害羞、矜持的男孩的互动，用坚定的声音打断了她的话。 “据我所知，我们所知道的真嗣可以说与他的档案描述完全相反。”
+
+"But who else could he be?!" Even though she didn't want to, she still had to admit that Kaji had a point. Still, if she had to choose between 'someone else replaced him' and 'his personality changed', the latter would look like a more believable one based on Occam's razor. "We've done so many tests on the pilots we could literally map the cellular structure of their bodies."  
+“但他还能是谁？！”虽然她不愿意，但她还是不得不承认加持说的有道理。不过，如果她必须在“其他人取代了他”和“他的性格改变了”之间做出选择，根据奥卡姆剃刀原理，后者看起来更可信。 “我们对飞行员进行了如此多的测试，我们可以准确地绘制出他们身体的细胞结构。”
+
+"It's just a feeling I have…" Kaji looked up at the night sky. At the moment a piece of cloud once again blocked the moonlight that had just broken out of the overcast. "Sometimes…he reminds me of the commander."  
+“这只是我的一种感觉……”卡吉抬头看着夜空。此刻，一片云彩再次挡住了刚刚从阴天中透出来的月光。 “有时候……他让我想起了指挥官。”
+
+Misato felt a chill ran down her spine, both at the mention of the mysterious and dreadful supreme leader of NERV and the recollection of Shinji's certain actions. "A boy at his age…" His thoughts turned to Asuka. The two seemed not on a good term recently, at least Asuka looked like she was actively avoiding him. Why would she do that? Did he do something improper?  
+一提到NERV神秘而可怕的最高领袖，一想到真嗣的某些举动，美里就感到脊背发凉。 “一个像他这个年纪的男孩……”他的思绪转向明日香。两人最近的关系似乎不太好，至少明日香看起来是在主动躲避他。她为什么要这么做？他是不是做了什么不正当的事？
+
+"The Commander…do you know what he's up to? You two seem…close," the lavender-haired Major diverted the subject. It was another thing she desired to know.  
+“指挥官……你知道他在做什么吗？你们两个看起来……很亲密。”淡紫色头发的少校转移了话题。这是她想知道的另一件事。
+
+"I'd rather drink tea," Kaji said in an expression that questioned her intelligence.  
+“我宁愿喝茶，”梶说道，表情质疑她的智商。
+
+"Wha-that's not what I meant!" Blushing slightly, Misato hastily waved her hand in repudiation. "I want to know…why the Angels attack us? Why here, of all places?"  
+「什、我不是那个意思！」美里脸色微红，连忙摆手表示否认。 “我想知道……为什么天使攻击我们？为什么是这里？”
+
+"I'm…digging on it," Kaji responded discreetly. In a way, he wasn't lying. He knew what Adam was about, but other than that…he still had a lot to search for. And he intended to put in more effort. Chuckling, he added, "you're just full of questions today, Katsuragi."  
+“我正在……挖掘它，”卡吉谨慎地回答。从某种程度上来说，他并没有说谎。他知道亚当是做什么的，但除此之外……他还有很多东西需要寻找。并且他还打算付出更多的努力。他笑着补充道，“葛城，你今天充满了疑问。”
+
+"It's just I feel like I've been kept in the dark a lot…and I want to know what's going on."  
+“只是我觉得我一直被蒙在鼓里……我想知道发生了什么事。”
+
+Kaji threw his gaze forward as the rising moon peeked through the cracks between the thick Cumulonimbus. "Trust me Katsuragi," he narrowed his eyes slightly to express his own frustration with seeking out the truth. "We all want to know what's going on."  
+当升起的月亮从厚厚的积雨云之间的缝隙中探出头来时，梶将目光投向前方。 “相信我，葛城，”他微微眯起眼睛，表达自己对寻找真相的挫败感。 “我们都想知道发生了什么事。”
+
+"Kaji…" Misato's voice suddenly turned softer. "Shinji and Asuka…now they look happy together. What about us?"  
+“加持……”美里的声音突然变得柔和起来。 “真嗣和明日香……现在他们看起来很幸福。我们呢？”
+
+"I know a place just outside the city perimeter. How about after tomorrows' sync test?"  
+“我知道城外有一个地方。明天的同步测试之后怎么样？”
+
+"Alright, but you're paying."  
+“好吧，不过你要付钱。”
+
+XXXXXX
+
+Inside NERV's testing chamber, Dr. Akagi and Major Katsuragi patiently stood by as they watched the varying synch rates fluctuate on the monitor. "Pilot Soryu and Pilot Ayanami's results are stabilizing," Maya Ibuki reported, watching the readings on the monitor. "Pilot Ikari's sync rate is still fluctuating between 75 and 85 percent!"  
+在 NERV 的测试室内，赤城博士和桂木少校耐心地站在一旁，观看监视器上不同的同步率波动。 “飞行员 Soryu 和飞行员 Ayanami 的成绩正在稳定，”伊吹麻也一边看着显示器上的读数，一边报告道。 “碇飞行员的同步率仍然在百分之七十五到百分之八十五之间波动！”
+
+"How am I doing, Misato?" So came Asuka's inquisitive yet slightly nervous voice.  
+“我怎么样，美里？”明日香好奇又略带紧张的声音传来。
+
+"You're at 80 percent, good job Asuka!"  
+“你已经完成了百分之八十，干得好，明日香！”
+
+The redhead pouted and cut off the video feed. Her sync rate had been steadily increasing since the battle against Sandalphon, where she initially reached a sync rate of 85 percent, with the highest point at 90 percent. In fact, in the first sync test after the battle, she could already get a 75 percent, a new personal high for her during sync tests.  
+红发人撅起嘴，切断了视频。自从与桑多芬一战之后，她的同步率就一直在稳步提升，最初达到了85%的同步率，最高达到了90%。事实上，在战斗结束后的第一次同步测试中，她就已经达到了75%，创下了她个人同步测试的新高。
+
+However, her goal was to surpass the invincible Shinji-sama; she wasn't going to be satisfied just by refreshing her own records. The difference between their sync rates had always been minuscule yet unsurpassed, and it frustrated her.  
+但她的目标是超越无敌的真嗣大人；她不会仅仅满足于刷新自己的记录。他们的同步率之间的差异一直很小但却是无与伦比的，这让她感到沮丧。
+
+The Third Child, on the other hand, was having a turmoil of thoughts in his mind. After Asuka's sync rates had gotten close to his, every sync test became a dilemma. He could intentionally lower his sync rates and easily let her win, but was it the best choice? He couldn't hide his true colors in battles, and once she found out that he…_pitied_ her by letting her win, her pride would be in shambles.  
+而老三，心中却是思绪纷乱。当明日香的同步率接近他时，每次同步测试都变得两难。他可以故意降低同步率，轻松让她获胜，但这是最好的选择吗？他在战斗中无法掩饰自己的真面目，而一旦她发现他……怜悯她而让她获胜，她的自尊心就会荡然无存。
+
+And it would _not_ end well.  
+而且结局不会好。
+
+_"You were slacking off during the sync tests on purpose, weren't you?!"  
+“你在同步测试的时候是故意偷懒的吧？！”_
+
+_"I'd rather die, than be pitied by the likes of you!"  
+“我宁愿死，也不愿被你们这样的人可怜！”_
+
+But he couldn't occupy the top spot forever, either. During his first few cycles, he was having fun by surpassing her sync rate just by a notch in every sync test, and it wasn't until later he learned how much it could hurt her.  
+但他也不可能永远占据第一的位置。在他最初的几个周期中，他在每次同步测试中都比她的同步率高出一个档次，这让他很开心，直到后来他才知道这会对她造成多大的伤害。
+
+"Shinji, focus!" Misato's voice echoed through his test plug, snapping him out of his dark train of thoughts. Nevertheless, he still couldn't shake them off…today Asuka's sync rate was closer to his than ever before.  
+“慎二，集中注意力！”美里的声音在他的测试插头中回响，把他从黑暗的思绪中拉了出来。尽管如此，他还是无法摆脱它们……今天明日香的同步率比以往任何时候都更接近他。
+
+"His sync rate is taking a significant drop compared to the last sync test," Ritsuko remarked. "A whole two points of decrease…how very concerning."  
+“与上次同步测试相比，他的同步率显着下降，”Ritsuko 评论道。 “整整减少了两个点……真是令人担忧。”
+
+Misato raised an eyebrow as she saw the stabilized results on the screen. She opened a comm channel to Unit 02's test plug and spoke into the microphone, "Asuka, keep up the good work! Your sync rate surpassed Shinji's by 0.5 percent! You're number one!"  
+看到屏幕上稳定下来的结果，美里扬起了眉毛。她打开了02号机测试插头的通讯通道，对着麦克风说道：“明日香，继续努力！你的同步率比真嗣高了0.5%！你是第一！”
+
+"YYYEESS!" Instantly came the thunder-loud redheaded shriek that made several people in the observation room grimace. "You heard that, Shinji?! Heh, of course the ace Evangelion Pilot is none other than myself! Spiking up and down like you…Hah! You've got to be stable to be the best!"  
+“是啊是啊！”紧接着，一声雷鸣般的红发尖叫声，让观察室里的几个人都皱起了眉头。 「你听到了吗，真嗣？！嘿，新世纪福音战士的王牌飞行员当然不是别人，就是我！像你一样上下波动……哈！你必须稳定才能成为最好的！」
+
+Shinji let out a chuckle. If the results were set…  
+慎二发出一声轻笑。如果结果已定……
+
+"Asuka, I knew you're amazing. I'm so glad that you're here with us."  
+“明日香，我知道你很棒。我很高兴你和我们在一起。”
+
+Asuka blinked. She did _not_ expect him to say something like this. Blushing slightly, she added, "well, so you've finally taken note of my brilliance." A smirk bloomed on her face, "then leave the next Angel to me! And you, First Child," her smirk turned into a smug grin. "You're just left in the dust."  
+明日香眨了眨眼睛。她没想到他会说出这样的话。她脸色微红，补充道：“好吧，你终于注意到了我的才华。”她脸上绽放出一抹坏笑，“那就把下一个天使留给我吧！还有你，老大。”她的坏笑变成了得意的笑容。 “你就只剩下尘埃了。”
+
+"Don't get too hyped, Asuka." Ritsuko's cut off her bragging with a cooling voice. "Although your sync rate is number one right now, it's still nowhere near as high as Eighth Angel, though."  
+「明日香，别太激动了。」律子用冷静的声音打断了她的吹牛。 “虽然你现在的同步率是第一，但还是比不上第八天使。”
+
+"Well, if anything, the problem is on your side!"  
+“好吧，如果有的话，问题就在你这边！”
+
+Ritsuko rolled her eyes, tapping her pencil onto her clipboard. "Lower her a bit farther into the contamination zone."  
+律子翻了个白眼，用铅笔敲着写字板。 “把她放低一点，进入污染区。”
+
+"Rits!" Misato exclaimed unbelievingly. "How is this safe?! She's already close to the contamination zone as it is! What do you think you are doing!"  
+“律！”美里不可置信地惊呼道。 “这怎么安全？！她已经接近污染区了！你以为你在做什么！”
+
+"True," She replied nonchalantly, not really caring about now the Major of NERV. "But I want to test something." As Asuka was lowered farther into the contamination zone, Akagi looked closely at her score. The alarm sounded, yet no change was spotted. "Figures..." She shook her head in disappointment. "Pull her back." The alarm silenced, and Misato let out a sigh of relief as Asuka was removed from the contamination zone.  
+“是的，”她漫不经心地回答，现在已经不太关心NERV少校了。 “但我想测试一些东西。”当明日香进一步下降到污染区时，赤城仔细观察了她的分数。警报拉响，却没有发现任何变化。 “数字……”她失望地摇摇头。 “把她拉回来。”警报消失了，当明日香被移出污染区时，美里松了口气。
+
+"What the hell was that, Rits?!" Misato shouted into her college friend's face, a deep scowl on her face.  
+“那到底是什么啊，里兹？！”美里对着她大学朋友的脸喊道，她的脸上满是深深的愁容。
+
+The blonde doctor let out another sigh. "Pushing her into the contamination zone had little effect on her sync rate…I want to know what made her able to pilot again, with such a high sync rate."  
+金发医生又叹了口气。 “将她推入污染区对她的同步率几乎没有影响......我想知道是什么让她能够以如此高的同步率再次驾驶。”
+
+Misato narrowed her eyes, "well, I guess since at that time she was the only hope, her survival instinct must've taken over."  
+美里眯起眼睛，“好吧，我想既然那时她是唯一的希望，她的求生本能一定占了上风。”
+
+"That's what I thought first. But her sync rate took another spike after we told her Shinji was okay." The head of Project E threw a look at the Major of NERV.  
+“我一开始也是这么想的。但在我们告诉她真嗣没事后，她的同步率再次飙升。” E计划负责人看了NERV少校一眼。
+
+"Where are you getting at? Just stop beating around the bush already!"  
+“你到底想说什么？别再拐弯抹角了！”
+
+"Tell me, Misato," Ritsuko shut off her notebook. "Are they…romantically involved?"  
+“告诉我，美里。”律子关上了笔记本。 “他们……有浪漫关系吗？”
+
+Misato's expression first turned thoughtful before shaking her head in denial. "Not that I know of. They are pretty friendly to each other, but that's it."  
+美里的表情先是若有所思，然后摇头否认。 “据我所知，没有。他们彼此非常友好，但仅此而已。”
+
+"Well if the two do get together, I advise you to make sure they keep it under wraps," Ritsuko remarked before she instructed Maya to end the tests for today.  
+“好吧，如果两人真的在一起了，我建议你确保他们保密，”律子在指示玛雅结束今天的测试之前说道。
+
+Misato raised an eyebrow. "Why's that?"  
+美里扬起一边眉毛。 “为什么？”
+
+"What do you think how Commander Ikari would react if he learns that two of his pilots are dating?" The faux blonde made a sly grin as she continued. "Office relationships could be disastrous, and you should know that better than anyone else."  
+“你觉得如果碇司令得知他的两名飞行员正在约会，他会作何反应？”假金发女郎继续说道时露出了狡猾的笑容。 “办公室关系可能是灾难性的，你应该比任何人都清楚这一点。”
+
+The ex-girlfriend of a particular special inspector rolled her eyes.  
+某位特别督察的前女友翻了个白眼。
+
+XXXXXX
+
+Even after the sync test that could be considered a grand victory, Asuka still couldn't get rid of the emptiness that had been haunting her recently. As she and Shinji went on their respective ways from in front of the door of the female changing room, Asuka had kept her gaze on Shinji's back until his silhouette disappeared around the corner. She sighed and turned around, just to be surprised by the sudden emergence of Kaji Ryoji from behind the vending machine. Before she could say anything, the husky man started, "you like him, don't you?"  
+即使在这场堪称大胜的同步测试之后，明日香仍然无法摆脱最近困扰她的空虚感。当她和真嗣从女更衣室门前各自走去时，明日香的目光一直注视着真嗣的背影，直到他的身影消失在拐角处。她叹了口气，转身，却惊讶地发现自动售货机后面突然出现了梶良治。还没等她说话，壮汉就开口了：“你喜欢他，不是吗？”
+
+Asuka blinked, taken aback by the abrupt question. "Wha-what?! As if I'd ever like that baka!" Hastily denying on reflex, she pouted while couldn't help but blush a little.  
+明日香被这突如其来的问题吓了一跳，眨了眨眼睛。 “什-什么？！好像我会喜欢那个baka！”她本能地连忙否认，撅起嘴，不禁脸红了一些。
+
+"You don't need to hide it from me, Asuka," Kaji smirked, shaking the coffee can in his hand. "You know how well I know you."  
+“你不需要对我隐瞒，明日香。”梶傻笑着摇晃着手中的咖啡罐。 “你知道我有多了解你。”
+
+"Whatever…" Asuka huffed in resignation.  
+“随便吧……”明日香无奈地叹了口气。
+
+"I take things are going swimmingly between you two?" Kaji winked at her, using an overly courteous tone that Asuka didn't like to hear from him.  
+“我觉得你们两个之间进展得很顺利吧？”加持对她眨了眨眼，语气过于礼貌，明日香不喜欢听到他这样说。
+
+"Not really…" Slumping her shoulders, Asuka admitted.  
+“其实也不是……”明日香垂下肩膀承认道。
+
+Kaji narrowed his eyes ever so slightly after he heard her words. Leaning closer, he said, "So things aren't going well?"  
+听到她的话，梶微微眯起了眼睛。他凑近了一些，说道：“所以事情进展不顺利？”
+
+"I…" Asuka fixed her gaze at the wall beside her, her left feet nervously twitching. "I don't know…I guess I like him…but I'm scared of getting close to him. I don't know what he wants from me…or rather, I don't know what I can do to reciprocate the effort." She clenched her fists, letting out a frustrated groan. "Damn it...why does he have to be like this?!"  
+“我……”明日香盯着旁边的墙壁，左脚紧张地抽搐着。 “我不知道……我想我喜欢他……但我害怕接近他。我不知道他想从我这里得到什么……或者更确切地说，我不知道我能做些什么来回报他努力。”她握紧了拳头，发出一声沮丧的呻吟。 “可恶……他为什么要这样？！”
+
+"Let me guess… he's unrealistically good to you?" Seeing Asuka nod hesitantly, Kaji rubbed his chin and continued, "think about it this way…even if you found that reason someday…at that point you'd have already lost everything, and there's nothing you can do besides regretting it." Asuka went wide-eyed. "You won't know what you have until you lose them. If after everything and he's gone…how would you take it? Even under such a situation, are you still going to deny your own feelings?"  
+“让我猜猜……他对你太好了？”看到明日香犹豫地点点头，梶摸了摸下巴，继续道：“这样想想……就算有一天你找到了那个理由……到时候你就已经失去了一切，除了后悔，也没有什么办法。”明日香睁大了眼睛。 “直到失去他们，你才会知道自己拥有什么。如果一切之后，他都走了……你会如何接受？即使在这样的情况下，你还会否认自己的感情吗？”
+
+Asuka bit down on her lips as she processed Kaji's words. Recalling Shinji and wondergirl's interactions had always brought a tingle of jealousy in her chest, and the thought of completely losing him…  
+明日香咬着嘴唇，处理着加持的话。回想起真嗣和wondergirl的互动，她的胸口总是升起一股嫉妒的刺痛，一想到要彻底失去他……
+
+Asuka felt a chilling shiver assaulted her entire body.  
+明日香感觉全身一阵寒意袭来。
+
+"Me and Katsuragi…we went through a lot more than you guys…emotionally, I mean. We danced around each other for a long time...You're walking on the path I and Katsuragi couldn't take," Kaji droned on before chuckling in resignation. "Well, who am I to act like I have all the answers?" He patted her shoulders lightly. "But in the end, you need to make your own decision, Asuka. Just make sure you won't regret it in the future." Waving his hand, the special inspector walked away, leaving a silent redhead with the blizzard of emotions in her head.  
+“我和葛城……我们经历了比你们多得多的事情……我是说，在情感上。我们围着对方跳舞了很长一段时间……你们走的是我和葛城无法走的路，”梶子嗡嗡地说。在咯咯地笑着辞职之前。 “好吧，我是谁，可以表现得好像我知道所有答案？”他轻轻拍了拍她的肩膀。 “但最终，你需要做出自己的决定，明日香。只要确保你将来不会后悔就好。”特派督察挥了挥手，走开了，留下一个沉默的红发女郎，脑子里充满了暴风雪般的情绪。
+
+XXXXXX
+
+AN: I hope someone can catch the references of a certain manga and doujin I put in there…Hahaha. Special thanks to SheriffJohnStone, bandiras2, somedude234, Skyf0x, JenkoRun, spartman2, ChaosDisposal, Asushin Shippher, and a guest reviewer's reviews!  
+AN：我希望有人能看到我放在那里的某个漫画和同人的参考资料……哈哈哈。特别感谢 SheriffJohnStone、bandiras2、somedude234、Skyf0x、JenkoRun、spartman2、ChaosDisposal、Asushin Shippher 和一位特邀评论者的评论！
+
 ## *Chapter 19*: Chapter 19: Turning Point  
 *第十九章*: 第十九章：转折点
 
@@ -8114,6 +8311,326 @@ AN：好吧，这一章涉及的政治内容并不代表我个人观点。如果
 
 ## *Chapter 26*: Chapter 26: Transparency  
 *第 26 章*: 第 26 章：透明度
+
+"That was a hell of a bolt," the copilot hissed, still frightened by the intensity of the lightning.  
+"那真是一道可怕的闪电，"副驾驶低声说道，仍被雷电的强度吓得不轻。
+
+"Relax. This plane is designed to take much worse." The captain remarked. "See, the systems are getting back to normal."  
+"放松。这架飞机设计得能承受更糟糕的情况。"机长评论道。"看，系统正在恢复正常。"
+
+"We should've waited for the thunderstorm to dissipate before we take off," the copilot said.  
+"我们应该等雷暴消散后再起飞，"副驾驶说。
+
+"It's not our decision. NERV values punctuality."  
+"这不是我们能决定的。NERV 重视准时。"
+
+"Let's just get this over with. Increasing the altitude to forty thousand feet."  
+"赶紧把这事搞定吧。增加高度到四万英尺。"
+
+Under the transport plane, the eyes of Unit 04 dimmed.  
+在运输机下，04 号机组的眼睛暗淡了下来。
+
+XXXXXX
+
+"How rare of you coming out with us, Shinji," said Kensuke happily as he walked along with Shinji and Toji from school. "I thought you'd spend all your time with the Red-err Soryu-san."  
+“你居然会跟我们一起出来，真难得啊，真嗣，”健介高兴地说，他和真嗣、东治一起从学校走出来。“我还以为你会整天和红——呃，惣流同学在一起呢。”
+
+Shinji smiled. Indeed he preferred spending more time with Asuka, especially now that they're together, but today Asuka went shopping with Hikari for cosmetics and accessories. She clearly stated that she didn't want him to tug along since she wanted to surprise him for their date tomorrow. "Well, I finally get out from the Devil's grasp."  
+真嗣笑了笑。确实，他更喜欢和明日香在一起，尤其是现在他们在一起了，但今天明日香和光去买化妆品和饰品了。她明确表示不想让他跟着，因为她想在明天的约会中给他一个惊喜。“好吧，我终于从恶魔的掌控中解脱出来了。”
+
+"Hey Shinji," Kensuke lowered his voice into a near-whisper, a tone Shinji knew all too well. "I heard Unit 04 is coming to Japan?"  
+"嘿，真嗣，" 健介压低了声音，近乎耳语，这种语调真嗣再熟悉不过了。"我听说 04 号机要来日本了？"
+
+"Wait, where'd you hear that from?" Shinji inquired.  
+"等等，你从哪儿听说的？" 真嗣问道。
+
+"My father. He's a technician at NERV," Kensuke smirked. "Anyway, do you know who the pilot is?"  
+"我爸。他在 NERV 做技术员，" 健介得意地笑了笑。"话说回来，你知道驾驶员是谁吗？"
+
+"I think they're sending us one from America," Shinji replied with a shrug.  
+"我想他们是从美国派了一个过来。" 真嗣耸了耸肩回答道。
+
+Kensuke's face promptly fell in disappointment. "Damn, I hoped they could let me be the pilot!" In fact, this time, Shinji actually thought about making Kensuke or Toji as the pilot of Unit 04, the Fourth Child. It's not like there was an Angel in there. He'd never met this new pilot from America ever before since the pilot would always vanish in the Nevada incident. Even though fighting Angels could be dangerous, Shinji wanted at least someone he could trust fighting by his side. "Man, it's really cool to be a pilot, isn't it?"  
+健介的脸立刻露出了失望的神情。"该死，我本以为他们能让我当驾驶员呢！" 实际上，这次真嗣真的考虑过让健介或东治担任四号机，即第四适格者的驾驶员。反正那里也没有使徒。他从未见过这位来自美国的新驾驶员，因为对方总会在内华达事件中消失。尽管与使徒战斗可能很危险，但真嗣至少希望能有一个他信任的人与他并肩作战。"伙计，当驾驶员真的很酷，不是吗？"
+
+"You might change your mind after fighting an Angel." So saying, Shinji threw a glance at the Jock on his other side, who was checking his newest lottery.  
+"你可能会在和使徒战斗后改变主意。" 说着，真嗣瞥了一眼他旁边的体育生，那人正在检查他最新的彩票。
+
+"Tch, I didn't win anything this time." Toji huffed and threw the lottery aside.  
+“啧，这次什么都没中。” 真嗣哼了一声，把彩票扔到了一边。
+
+XXXXXX
+
+Bathing in the pale yellow light of the setting sun, Shinji paced his way back to the apartment after breaking up with Toji and Kensuke from the arcade. Asuka should be back at home very soon - making her wait for food to eat would be beyond cruel, especially when she just came back from some shopping trip with loot.  
+沐浴在夕阳淡淡的黄光中，真嗣从游戏厅与东治和健介分手后，缓步走回公寓。明日香应该很快就会回家了——让她饿着肚子等饭吃实在是太残忍了，尤其是她刚从购物之旅满载而归。
+
+As he walked past the building that was the Geofront entrance area, a particular person captured his attention. He had blond curls and pale skin, so Shinji could easily classify him as a foreigner. Though foreigners were not a rare sight in Tokyo-3, an international fortress metropolis, the fact that he just came out of the Geofront still intrigued him.  
+当他走过地底都市入口区域的那栋建筑时，一个特别的人吸引了他的注意。那人有着金色的卷发和苍白的皮肤，真嗣一眼就能判断出他是外国人。虽然在这个国际化的堡垒都市第三新东京市，外国人并不罕见，但他刚从地底都市出来这一点，还是引起了真嗣的好奇。
+
+The blond boy seemed to be reading a pile of documents of sorts. He raised his head and saw Shinji, then looked back and forth between him and the paper. "Shinji Ikari, the Third Child, right?"  
+金发男孩似乎正在阅读一堆文件之类的东西。他抬起头，看到了真嗣，然后在他和文件之间来回打量。“碇真嗣，第三适格者，对吧？”
+
+"Who are you?" Shinji said without confirming his own identity.  
+“你是谁？”真嗣没有确认自己的身份。
+
+"Oh, I am the candidate of the Fourth Child," his Japanese was a bit crooked but recognizable nonetheless.  
+“哦，我是第四适格者的候选人，”他的日语有些生硬，但仍然可以辨认。
+
+"I see. I am the Third Child, Shinji Ikari, pleased to meet you," Shinji replied in a courteous voice. After countless cycles of redoing, he finally met the original test pilot for Evangelion Unit 04 in person, who had always been sucked into the sea of Dirac and never came out when the activation of the S2 engine on Unit 04 gone wrong.  
+"我明白了。我是第三适格者，碇真嗣，很高兴见到你，" 真嗣礼貌地回答。经历了无数次的重复，他终于亲自见到了原本的 EVA 四号机测试驾驶员，那位在四号机 S2 引擎启动失败时被卷入狄拉克海、从未归来的人。
+
+His first impression of the boy was guilty. After all, every time he knew the Nevada incident would happen, but he couldn't do anything except watch. "So, I hear the activation test will take place tomorrow?" The arrangement still annoyed him a little since it was the day when he and Asuka would have their date, but since this time Unit 03 was still in America, he deemed it wouldn't be too much of a deal.  
+他对那男孩的第一印象是愧疚。毕竟，每次他知道内华达事件会发生，却除了旁观什么也做不了。“所以，我听说启动测试将在明天进行？”这个安排仍让他有些不快，因为那本是他和明日香约会的日子，但由于这次三号机还在美国，他觉得应该不会太成问题。
+
+"Right." The Fourth Child replied nonchalantly. Shinji narrowed his eyes as he recognized the documents he was reading – they were he, Asuka, and Rei's personal files. Even though everyone who worked in NERV had access to these files – the ones without too many details of their background information – he still felt a bit uncomfortable seeing others reading them, especially Asuka's. "Say, are the girls here all so pretty and hot?" Speaking, the Fourth Child scanned up and down Rei's profile picture, then Asuka's.  
+"好吧。" 第四适格者漫不经心地回答。真嗣眯起眼睛，认出了他正在阅读的文件——那是他和明日香、绫波的个人档案。尽管在 NERV 工作的每个人都能接触到这些文件——那些没有太多背景细节的档案——他仍然感到有些不自在，尤其是看到别人阅读明日香的档案时。"话说，这里的女孩都这么漂亮又火辣吗？" 说着，第四适格者上下打量着绫波的档案照片，然后是明日香的。
+
+A slight scowl crept up Shinji's face. He didn't like his attitude, at all. Asuka was needless to say, and now even Rei, whom he considered his half-sister, was being objectified as well, and this time by a pilot - whom he had to work together with from now on.  
+真嗣的脸上掠过一丝不悦。他一点也不喜欢这种态度。明日香自不必说，现在甚至连他视为半个妹妹的绫波也被物化了，而且这次是一个他今后必须与之合作的驾驶员。
+
+"I've never known people can have blue hair before. Did she dye her hair or something? I like it," the Fourth Child smirked.  
+"我以前从不知道有人能拥有蓝发。她是染的吗？我喜欢。" 第四适格者得意地笑了。
+
+"Her name is Rei Ayanami, I consider her as my cousin," Shinji lowered his voice, getting close to the _known_ direction.  
+"她叫绫波零，我当她是我的表妹，" 真嗣压低了声音，靠近已知的方向。
+
+"Is that so? You wouldn't mind me dating her, would you?" The Fourth Child, apparently displeased by his tone, starting to add a note of threat and arrogance in his voice. "Hmm…how about this one with red hair? She looks hot. I wonder how she looks like in her plugsuit," the Fourth Child licked his lips.  
+"是吗？你不介意我追求她吧？" 第四适格者显然对他的语气感到不悦，开始在话语中加入一丝威胁和傲慢。"嗯……那个红头发的呢？她看起来很火辣。不知道她穿上插入栓服会是什么样子，" 第四适格者舔了舔嘴唇。
+
+"She's my girlfriend." Shinji's voice started to drift into a familiar tone.  
+"她是我的女朋友。" 真嗣的声音开始带上了熟悉的语调。
+
+Truth to be told, the Fourth Child visibly shivered under the suffocating pressure. However, as a veteran womanizer for his age, he stood up to the challenge. "It only makes it more exciting, am I correct? How about I date both of them?"  
+说实话，第四子在令人窒息的压力下明显颤抖。然而，作为一个与他年龄相符的情场老手，他迎难而上。“这只会让它更加刺激，我说得对吗？不如我同时追求她们两个？”
+
+"Try me." “试试看。”
+
+The Fourth Child felt his blood temperature decreasing as Shinji's freezing voice swept through him. Shinji Ikari's Absolute Zero Degree Beam Cannon shot out from his eyes, a look only twelve most evil people in the world could endure. He didn't necessarily need to threaten the Fourth Child, though, knowing who Rei was and who Asuka was. Still, if he wanted to play that game, Shinji would as well.  
+第四子感到自己的血液温度随着真嗣冰冷的声音而下降。碇真嗣的绝对零度光束炮从他的眼中射出，这种眼神只有世界上十二个最邪恶的人才能承受。不过，真嗣并不一定需要威胁第四子，他知道绫波是谁，也知道明日香是谁。尽管如此，如果他想玩这个游戏，真嗣也会奉陪。
+
+"Tch. I w-will," the Fourth Child maintained his breaking down composure with visible effort.  
+“啧。我、我会，”第四子努力维持着即将崩溃的镇定，显得十分吃力。
+
+Shinji chuckled, retracting his looks. He almost felt bad executing such an attack that was saved for his father on a 14-year-old boy who was also a pilot, who could be a great helping hand in the final battle against SEELE.  
+真嗣轻声笑了出来，收回了自己的目光。对一个同样是驾驶员的 14 岁男孩使用这种本应留给他父亲的攻击手段，他几乎感到有些内疚，这个男孩在最终对抗 SEELE 的战斗中本可以成为得力的帮手。
+
+Almost. 差不多了。
+
+XXXXXX
+
+In recent times, Asuka Langley Soryu often found herself under a particular state of mind – daydreaming about the incoming events, mainly caused by the anticipation of the time she and Shinji would be spending together later. As of today, such anticipation grew to a peak since it was her birthday and they were going to have their first date, and Asuka had promised to knock his socks off with it.  
+近来，惣流·明日香·兰格雷常常发现自己处于一种特殊的心境中——幻想着即将到来的事件，主要是因为她对即将与真嗣共度的时光的期待。到了今天，这种期待达到了顶峰，因为今天是她的生日，他们将迎来他们的第一次约会，明日香承诺要让这次约会精彩到让他难以忘怀。
+
+Of course, no perfect day was without its flaws.  
+当然，没有哪一天是完美无缺的。
+
+"Hey guys, please meet the candidate for the Fourth Child." Major Katsuragi's courteous voice floated to her. Throwing a side-way glance at the boy standing beside the Major, Asuka cringed as she recognized the look he was giving to her and Rei Ayanami. It was a look she knew all too well – a perverted leering gaze, trying to tear off your clothes through pure willpower.  
+“嘿，大家请见见第四适格者。”葛城美里礼貌的声音飘入她的耳中。斜眼瞥向站在美里旁边的男孩，明日香皱眉认出了他投向她和绫波零的目光。那是一种她再熟悉不过的眼神——一种猥琐的窥视，试图仅凭意志力就剥去你的衣物。
+
+Asuka suppressed a wave of nauseous feelings that surged up from her stomach. Knowing that she probably needed to work with him while wearing _plugsuits_ in the foreseeable future didn't help, if not making it worse.  
+明日香强压下胃里涌起的恶心感。知道在可预见的未来可能需要和他一起穿着插入栓服工作，这不仅没有帮助，反而让情况更糟。
+
+Damn it. Shinji would never look at her this way – he looked at her with love, not lust. Not to mention Shinji was much more handsome than him. Speaking of whom, they had a date today. Oh yeah, she had it well-planned. They would go to the cinema first, then if they still had enough time-  
+该死。真嗣永远不会这样看她——他看她时带着爱意，而非欲望。更别提真嗣比他英俊多了。说到真嗣，他们今天有约会。哦对，她已经计划好了。他们先去看电影，然后如果时间还够——
+
+"…Asuka! Pay attention!" Major Katsuragi's annoyed voice snapped her out of her train of thoughts. "It's the third time you've spaced out today. I don't know what's going on behind the beautiful face of yours but could you please at least focus for now?!"  
+"…明日香！专心点！" 葛城美少校不悦的声音将她从思绪中拉回。"今天你已经是第三次走神了。我不知道你那张漂亮的脸蛋背后在想些什么，但至少现在请你集中注意力好吗？！"
+
+"Ah, sorry," Asuka blurted out. "I just have a lot on my mind."  
+"啊，抱歉，" 明日香脱口而出。"我只是脑子里事情太多了。"
+
+Misato exhaled an exasperated sigh. "Well, now it's your turn to introduce yourself."  
+美里叹了口气，显得有些无奈。"好吧，现在轮到你自我介绍了。"
+
+"Oh right." Asuka cleared her throat. "I'm Asuka Langley Soryu." She said on autopilot. "Are we done here? When can w-I leave?"  
+"哦，对了。" 明日香清了清嗓子。"我是惣流·明日香·兰格雷。" 她机械地回答。"我们完了吗？我什么时候可以离开？"
+
+"Why such a hurry?" Misato probed.  
+"为什么这么急？" 美里追问道。
+
+"How about I have a date waiting for me? Is that a good enough reason for you?" Asuka said back, a bit annoyed, not noticing the raised eyebrows from the Fourth Child.  
+"比如我有个约会等着我？这个理由够充分吗？" 明日香有些不耐烦地回道，没注意到第四适格者挑起的眉毛。
+
+"Fine. If you want, you can leave now. Just…" Misato rubbed her chin. "I'm going to Matsushiro today with our new pilot for the activation test of Unit 04. I'm probably gonna be away from home for a few days, so I'll ask Kaji to look after you, he'll come tonight. Don't do anything I would disapprove of at home, alright?"  
+"好吧。如果你愿意，现在就可以走了。只是……" 美里揉了揉下巴。"我今天要和新驾驶员一起去松代进行 04 号机的启动测试。我可能要离家几天，所以我会让加持来照顾你，他今晚过来。别在家里做任何我会不高兴的事，好吗？"
+
+The Fourth Child narrowed his eyes. Apparently, the redhead lived together with the Third Child. He could only imagine the unmentionable stuff they must've been doing on their own. Damn.  
+第四适格者眯起了眼睛。显然，红发女和第三适格者住在一起。他只能想象他们私下里一定在做些不可描述的事情。该死。
+
+"Alright, alright." Asuka turned around and grabbed Shinji's wrist, who offered no resistance whatsoever and was dragged along. "Let's go Shinji. We have a long day ahead of us."  
+"好了，好了。" 明日香转过身抓住真嗣的手腕，真嗣毫无反抗地被拉着走。"走吧，真嗣。我们今天还有很长的一天要面对。"
+
+With the pair gone from the meeting room, only Misato, Rei, and the Fourth Child were left. "Well, surely we've got some beauties here," the Fourth Child started, throwing a wink at Rei. "Rei Ayanami, correct?"  
+随着那两人离开了会议室，只剩下美里、绫波和第四适格者。“好吧，我们这里肯定有不少美人呢，”第四适格者开口道，向绫波眨了眨眼。“你是绫波零，对吧？”
+
+Rei Ayanami looked intently at the Fourth Child. From her objective analysis, he was moderately handsome, even a bit manly, much more mature-looking than other boys at his age. "Yes?" She replied with her usual monotone.  
+绫波零专注地看着第四适格者。从她的客观分析来看，他算是英俊的，甚至有些男子气概，比同龄的其他男孩看起来要成熟得多。“是的？”她以一贯的平淡语调回应道。
+
+"I'm new here. Could you please show me around this…labyrinth?" The Fourth Child smiled a smile that could be easily labeled as seducing.  
+"我是新来的。你能带我参观一下这个……迷宫吗？" 第四子微笑着，那笑容很容易被贴上诱惑的标签。
+
+"No." Rei's response came out clean and neat.  
+"不行。" 丽的声音干净利落。
+
+"Why?" The Fourth Child frowned a little.  
+"为什么？" 第四子微微皱眉。
+
+"Because I am an undateable subject."  
+“因为我是个不适合约会的对象。”
+
+The Fourth Child blinked in surprise. How come this looking quiet and cultivated girl had such a sharp tongue? And how was she so insightful? Having abundant knowledge dealing with girls, the Fourth Child wouldn't submit just yet, though. "I wasn't trying to date you. Maybe we can just be friends, right?"  
+"第四个孩子惊讶地眨了眨眼。这个看起来文静有教养的女孩怎么说话这么尖锐？她又怎么如此洞察人心？尽管对处理女孩们的事颇有经验，第四个孩子还不打算就此认输。“我并不是想和你约会。或许我们可以只是做朋友，对吧？””
+
+"No. You're not interesting." Her voice decreased by several degrees, if that was even possible for her. "Only if I'm ordered to, then I will." Finished speaking, Rei turned around from him and promptly left the room with delicate footsteps, leaving a wholly defeated Fourth Child in the room.  
+"“不。你不够有趣。”她的声音又降了几度，如果这还有可能的话。“只有被命令了，我才会这么做。”说完，丽转身离开了他，轻盈地走出房间，留下一个彻底败下阵来的第四个孩子在屋内。”
+
+Misato watched the whole scene with amusement, though her identity wouldn't allow her to laugh just yet. "Alright, let's go. People at Matsushiro wouldn't be too happy if we're late."  
+"美里饶有兴致地看着这一切，尽管她的身份还不允许她笑出声。“好了，我们走吧。如果迟到，松代的人可不会太高兴。””
+
+XXXXXX
+
+Under the cerulean sky and scattered white clouds, Shinji and Asuka hand in hand walked along the busiest pedestrian street in the middle of Tokyo-3's commercial district. Since their newly acquired relationship was already public, Asuka spent every second she could to hold his hand, seeking reassurance.  
+在蔚蓝的天空和零星的白云下，真嗣和明日香手牵手走在东京-3 商业区最繁忙的人行街道上。自从他们新建立的关系已经公开，明日香尽可能每分每秒都紧握他的手，寻求安心。
+
+After years after years of being alone, she wouldn't let this trusting and loving company away from her any more than absolutely necessary.  
+经历了多年的孤独，她再也不愿让这份信任与爱的陪伴离她而去，除非绝对必要。
+
+"Seriously Asuka, a horror movie for a date?" Shinji chuckled, his voice half-amused, half-exasperated. It wasn't that he was afraid of horror movies, but the fact that Asuka practically used him as a punching bag when jump-scare happened, considering the combat training she received, was not a pleasant experience for him.  
+“说真的，明日香，约会看恐怖片？”真嗣轻笑，语气半是玩笑半是无奈。倒不是他害怕恐怖片，只是明日香在遇到惊吓场面时几乎把他当成了出气筒，考虑到她接受的战斗训练，这对他来说可不是什么愉快的体验。
+
+And he got a few bruises on his thigh to prove it.  
+他的大腿上因此多了几处瘀伤作为证明。
+
+To Shinji, Asuka's appearance today wasn't too much different than her normal looks, save for the missing A-10 hair clips that got replaced with ordinary bead-shaped ones. She wasn't wearing heavy cosmetics – not that she wouldn't look divine even though she didn't – much to Shinji's surprise.  
+对真嗣来说，今天明日香的外表与平时并无太大差别，除了那对被普通珠形发夹取代的 A-10 发夹。她没有浓妆艳抹——尽管她即便不化妆也美得令人惊叹——这让真嗣颇为意外。
+
+Maybe their introduction to the Fourth Child interrupted their plans? Shinji shook the thoughts off. Asuka, no matter what state she was in, always looked pretty to him. The fact that you're staring at the sun in different weathers, whether sunny, cloudy, or even foggy, didn't change the fact that you're staring at the sun, the brightest thing you can look at in your life.  
+也许他们对第四适格者的介绍打乱了他们的计划？真嗣摇了摇头，抛开这些念头。无论明日香处于何种状态，在他眼中总是那么美丽。就像你在不同的天气里凝视太阳，无论是晴天、阴天还是雾天，都不会改变你凝视的是生命中最明亮的存在这一事实。
+
+The clothes she was wearing weren't new to him as well – a simple sundress with scattered patterns on it. For once he asked her why she didn't wear the green dress she used to wear for the date Hikari had set her up with, Asuka said she only wore it when she didn't care about how she looked like.  
+她身上的衣服对他来说也并不陌生——一件简单的碎花太阳裙。有一次他问她，为什么不再穿那件她曾为光安排的约会而穿的绿色裙子，明日香回答说，只有在她不在乎自己外表的时候才会穿那件。
+
+"Baka, don't tell me you were afraid of…a little tone shift, because I certainly wasn't," Asuka huffed, still being too proud to admit her…insignificant slip of composure.  
+“笨蛋，别告诉我你害怕……一点点语调变化，因为我绝对不怕，”明日香哼了一声，仍然过于骄傲，不愿承认她那微不足道的失态。
+
+"Oh well, better hurry up. It's almost one-thirty," Shinji said after taking a glance at his wristwatch. "You've got our spot reserved, right?"  
+“哦，好吧，最好快点。已经快一点半了，”真嗣瞥了一眼手表后说道，“你已经帮我们预订了位置，对吧？”
+
+"Of course," Asuka held her head high, her nose pointing up to the sky. "My planning skills are impeccable."  
+"当然，" 明日香昂首挺胸，鼻尖直指天空。"我的策划能力无可挑剔。"
+
+"Is that so?" A smirk crossed Shinji's face. "Then why did you keep losing to me in chess? Not to mention-"  
+"是吗？" 真嗣的脸上掠过一丝得意的笑。"那你为什么在国际象棋上总是输给我？更别提——"
+
+Suffering mild physical damage was something Shinji had already gotten used to while being overly cheeky in front of Asuka, so when his back was pressed against the wall, his panic vanished as quickly as it came. "Since it's my birthday, I don't particularly feel like murdering anybody today," she hissed, the beautiful grin on her face contrasting the sharp tone. "Consider yourself lucky, Third."  
+轻微的身体伤害对真嗣来说已是家常便饭，尤其是在明日香面前过于放肆时。因此，当他的背紧贴着墙壁，恐慌如潮水般迅速退去。"既然今天是我的生日，我今天特别不想杀人，"她低声咆哮，美丽的笑容与尖锐的语气形成鲜明对比。"算你走运，三号。"
+
+A long while ago, Shinji's first reaction would be to apologize, which had been proven problem-inducing and Asuka-enraging. Pushing back and friendly banters were always fun, especially when they were together. "I could never wish to be luckier, having you by my side."  
+很久以前，真嗣的第一反应总是道歉，这已被证明是问题重重且让明日香暴跳如雷的。反击和友好的斗嘴总是很有趣，尤其是当他们在一起时。"有你在身边，我别无所求，已是最大的幸运。"
+
+And yeah, sweet-talking was another skill he had mastered, though it usually wouldn't work on the torrent of pride that was Asuka.  
+确实，甜言蜜语是他掌握的另一项技能，尽管这通常对骄傲如洪流的明日香不起作用。
+
+He could swear a gleam of surprise flashed in Asuka's eyes. "Hmph, I suppose you know your place." Blushing faintly, Asuka let go of Shinji and continued heading toward their destination.  
+他敢发誓，明日香的眼中闪过一丝惊讶。“哼，我想你知道自己的位置。”明日香微微脸红，松开了真嗣的手，继续朝着目的地前进。
+
+"Say, what do you think of our new pilot?" Shinji abruptly brought up, breaking the companionable silence between them.  
+“话说，你觉得我们的新驾驶员怎么样？”真嗣突然提起，打破了两人间的友好沉默。
+
+"New…what? Oh, you mean the _Fourth Child_? I almost forgot about it, if not for you mentioning it," The designation was spoken with loathing. Asuka rubbed her forehead and continued, "he…bleh, he looks at me funny, like those perverts in school. I can't believe I have to walk in front of his eyes wearing my plugsuit! What's his name again?"  
+"新……什么？哦，你是说第四适格者？要不是你提起，我差点都忘了，" 这个称呼带着厌恶的语气。惣流揉了揉额头，继续说道，"他……呸，他看我的眼神很奇怪，就像学校里那些变态一样。我真不敢相信我得穿着插入栓服在他面前晃来晃去！他叫什么来着？"
+
+"Nathan, I think," Shinji replied, his tone unreadable.  
+"我想是内森吧，" 真嗣回答，语气难以捉摸。"
+
+"Oh? Are you afraid of him being a competition?" Asuka winked at him, switching to a full-swing tone.  
+"哦？你是不是怕他成为你的竞争对手？" 惣流朝他眨了眨眼，语气变得轻松起来。"
+
+"Not really. Just curious."  
+“不太算。只是好奇。”
+
+"You shouldn't worry about it. You know that I'm yours." Asuka took his hand and gave it a gentle squeeze, sending bolts of electricity through his body.  
+“你不必担心这个。你知道我是属于你的。”明日香握住他的手，轻轻一捏，让他全身如触电般颤动。
+
+Shinji smirked. Oh, he knew that better than anyone - maybe only except Asuka herself.  
+“真嗣微微一笑。哦，他比任何人都清楚这一点——或许除了明日香自己。”
+
+In one of his earlier cycles, when he was still completely engulfed in the guilt and self-loathing of the terrible crime he committed against her, he tried to set her up with one guy in school he thought was able to give her happiness.  
+在他早期的某个循环中，当他仍深陷于对她所犯下可怕罪行的愧疚与自我厌恶之中时，他试图撮合她和学校里他认为能给她带来幸福的某个男生。
+
+_"Well it turns out he's really a cool guy." Asuka deadpanned, drinking a bottle of milk.  
+“好吧，事实证明他确实是个很酷的家伙。”明日香面无表情地说，喝着一瓶牛奶。_
+
+_"I'm glad you found someone, Asuka," Shinji smiled, though only carried a subtle hint of sadness in it.  
+“我很高兴你找到了那个人，明日香，”真嗣微笑道，尽管笑容中隐约带着一丝哀伤。_
+
+_"Indeed I have," Asuka stood up from the chair and grabbed a defenseless Shinji into a longing kiss. After pulling away from the intense make-out session, Asuka grinned like a cat that just ate a canary, "Annnd he's well within my reach, just a bit too stupid to see by himself."  
+"确实如此，" 明日香从椅子上站起来，抓住无助的 Shinji 深深地吻了下去。从激烈的亲吻中抽身后，明日香像刚吃了金丝雀的猫一样得意地笑了，"而且他完全在我掌控之中，只是他自己有点太蠢看不出来罢了。"_
+
+Shinji chuckled at the memory. Even though he didn't think he deserved her, he could still try and make her happy. "As long as you'll have me, Asuka, I'm yours as well."  
+Shinji 想起这段记忆轻声笑了。尽管他不认为自己配得上她，但他仍会努力让她开心。"只要你不嫌弃我，明日香，我也属于你。"
+
+XXXXXX
+
+"Let the pilot into the entry plug." Dr. Mayumi's voice came from the PA system, echoing in the testing chamber. The candidate for the Fourth Child huffed and clipped the A-10 Neural Connectors on his hair.  
+"让驾驶员进入插入栓。" 真弓博士的声音从 PA 系统中传来，回荡在测试室里。第四适格者的候选人气呼呼地将自己的头发夹上了 A-10 神经连接器。
+
+Knowing how hunky and masculine he was, he was sure he could have a bunch of girls for him to date with when he arrived in Japan. In fact, back in the US, as a candidate for the pilot of Evangelions, he was already a fantasy for girls in his school, and he throughout enjoyed the attention by switching girlfriends as fast as he was required to take sync tests.  
+深知自己身材魁梧、阳刚十足，他确信抵达日本后定能吸引一众女孩与他约会。事实上，在美国时，作为 EVA 驾驶员的候选人，他已是校内女生们的梦中情人，而他乐此不疲地频繁更换女友，速度之快堪比他进行同步测试的频率。
+
+The Fourth Child punched the wall of the entry plug in annoyance. He thought he was lucky that the female pilots were all hot and pretty, but his first attempt went much worse than he imagined. 'You're not interesting?' How dare she say it to him? And the red-haired one…she didn't so much as take a straight look at him, like he was not even there.  
+第四个孩子懊恼地一拳砸在插入栓的墙壁上。他本以为自己运气不错，女驾驶员们都火辣又漂亮，但他的初次尝试却比想象中糟糕得多。“你没意思？”她怎么敢这么对他说？还有那个红发女孩……她连正眼都没瞧过他，仿佛他根本不存在似的。
+
+Growling in frustration, the Fourth Child stepped inside the entry plug and sat on his pilot seat. His charms had never failed to get attention from girls ever before, so why did those two make a difference? And how come the normal-looking Third Child claimed the redheaded tempest? What did he do to deserve that? He was more handsome, more manly, more mature-  
+第四适格者懊恼地咆哮一声，踏入插入栓，坐在驾驶座上。他的魅力从未失效，总能吸引女孩们的注意，为何那两人却与众不同？那个长相平平的第三适格者又是如何赢得红发风暴的芳心？他究竟有何德何能？他更英俊，更阳刚，更成熟——
+
+The Fourth Child shook the thoughts off. Nevertheless, he knew he still had ample time ahead of him to make moves on the girls after this boring activation test. Even if he wouldn't have a chance with the pilots, he still had many girls from the local school that he would be attending.  
+第四适格者摇摇头，抛开这些念头。尽管如此，他知道在这次乏味的启动测试之后，他还有大把时间去追求那些女孩。即便无法与驾驶员们有所发展，他还有许多即将就读的本地学校的女生可供选择。
+
+The Fourth Child huffed and closed his eyes.  
+第四适格者哼了一声，闭上了眼睛。
+
+"Begin activation. “开始激活。”
+
+XXXXXX
+
+Shinji sat on the couch as the TV in front of him played some old recorded music concert, the mixture of sounds produced by hundreds of different instruments flowed like a running stream, accompanied by the soft dripping sound coming from the bathroom.  
+真嗣坐在沙发上，面前的电视播放着一些旧的音乐会录像，数百种不同乐器发出的混合声音如流水般流淌，伴随着浴室里传来的轻柔滴水声。
+
+The day was hot, and both he and Asuka were soaked with sweat when they got home, and Asuka insisted he took a shower before her, for whatever reasons. In the original plan having dinner at a romantic restaurant was the last on the to-do list, but Asuka decided since they already had lunch together, she preferred to try some of his cooking for dinner.  
+那天天气炎热，他和明日香回家时都汗流浃背，明日香坚持要他先洗澡，不管出于什么原因。原本计划中在浪漫餐厅共进晚餐是最后一项，但明日香决定既然他们已经一起吃了午饭，她更想尝试他做的晚餐。
+
+Shinji wasn't going to complain, at all.  
+真嗣一点也不打算抱怨。
+
+Kaji had not yet been home, and Misato went to Matsushiro to supervise the activation test of Unit 04. Shinji lazily stretched on the couch, yawning. Finally, he could get some rest and not deal with the whole mess with Bardiel anymore, and he felt happy about it.  
+加持还没回家，美里去了松代监督零四号机的启动测试。真嗣懒洋洋地躺在沙发上，打着哈欠。终于，他可以休息一下，不再理会巴迪尔那堆破事了，这让他感到高兴。
+
+Even though this new Fourth Child was annoying, as long as he could help in the endgame, it was still a worthy trade-off for him.  
+尽管这个新来的第四适格者很烦人，但只要最终能帮上忙，对他来说还是值得的。
+
+"Asuka? Are you finished?" Shinji asked after he could no longer hear water running. "Should I start making dinner?"  
+“明日香？你洗好了吗？”真嗣在听不到水声后问道，“我可以开始做晚饭了吗？”
+
+No reply came. A slight frown spread across his face. Shinji stood up from the couch, heading to the kitchen. Just as he turned around the corner, though, a towel-wrapped redhead came into his field of view. "Ah, Asuka," Shinji's smile faded a bit as he saw the inscrutable expression on her face. "Asuka, are you alright?"  
+没有回应。他眉头微皱。真嗣从沙发上起身，走向厨房。就在他转过拐角时，一个裹着毛巾的红发女孩进入了他的视线。“啊，明日香，”真嗣的笑容稍减，因为她脸上那难以捉摸的表情。“明日香，你还好吗？”
+
+The redhead closed her eyes. Taking a deep breath, she spoke up. "Shinji, today I've had my best birthday so far, and I'm really happy. So, I want to do this for you…" She reopened her eyes, fixing her look with Shinji's, sapphire met cobalt. Shinji's eyes went wide a little as he recognized the familiar fire inside her eyes.  
+红发女孩闭上了眼睛。深吸一口气，她开口了。“真嗣，今天是我迄今为止最棒的生日，我真的很开心。所以，我想为你做这件事……”她重新睁开眼，目光坚定地与真嗣对视，蓝宝石般的眼睛与深蓝相遇。真嗣的眼睛微微睁大，他认出了她眼中熟悉的火焰。
+
+Before he could get the first syllable out, Asuka removed her towel and let it fall to the ground.  
+在他能发出第一个音节之前，明日香解开了她的毛巾，任其掉落在地。
+
+Shinji's jaw proceeded to do the same thing.  
+真嗣的下巴也跟着做了一样的动作。
+
+XXXXXX
+
+AN: Consider this as personal revenge to a certain fic. People who don't know what I'm talking about should stop being curious. It's a blessing that you don't know. You should never know about it, it's good for your well-being.  
+作者注：将此视为对某篇特定同人文的个人报复。不知道我在说什么的人，别好奇了。你不知道是福气，永远别去了解，这对你的健康有好处。
+
+Next chapter is rated M, read at your own preference. Special Thanks to AsuShin shipper, skyf0x, HeyThereMrBlue, ChaosDisposal, tomdj1701, spartanman2, Midsully, Greg242, bandiras2, and SheriffJohnStone's reviews!  
+下一章分级为 M，阅读请自行斟酌。特别感谢 AsuShin 情侣粉、skyf0x、HeyThereMrBlue、ChaosDisposal、tomdj1701、spartanman2、Midsully、Greg242、bandiras2 以及 SheriffJohnStone 的评论！
 
 ## *Chapter 27*: Chapter 27:A flap of a butterfly's wings  
 *第 27 章*: 第 27 章：蝴蝶振翅

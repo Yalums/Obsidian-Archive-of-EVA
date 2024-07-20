@@ -1,5 +1,34 @@
 [jcmoorehead](https://fanfiction.net/u/957082/)
+Five years after Third Impact and life has changed for Asuka and Shinji, they are living away from one another with neither seeing each other in that time. A stranger washing up at the site of Third Impact could possibly change all that. [Asuka X Shinji X Kaworu]
+第三次撞击 "发生五年后，明日香和真嗣的生活发生了变化。在 "第三次撞击 "现场出现的一个陌生人可能会改变这一切。[明日香 X 真嗣 X 渚薰]
 
+---
+### Review:
+[Koros45](https://www.fanfiction.net/u/2386471/Koros45): Regarding the main trio of character, Asuka, Kaworu, and Shinji, all of them ticked in ways that made sense. Everything fit together well and the plot progression felt natural. I'm surprised to see an ASK fic that covers everything from each Pilot moving on from piloting to resolving Adam and Lilith, to Kaworu and Rei's fates after EoE, to giving Shinji and Asuka some closure.  
+关于主角三人组——明日香、渚薰和真嗣，他们的表现都恰如其分。所有情节紧密相连，发展流畅自然。我惊讶于这篇同人文能全面涉及从每位驾驶员放下驾驶任务，到解决亚当和莉莉丝的问题，再到 EoE 后渚薰和绫波的命运，以及为真嗣和明日香的故事画上圆满句号。  
+  
+Nods to the Rebuild Series were noticed and worked as referential notes without compromising the story. Mari's inclusion as Asuka's pen name was amusing, and Misato running WILLE just makes sense considering how EoE ended.  
+影片中对《新世纪福音战士》系列的致敬巧妙融入，既增添了趣味性，又未影响故事主线。玛丽作为明日香的笔名设定颇具巧思，而美里在《EoE》结局后领导 WILLE，这一安排也显得顺理成章。  
+  
+I guess for me the most surprising thing was how every character had to earn their happiness. It makes the relationship set up in 'Braver' believable given how much all three of them had to face. Shinji's regrets, Asuka's self-doubt, and Kaworu's lack of understanding human interactions were all hurdles and it was wonderful seeing each of them overcome those things. Thank you so much for this story. I'm excited to read the epilogue.  
+对我而言，最让人意外的是每个角色都得努力争取自己的幸福。考虑到他们三人所经历的种种挑战，这使得《Braver》中的关系设定显得真实可信。真嗣的悔恨、明日香的自疑以及渚薰对人类互动的不理解，这些都是他们必须跨越的障碍。看到他们一一克服这些困难，真是令人欣慰。非常感谢您创作了这个故事，我非常期待阅读尾声部分。
+
+[Silvermoonlight GJ](https://www.fanfiction.net/u/299903/Silvermoonlight-GJ) : I've read a lot of stories that gave me the feels but I will say this chapter really punched me hard in the feels in a way that has not happened in such a long time its just so moving and emotional and I love each characters perfective on the situation on the reveal and I love that the build to get to this point has not felt jarred or fake its been natural and even how this three way is treated is realistic like you brought up jobs living and other stuff like it gives it such realism.  
+我读过许多让我动容的故事，但这一章节确实深深打动了我，这种感觉已经久违了。它如此动人，充满情感，我欣赏每个角色对揭露情况的独到见解，而且故事铺垫到这一刻的过程自然流畅，毫不做作。就连这种三角关系的处理也显得非常真实，比如提及的工作、生活等细节，都增添了故事的真实感。  
+  
+I also loved Shinji really stepping up on this and calling Asuka out on her bullshit, because that is such a powerful way to brings it full circle and though its a small thing I like how Asuka did Shinji's fist clenching which was such a big thing in NGE and EOE, and it also shows how similar they are and I also liked the EOE nod with Asuka's hand caress, as that carries so much meaning and power and is a corner stone of her character.  
+我同样欣赏真嗣在这件事上勇敢站出来，直面明日香的无理取闹，这种方式极具力量感，使得情节更加圆满。虽然是个小细节，但明日香模仿真嗣握拳的动作，不仅在 NGE 和 EOE 中意义重大，也体现了两人间的相似之处。此外，EOE 中明日香手的轻抚，蕴含着深厚的情感与力量，是她角色塑造的关键元素。  
+  
+Oh and the bit with Rei calling Asuka an idiot was halrious and I liked her exchange with her girlfriend that she really didn't want this whole thing to be fucked up. Just because it shows like Kaworu she has come so far in her growth.  
+哦，还有丽称明日香为白痴的那段非常搞笑，我喜欢她和她的女朋友之间的对话，她真的不希望这一切搞砸。这显示了像真嗣这样的角色，她已经成长了很多。
+
+I liked the thing with Misato being honest with herself its a really nice touch and it shows her deep growth as a character and that she can see what she did wrong and that post EOE she really tried to put it right.  
+我特别欣赏 Misato 对自己坦诚的那一幕，这不仅是一个细腻的笔触，更凸显了她作为角色的深厚成长。她能够正视自己的过失，并在 EOE 事件后，真正努力去纠正错误。  
+  
+Oh god Asuka you are such a bloody moron! Talk about being as dense as post romantically to the fact that more than one person likes you and might want to be with you. Though I agree her character does match the bat out of hell song I would say she doesn't need to the one to die by the roadside or the tragic anti hero any more.  
+哎呀，明日香你真是太迟钝了！对于浪漫的事简直像根木头，明明有不止一个人喜欢你，可能还想和你在一起。虽说她的性格确实与“地狱来的蝙蝠”这首歌相符，但我感觉她不必再成为那个悲惨的反英雄，死在路边了。
+
+---
 ### Chapter 1: Subterrenea 
 地下世界  
 

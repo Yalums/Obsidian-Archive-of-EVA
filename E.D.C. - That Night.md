@@ -10,7 +10,7 @@ But it didn't end there ! I kept on reading more and more stories until one of t
   
 _That_ Night 那个夜晚  
   
-  
+### Chapter 1
   
 Another sleepless night in Tokyo-3 for the Third Child. He was laying on his bed, hid SDAT playing the same two tracks in his ears. He wasn't listening to them. He still automatically played them back to back, but white noise would have had the same effect on the boy.  
 第三适格者在第三新东京市又度过了一个无眠之夜。他躺在床上，SDAT 播放器在他耳边重复播放着那两首曲子。他并没有在听。他仍然习惯性地将它们连着播放，但白噪音对这男孩来说效果是一样的。  
@@ -5252,617 +5252,1316 @@ Asuka's shoulders slumped as relief coursed through her body. She kept silent wh
 "What I want to know is how she managed to come back when I specifically told you that this wasn't supposed to happen. I do not appreciate insubordination." Gendo answered threateningly.  
 “我想知道的是，在我明确告诉你们这不应发生的情况下，她是怎么回来的。我不容忍不服从。”碇源堂威胁性地回答。
 
-"I did exactly what you ordered." She didn't have to justify herself to him. Her actions in the past years should have been eloquent enough. She had been surprised herself when she saw Asuka's naked form on the gangway close to a crying Misato. She had deliberately slipped incorrect codes here and there, where she knew it would be unlikely for Maya to find out. In several places, to make sure her, no, his objective would be complete. She had followed his orders, as she always did, despite his indifference, despite his disdain for her. 'Can't you understand that she came back because she wanted to ?' She thought with contempt. Recently, her opinion of the Supreme Commander shifted, ever so slightly at first. She had done so much for him, sacrificed so much, only to be disrespected as a scientist and as a woman. "Every relevant information considering my tampering with the operation has been added to the report."
-The Commander moved a little on his chair, his glasses reflecting the eerie light from his office. "You are dismissed. Today's test shall begin shortly." He didn't even spare a look to the open folder on his office.
-"Yes."
+"I did exactly what you ordered." She didn't have to justify herself to him. Her actions in the past years should have been eloquent enough. She had been surprised herself when she saw Asuka's naked form on the gangway close to a crying Misato. She had deliberately slipped incorrect codes here and there, where she knew it would be unlikely for Maya to find out. In several places, to make sure her, no, his objective would be complete. She had followed his orders, as she always did, despite his indifference, despite his disdain for her. 'Can't you understand that she came back because she wanted to ?' She thought with contempt. Recently, her opinion of the Supreme Commander shifted, ever so slightly at first. She had done so much for him, sacrificed so much, only to be disrespected as a scientist and as a woman. "Every relevant information considering my tampering with the operation has been added to the report."  
+“我完全按照你的命令行事。”她无需向他证明自己。过去几年的行动本应已足够说明一切。当她看到明日香赤裸着身体在哭泣的美里身旁时，连她自己都感到惊讶。她故意在各处插入错误的代码，明知真希波不太可能发现。在几个关键位置，为了确保她的，不，他的目标得以实现。她一如既往地遵从他的命令，尽管他冷漠无情，尽管他鄙视她。“难道你还不明白她回来是因为她想回来吗？”她轻蔑地想。最近，她对最高指挥官的看法开始微妙地转变。她为他付出了那么多，牺牲了那么多，却只换来作为科学家和女人的不尊重。“所有关于我篡改操作的相关信息都已添加到报告中。”
+
+The Commander moved a little on his chair, his glasses reflecting the eerie light from his office. "You are dismissed. Today's test shall begin shortly." He didn't even spare a look to the open folder on his office.  
+指挥官在椅子上微微挪动，眼镜反射出办公室里诡异的光线。“你可以离开了。今天的测试即将开始。”他甚至没有看一眼办公桌上打开的文件夹。
+
+"Yes." "是的。"
+
 .
+
 .
-"Asuka's sync ratio has dropped significantly." Maya exclaimed. She had forced herself for a while not to show emotions when she stated those kind of things, but this just wasn't her. She had always been someone who wore her emotions on her sleeve. Too much was at stake here to be detached about what happened. One of NERV's Pilots losing her ability to synchronize with her Eva was a big deal !
-"That was to be expected." Ritsuko reassured her assistant. "It's been a month since she last synchronized with an Eva. Even her own body must feel strange to her right now." She opened a comm channel with Unit 02's Entry Plug. "Asuka ? You have to concentrate."
-"I'm trying !" Asuka answered angrily. The truth was, she wasn't trying at all. Her mind couldn't have been further away from this sync test as it already was. She had woken up late, still in the arms of the boy she had confessed to the night before, warm and comfortable. The first thing she looked at were his eyes in the dimly lit bedroom. They were full of tenderness and relief. But there was something else. Concern. Worry. His deep blue eyes had always had the power to make her heart skip beats. When she looked at them this morning, she felt that with his help, she would be able to get better.
-This feeling was peculiar to her. She had always prided herself of being independent, of not needing anyone. But being loved, after so long, and realizing her own love for him, had changed that fact... Not that she would admit it to him. Or anyone else.
-He wasn't drowsy with sleep like her, on the contrary, he looked very much awake. He had waited for her to wake up not to disturb her, she assumed. Maybe it wasn't something important in his mind but it meant a lot to her.
-It was Sunday. So they didn't need to go to school, which was a good thing, since she really wasn't in the mood for a boring lesson interspersed with death glares, dumb and tiresome hypocrites wanting to bask in her popularity and love letters from boys who just lusted after her body. This whole menagerie already made her sick at the best of time, now just thinking about them was almost unbearable for her. Not to mention the girls Shinji had talked about ! Those opportunistic harpies ! They would get what they deserved, just not now. Now was the time to enjoy spending time with her boyfriend.
-Yes. She was looking forward to spending the day with Shinji. It was selfish, but she desperately wanted him to alleviate her sadness just by being with her. To feel safe in his arms. To eat whatever he would have prepared for her, she didn't care what, she knew it would have tasted divine. Maybe even watch a movie in his old room.
-All these hopes came crashing down however when the phone rang.
-As a consequence, she didn't care at all about this sync test. Furthermore, she didn't want to be in her Eva. What she had seen, or thought she had seen, throughout last month, had left a deeply disturbing impression on her. She wasn't ready to "face" her Eva just yet. She still wasn't sure if she had just hallucinated or if it had indeed been the truth. Whatever it was, she didn't want to verify it just yet.
-That was another reason why she got scolded by Ritsuko. She had closed her heart and mind as soon as she had stepped inside her Entry Plug. She just wanted to be out of there, back home.
-But even that wasn't in the cards for her. Ritsuko had wanted her to come to her office as soon as the test ended. She just managed to tell Shinji not to wait for her, but she still told him that she wanted a nice dinner ready when she came back. He had promised her a Black forest cake. That was enough to cheer her up, and help her get through this.
-It was already getting dark when she finally got out of the Geofront. 'I'll be home soon. A few more minutes and I'll be with...'
-"Hey Soryu !" Her reverie was interrupted by Toji, who was quickly closing the distance between them.
-"Hey Monkey-boy !" She greeted back without enthusiasm. "What are you still doing here ?"
-"I was with my sister. I go see her every time I'm here." He answered happily, not even noticing Asuka's tone.
-"You're a devoted brother, Shinji told me about you and your sister. I... Appreciate your... Abnegation." She said truthfully, albeit a bit reluctantly.
-"Did I hear that right ?" Toji replied, flabbergasted. "Did you just compliment me ? Are you alright ?"
-"Listen." She paused a little to organize her thoughts. "Shinji's told me how hard last month has been on him. You've been there for him... You've helped him when I..." She hesitated for a moment, unsettling the boy in front of her. "Wasn't there. I'm glad you did. You are a good friend to the idiot. Thank you..." She finally managed to say with some effort. "But don't get me wrong ! That doesn't mean I like you !"
-He chuckled. "I sure hope not ! But don't mention it, Demon. It was the least I could do for Shin-Man ! He really was devastated. You know, he really cares about you. And from what I have seen, you might not be so bad for him after all." He trailed off. She was about to leave when he spoke again. "I wanted to thank you too... You know, for saving my life." It was his turn to feel uncomfortable. "I owe you one, and a Suzuhara never forgets his debts !" He paused for a second. "I can see you want to leave, I ain't going to bother you any longer. Take care of Shinji... And yourself. See you tomorrow !"
+
+"Asuka's sync ratio has dropped significantly." Maya exclaimed. She had forced herself for a while not to show emotions when she stated those kind of things, but this just wasn't her. She had always been someone who wore her emotions on her sleeve. Too much was at stake here to be detached about what happened. One of NERV's Pilots losing her ability to synchronize with her Eva was a big deal !  
+“明日香的同步率大幅下降了。”玛雅惊呼道。她强迫自己一段时间内不要在陈述这类事情时流露情感，但这实在不是她的风格。她一直是个喜怒形于色的人。这里牵扯太多，无法对发生的事情无动于衷。NERV 的一名驾驶员失去与 EVA 同步的能力，这可是大事！
+
+"That was to be expected." Ritsuko reassured her assistant. "It's been a month since she last synchronized with an Eva. Even her own body must feel strange to her right now." She opened a comm channel with Unit 02's Entry Plug. "Asuka ? You have to concentrate."  
+“这是预料之中的。”律子安慰她的助手。“她已经有一个月没有与 EVA 同步了。现在她的身体对她来说一定很陌生。”她打开与二号机插入栓的通讯频道。“明日香？你必须集中精神。”
+
+"I'm trying !" Asuka answered angrily. The truth was, she wasn't trying at all. Her mind couldn't have been further away from this sync test as it already was. She had woken up late, still in the arms of the boy she had confessed to the night before, warm and comfortable. The first thing she looked at were his eyes in the dimly lit bedroom. They were full of tenderness and relief. But there was something else. Concern. Worry. His deep blue eyes had always had the power to make her heart skip beats. When she looked at them this morning, she felt that with his help, she would be able to get better.  
+“我在努力！”明日香生气地回答。事实上，她根本没在尝试。她的心思早已远离了这次同步测试。她醒来时已经很晚，仍然躺在昨晚向她表白的男孩怀里，温暖而舒适。她第一眼看到的是昏暗卧室中他的眼睛。它们充满了温柔和释然。但还有别的东西。关切。忧虑。他深蓝色的眼睛总是有让她心跳加速的力量。今早看着它们，她觉得有他的帮助，她会变得更好。
+
+This feeling was peculiar to her. She had always prided herself of being independent, of not needing anyone. But being loved, after so long, and realizing her own love for him, had changed that fact... Not that she would admit it to him. Or anyone else.  
+这种感觉对她来说是奇特的。她一直以独立自主为傲，认为自己不需要任何人。但被爱了这么久，意识到自己对他的爱，改变了这一点……尽管她不会向他或任何人承认。
+
+He wasn't drowsy with sleep like her, on the contrary, he looked very much awake. He had waited for her to wake up not to disturb her, she assumed. Maybe it wasn't something important in his mind but it meant a lot to her.  
+他不像她那样因睡眠而昏昏欲睡，相反，他看起来非常清醒。她猜想，他等她醒来是为了不打扰她。也许在他心里这不是什么重要的事，但对她来说意义重大。
+
+It was Sunday. So they didn't need to go to school, which was a good thing, since she really wasn't in the mood for a boring lesson interspersed with death glares, dumb and tiresome hypocrites wanting to bask in her popularity and love letters from boys who just lusted after her body. This whole menagerie already made her sick at the best of time, now just thinking about them was almost unbearable for her. Not to mention the girls Shinji had talked about ! Those opportunistic harpies ! They would get what they deserved, just not now. Now was the time to enjoy spending time with her boyfriend.  
+那天是星期天。所以他们不需要去学校，这倒是件好事，因为她实在没心情去应付那些夹杂着死亡凝视的无聊课程，还有那些愚蠢又烦人的伪君子，想要沐浴在她的人气光环下，以及那些只对她身体垂涎的男生们的情书。这一群乌合之众平时就让她感到恶心，现在光是想到他们就几乎让她难以忍受。更别提真嗣提到过的那些女生了！那些机会主义的悍妇！她们迟早会得到应有的报应，只是不是现在。现在，是时候享受和男朋友共度的时光了。
+
+Yes. She was looking forward to spending the day with Shinji. It was selfish, but she desperately wanted him to alleviate her sadness just by being with her. To feel safe in his arms. To eat whatever he would have prepared for her, she didn't care what, she knew it would have tasted divine. Maybe even watch a movie in his old room.  
+是的。她期待着和真嗣共度这一天。虽然自私，但她迫切希望他能仅仅通过陪伴来缓解她的悲伤。在他的怀抱中感到安全。吃他为她准备的食物，无论是什么，她知道那一定会美味无比。也许甚至可以在他旧房间里看一场电影。
+
+All these hopes came crashing down however when the phone rang.  
+然而，当电话响起时，所有这些希望都破灭了。
+
+As a consequence, she didn't care at all about this sync test. Furthermore, she didn't want to be in her Eva. What she had seen, or thought she had seen, throughout last month, had left a deeply disturbing impression on her. She wasn't ready to "face" her Eva just yet. She still wasn't sure if she had just hallucinated or if it had indeed been the truth. Whatever it was, she didn't want to verify it just yet.  
+因此，她对这次同步测试毫不在意。更甚者，她根本不想进入她的 Eva。上个月她所见到的，或者说她以为自己见到的，给她留下了极其不安的印象。她还没有准备好“面对”她的 Eva。她仍然不确定那究竟是幻觉还是事实。无论是什么，她现在还不想去验证。
+
+That was another reason why she got scolded by Ritsuko. She had closed her heart and mind as soon as she had stepped inside her Entry Plug. She just wanted to be out of there, back home.  
+这也是为什么她被律子责骂的另一个原因。她一进入插入栓就封闭了自己的心和思想。她只想离开那里，回到家中。
+
+But even that wasn't in the cards for her. Ritsuko had wanted her to come to her office as soon as the test ended. She just managed to tell Shinji not to wait for her, but she still told him that she wanted a nice dinner ready when she came back. He had promised her a Black forest cake. That was enough to cheer her up, and help her get through this.  
+但即便这样也不可能。律子希望她在测试结束后立即去她的办公室。她勉强告诉真嗣不要等她，但还是告诉他希望她回来时能有一顿美味的晚餐。他答应给她做一个黑森林蛋糕。这足以让她振作起来，帮助她度过这一切。
+
+It was already getting dark when she finally got out of the Geofront. 'I'll be home soon. A few more minutes and I'll be with...'  
+"当天色已晚，她终于从地底都市出来时，心里想着：‘我很快就能回家了。再过几分钟，我就能和...’”
+
+"Hey Soryu !" Her reverie was interrupted by Toji, who was quickly closing the distance between them.  
+“嘿，索留！”她的沉思被东治打断，他正迅速缩短他们之间的距离。
+
+"Hey Monkey-boy !" She greeted back without enthusiasm. "What are you still doing here ?"  
+“嘿，猴子男孩！”她无精打采地回应道，“你还在这里做什么？”
+
+"I was with my sister. I go see her every time I'm here." He answered happily, not even noticing Asuka's tone.  
+"我和我妹妹在一起。每次来这里我都会去看她。" 他高兴地回答，完全没有注意到明日香的态度。
+
+"You're a devoted brother, Shinji told me about you and your sister. I... Appreciate your... Abnegation." She said truthfully, albeit a bit reluctantly.  
+"你是个尽责的哥哥，真嗣跟我提起过你和你妹妹。我……感激你的……无私。" 她诚恳地说，尽管有些不情愿。
+
+"Did I hear that right ?" Toji replied, flabbergasted. "Did you just compliment me ? Are you alright ?"  
+"我听错了吗？" 东治震惊地回答。"你刚刚是在夸我吗？你还好吧？"
+
+"Listen." She paused a little to organize her thoughts. "Shinji's told me how hard last month has been on him. You've been there for him... You've helped him when I..." She hesitated for a moment, unsettling the boy in front of her. "Wasn't there. I'm glad you did. You are a good friend to the idiot. Thank you..." She finally managed to say with some effort. "But don't get me wrong ! That doesn't mean I like you !"  
+"听着。" 她稍稍停顿，整理思绪。"真嗣告诉我上个月他有多难熬。你一直在他身边... 在我...不在的时候帮助了他。我很高兴你这么做了。你是个好朋友，对那个笨蛋来说。谢谢你..." 她费力地说出这些话，让面前的男孩感到不安。"但别误会！这并不意味着我喜欢你！"
+
+He chuckled. "I sure hope not ! But don't mention it, Demon. It was the least I could do for Shin-Man ! He really was devastated. You know, he really cares about you. And from what I have seen, you might not be so bad for him after all." He trailed off. She was about to leave when he spoke again. "I wanted to thank you too... You know, for saving my life." It was his turn to feel uncomfortable. "I owe you one, and a Suzuhara never forgets his debts !" He paused for a second. "I can see you want to leave, I ain't going to bother you any longer. Take care of Shinji... And yourself. See you tomorrow !"  
+他轻笑。"我当然希望不是！不过别客气，恶魔。为真哥做这些是最起码的！他真的很受打击。你知道，他真的很在乎你。而且据我观察，你对他来说也许并不坏。" 他话音渐弱。她正要离开时，他又开口了。"我也想感谢你... 你知道，救了我的命。" 轮到他感到不自在了。"我欠你一个人情，须原永远不会忘记他的债！" 他停顿了一下。"看得出你想走了，我就不再打扰你了。照顾好真嗣... 还有你自己。明天见！"
+
 .
+
 .
-'Kaji you fool... You were always such a fool !' Misato had been locked up in this dark cell for hours now. She was hungry. She had wanted to finish catching up with her work before grabbing a latish lunch. She was almost done when those Section 2 goons came. The audacity they shown still pissed her off. They were the ones who had messed up letting the Vice Commander get abducted and she was locked up ? She had managed to keep her composure in front of them and inside her cell, mostly, but she was fuming. Last night had not helped, this sync test had really not been necessary, and seeing the distraught look on Asuka's face the whole time she spent in her Entry Plug had left her worried, as a consequence, she had spent a rather short night.
-Kaji couldn't have picked a worst day to play with her nerves. 'Why did you do this ? Don't you think I've got work to do ? And what's the point ? Do you think he'll just tell you everything he knows ? You're an idiot ! If you keep going like this, you'll only manage to get killed !' She let this last thought sink in for a bit. 'Don't get me wrong, I understand... You've always been obsessed by the truth. And I can't blame you for this, I'd really like to know the truth as well !'
-"I need a beer." She let out in the empty room. There was so much in her mind at the moment with all these secrets that she dared to hope that the guard outside would hear her and toss her one. Of course, nobody answered her plea.
-'We're not so different, you want the truth, I want the Angels dead. But tell me, Kaji, what good is the truth if you're dead ? It hit me recently. I've been living only for revenge since even before I joined NERV. But I'm tired now. I want to live a normal life for Heaven's sake ! And I want... No ! I need you to be a part of it. I learned that thanks to the kids. If they can be happy together why couldn't we ? I know this is selfish, but you know what else is !? Disappearing right after we got back together !' She stood up and kicked the bed she was sitting on "Ow !" Her scream was mixed with the muffled thump made by the impact of her foot with the plank which constituted her bed base. She sat on the ground, her knees to her chest, taking deep breaths to calm herself down. This was getting her nowhere, she couldn't change what was happening, the only thing she could do was get used to the idea. He had already made his decision. 'I swear, if you get yourself killed I'll never forgive you as long as I live !'
-She stood up slowly, as if all her strength had left her body and dragged herself back on the bed to lie down on her left side. 'You know, I'm still afraid of the dark. Except when you're with me. Please Kaji, don't die. I'm tired of being miserable, sad and hopeless. ' She wriggled a little, trying to find a more comfortable position.
+
+'Kaji you fool... You were always such a fool !' Misato had been locked up in this dark cell for hours now. She was hungry. She had wanted to finish catching up with her work before grabbing a latish lunch. She was almost done when those Section 2 goons came. The audacity they shown still pissed her off. They were the ones who had messed up letting the Vice Commander get abducted and she was locked up ? She had managed to keep her composure in front of them and inside her cell, mostly, but she was fuming. Last night had not helped, this sync test had really not been necessary, and seeing the distraught look on Asuka's face the whole time she spent in her Entry Plug had left her worried, as a consequence, she had spent a rather short night.  
+“加持，你这个傻瓜...你一直都是这么个傻瓜！”美里已经被关在这个黑暗的牢房里好几个小时了。她饿了。本想赶在稍晚些吃午餐前把工作收尾。就在她快完成时，那些第二课的混蛋闯了进来。他们的大胆行径仍让她气愤不已。是他们搞砸了让副指挥官被绑架，而她却被关了起来？她设法在他们面前和牢房里保持镇定，但内心怒火中烧。昨晚的情况也没好转，这个同步测试实在没必要，而且看到明日香在插入栓里全程那副心烦意乱的表情，让她担心不已，结果她只睡了很短的时间。
+
+Kaji couldn't have picked a worst day to play with her nerves. 'Why did you do this ? Don't you think I've got work to do ? And what's the point ? Do you think he'll just tell you everything he knows ? You're an idiot ! If you keep going like this, you'll only manage to get killed !' She let this last thought sink in for a bit. 'Don't get me wrong, I understand... You've always been obsessed by the truth. And I can't blame you for this, I'd really like to know the truth as well !'  
+加治选了个最糟糕的日子来挑战她的神经。'你为什么要这么做？你难道不知道我有工作要做吗？这有什么意义？你以为他会把他知道的一切都告诉你吗？你真是个白痴！如果你继续这样下去，你只会让自己丧命！'她让这最后的想法沉淀一会儿。'别误会，我理解……你一直对真相着迷。我不能因此责怪你，我也真的很想知道真相！'
+
+"I need a beer." She let out in the empty room. There was so much in her mind at the moment with all these secrets that she dared to hope that the guard outside would hear her and toss her one. Of course, nobody answered her plea.  
+"我需要一杯啤酒。"她在空荡荡的房间里喊道。此刻她的脑海中充斥着太多秘密，她甚至希望外面的守卫能听到她的呼声，扔给她一瓶。当然，没有人回应她的请求。
+
+'We're not so different, you want the truth, I want the Angels dead. But tell me, Kaji, what good is the truth if you're dead ? It hit me recently. I've been living only for revenge since even before I joined NERV. But I'm tired now. I want to live a normal life for Heaven's sake ! And I want... No ! I need you to be a part of it. I learned that thanks to the kids. If they can be happy together why couldn't we ? I know this is selfish, but you know what else is !? Disappearing right after we got back together !' She stood up and kicked the bed she was sitting on "Ow !" Her scream was mixed with the muffled thump made by the impact of her foot with the plank which constituted her bed base. She sat on the ground, her knees to her chest, taking deep breaths to calm herself down. This was getting her nowhere, she couldn't change what was happening, the only thing she could do was get used to the idea. He had already made his decision. 'I swear, if you get yourself killed I'll never forgive you as long as I live !'  
+"我们其实没那么不同，你追求真相，我渴望消灭使徒。但告诉我，加持，若你死了，真相又有何用？最近我恍然大悟。自我加入 NERV 前，一直只为复仇而活。但现在我累了。看在上天的份上，我渴望过正常生活！而且我想要...不！我需要你成为其中一部分。多亏了那些孩子，他们能快乐相伴，我们为何不能？我知道这很自私，但你知道还有什么更自私吗？！刚复合就消失无踪！" 她站起身，踢向她坐的床，"哎哟！" 她的尖叫混杂着脚踢床板发出的沉闷声响。她坐在地上，双膝抱胸，深呼吸试图平复情绪。这样下去毫无进展，她改变不了正在发生的事，唯一能做的就是适应这个想法。他已经做出了决定。"我发誓，如果你让自己丧命，我活着一天就不会原谅你！"
+
+She stood up slowly, as if all her strength had left her body and dragged herself back on the bed to lie down on her left side. 'You know, I'm still afraid of the dark. Except when you're with me. Please Kaji, don't die. I'm tired of being miserable, sad and hopeless. ' She wriggled a little, trying to find a more comfortable position.  
+她缓缓站起身，仿佛所有的力气都已离她而去，拖着身子回到床上，侧身躺下。'你知道吗，我还是怕黑。但有你在身边就不怕了。请别死，加持。我厌倦了痛苦、悲伤和绝望。' 她扭动了一下，试图找到更舒适的姿势。
+
 .
+
 .
-It had been far too long since the three roommates had spent a nice and enjoyable evening together. Two Angels had been defeated since the last time, and the last one had attacked over a month ago. Things didn't start well, however, as Shinji seemed to be the only one in a good mood. Things got better as time went on. Shinji's meal helped, but the driving force was that the three of them really needed a break from everything that was happening.
-Misato was cheerily intoxicated, celebrating in her own way her reunion with both her young charges. She wasn't completely drunk, just enough to get a small buzz that made her feel jolly. It was also to help her cope with what she knew had happened during the day. She was concerned, but she really wanted to enjoy this moment.
-Shinji was smiling. He just couldn't help himself. Things were getting back to normal now that Asuka had come back. It was a small, shy smile, but it was there. It was so rare to see him like this that it was bound to have a positive effect on his roommates. However, his eyes betrayed how worried the boy was.
-Asuka was really, genuinely happy to be there, to share this delicious dinner with them. However, she also looked gloomy. Shinji didn't like that, it was so unlike her to sulk like this... It was more like him, he thought humorlessly. She was doing her best to act like she normally would, but he could see how forced it was. When they were together in their room, she didn't hide it from him. That being said, she didn't talk either. She kept what was eating her up to herself. Shinji didn't want to push her, he knew better, so he said nothing, but he desperately wanted her to tell him, if only to share her burden.
-Things almost got out of hand when Asuka grabbed the last part of the Black forest cake left in the fridge from yesterday's meal. Misato had tasted it the night before. Shinji had thoughtfully left her a plate of yesterday's meal in the fridge, along with a piece of the cake. She had loved it so much that she couldn't resist and tried to snatch it from Asuka the second she had turned her back. It didn't go well. They started arguing and yelling. Shinji had to intervene, as the two women were about to jump at each other's throat. Misato couldn't win against them both, so she let Asuka eat that last piece, but not before making Shinji promise that he would make another one soon.
+
+It had been far too long since the three roommates had spent a nice and enjoyable evening together. Two Angels had been defeated since the last time, and the last one had attacked over a month ago. Things didn't start well, however, as Shinji seemed to be the only one in a good mood. Things got better as time went on. Shinji's meal helped, but the driving force was that the three of them really needed a break from everything that was happening.  
+三位室友已经很久没有共度一个愉快美好的夜晚了。自上次以来，两台使徒已被击败，最后一台使徒也在一个月前发动了攻击。然而，事情一开始并不顺利，因为只有真嗣似乎心情不错。随着时间推移，情况逐渐好转。真嗣的晚餐起了作用，但主要是因为他们三人都需要从发生的一切中暂时解脱出来。
+
+Misato was cheerily intoxicated, celebrating in her own way her reunion with both her young charges. She wasn't completely drunk, just enough to get a small buzz that made her feel jolly. It was also to help her cope with what she knew had happened during the day. She was concerned, but she really wanted to enjoy this moment.  
+美里欢快地喝醉了，以自己的方式庆祝与两个年轻保护对象的重聚。她并没有完全醉倒，只是微醺，让她感到愉悦。这也是为了帮助她应对白天发生的事情。她虽然担忧，但真的很想享受这一刻。
+
+Shinji was smiling. He just couldn't help himself. Things were getting back to normal now that Asuka had come back. It was a small, shy smile, but it was there. It was so rare to see him like this that it was bound to have a positive effect on his roommates. However, his eyes betrayed how worried the boy was.  
+真嗣在微笑。他情不自禁。如今明日香回来了，一切正逐渐恢复正常。那是一个小小的、羞涩的微笑，但它确实存在。他这样子难得一见，注定会对他的室友们产生积极的影响。然而，他的眼神却透露出男孩内心的忧虑。
+
+Asuka was really, genuinely happy to be there, to share this delicious dinner with them. However, she also looked gloomy. Shinji didn't like that, it was so unlike her to sulk like this... It was more like him, he thought humorlessly. She was doing her best to act like she normally would, but he could see how forced it was. When they were together in their room, she didn't hide it from him. That being said, she didn't talk either. She kept what was eating her up to herself. Shinji didn't want to push her, he knew better, so he said nothing, but he desperately wanted her to tell him, if only to share her burden.  
+明日香真的、由衷地高兴能在这里，与他们共享这顿美味的晚餐。然而，她也显得忧郁。真嗣不喜欢这样，她这样闷闷不乐实在不像她……他自嘲地想，这倒更像他自己。她尽力表现得像平时一样，但他看得出那有多勉强。当他们一起在房间里时，她没有对他隐瞒。即便如此，她也没有开口说话。她把困扰自己的事情藏在心底。真嗣不想逼她，他知道怎么做更好，所以他什么也没说，但他迫切希望她能告诉他，哪怕只是分担她的负担。
+
+Things almost got out of hand when Asuka grabbed the last part of the Black forest cake left in the fridge from yesterday's meal. Misato had tasted it the night before. Shinji had thoughtfully left her a plate of yesterday's meal in the fridge, along with a piece of the cake. She had loved it so much that she couldn't resist and tried to snatch it from Asuka the second she had turned her back. It didn't go well. They started arguing and yelling. Shinji had to intervene, as the two women were about to jump at each other's throat. Misato couldn't win against them both, so she let Asuka eat that last piece, but not before making Shinji promise that he would make another one soon.  
+当明日香从冰箱里抢走昨天晚餐剩下的最后一块黑森林蛋糕时，事情差点失控。美里在前一晚已经尝过这块蛋糕。真嗣贴心地为她在冰箱里留了一盘昨天的晚餐，还有一块蛋糕。她非常喜欢，以至于忍不住在明日香转身时试图从她手中夺走。结果并不顺利。两人开始争吵和叫喊。真嗣不得不介入，因为两位女士几乎要互相扑向对方。美里无法同时对付她们两个，所以她让明日香吃掉了那最后一块，但在此之前，她让真嗣承诺会尽快再做一块。
+
 .
+
 .
-Asuka and Shinji went to bed soon after, while Misato stayed a little longer, doing the dishes. It was her penance for trying to shamelessly steal Asuka's dessert.
-Nothing was different between them, yet everything had changed. It had just taken three words. Three little words that they had not said nor heard in far, far too long. They were still in Asuka's bed, as was usual, still snuggling together, arms wrapped around each other.
-"Asuka ?" He whispered delicately. "Do you like Beethoven ?"
-She opened her eyes as an evil smirk appeared on her face. "Why would I like Beethoven ? You say that because I come from Germany ?" She answered, trying her best to sound offended. "You know that's racist, right ?"
-Shinji squirmed uncomfortably. "I-I... It's just... I mean..." He was completely shocked by what she had just said, that she could even think this of him. He tried, but he was speechless.
-That's when she started laughing. "I was kidding Shinji ! Why are you asking me this ?"
-Still shocked, but reassured nonetheless he took a few seconds to calm down. "T-There is a tradition here in Japan. In December, there are concerts of Beethoven's Ninth Symphony. I wanted to go to a concert with you for..." He trailed off for a second. "For your birthday."
-Asuka loved the idea. She had always loved this symphony and despite, or maybe because of the memories hearing it would bring, she wanted to go. However, she was still feeling playful from her previous joke. "Are you sure that will be enough ?" She said sounding a tad disappointed while looking him right in the eyes in the darkness. "I mean, it's an okay gift, but you seem to forget that now that I came back from Unit 02, one might consider that I have two birthdays."
-"I... Erm I... Th-that's the only idea I had." He said desperately, trying with all his might not to stutter or sound disappointed himself, and failing spectacularly at both.
-"Relax idiot !" She said smiling kindly to him before kissing him gently on the lips. "That's a wonderful gift. I'd really like to go to this concert." She then laid back down, her head on his chest. He let out the breath he was holding in a sigh of relief. They stayed like this for a moment before Asuka broke the silence. "Stop worrying about me, idiot. I'm fine." Her tone wasn't aggressive though. 'If you stop, I swear I'll kill you with my bare hands.'
-"How did you know ?" He asked completely taken by surprise. He had done his best not to let it show.
-"I can barely breathe. If you held me any tighter you'd probably break some of my ribs. That kinda gave it away." She couldn't hide her disappointment when he loosened his embrace though. He couldn't see it, thankfully. 'I'm not ready Shinji. I can't tell you why I am who I am and what I saw... Not yet.'
-"Sorry." He was feeling disappointed too. He hadn't done it on purpose, but that could have been a good opportunity for her to tell him what was bothering her. 'How can I understand you if you won't say anything ?' He thought sadly. But he didn't have to understand her to help her. He gently caressed her back 'If you don't want to tell me about anything you don't have to. I'll always be there for you.' That's what he had told her when they kissed for the first time.
-"Idiot." She said tenderly. Maybe it was enough to make him understand. Silence once again enveloped them before she changed the subject. "Why did you go see Wondergirl in the hospital ?"
-He fidgeted a little, making her move in unison to keep her comfortable place on his chest. Even having been separated for this long did not change this habit. Because of the contact, of course, and also because they could speak more freely like that than when they were face to face. "Since the nurse didn't know where you were and..." He trailed off before resuming. "And since I was scared to face Toji after what happened, I wanted to make sure that at least she was okay." He snorted humorlessly. "In the end we barely talked about her because I was too preoccupied about you..."
-She smiled at that last statement. 'Take that, Wondergirl !'
-"I feel bad though..." He continued, unaware of what Asuka was thinking. "She's been isolated her whole life, just like me. It's unfair to ostracize her like that."
-The thought had never crossed her mind. She had always disliked the First Child after she had rejected her. She hadn't tried to understand why she was like this. It didn't even cross her mind that she could be just like she used to be, isolated, alone. "Yeah... I guess you're right." She couldn't disagree with him. It indeed was unfair, nobody deserves to live a life of loneliness. Her smile vanished when she said that. She was about to continue when the sound of something heavy scraping on the floor made them both jump. They were about to shrug it off when they heard desperate wailing through the paper thin door.
-They got on their feet and rushed outside of the bedroom. The sight that greeted them broke their heart. Misato was kneeling in the kitchen, her elbows resting on the table, she was cradling her head in her arms. She was crying and shouting in front of the telephone, oblivious to the rest of the world. Her body shook with each powerful sob. She didn't even move when a hand gently squeezed her shoulder. Shinji and Asuka came on each side of her in an attempt to support her.
-"Misato ?What's going on ?" Asked Asuka worriedly. She didn't answer, she didn't even seem to realize that they were here with her. Her body kept rocking violently as she continued crying. Hesitantly, scared as if the answering machine would burn his finger, Shinji pushed the button to replay the message. Asuka raised her head in shock as she heard the voice belonging to the person who had left the message and as understanding dawned in her mind.
-"Katsuragi, it's me. I'm sure you're listening to this message, especially after I caused you so much trouble. Sorry. Please tell Ritsuko I'm sorry too. Oh, and there's one more thing. I've been growing watermelons. I'd appreciate if you could water them for me. Asuka knows where they are. Katsuragi, take care of the kids, I'll have to lay low for a while. If I see you again, I'll say the words that I couldn't say eight years ago. Bye."
-This message was recorded at 12:02 PM.
-"He's gone." It was almost imperceptible, but the Children heard it, and it shook them to the core. Misato had stopped shouting as soon as she heard Kaji's voice mail, just to hear his voice again. Asuka squatted next to her, she couldn't say anything, so she looked in her sorrowful eyes, her own glimmering with unshed tears. Shinji's hand squeezed the grieving woman's shoulder a bit tighter. "He abandoned me. All for the sake of his stupid quest for truth..." She trailed off, looking away from Asuka, in the distance.
-"... We... We're going to a concert in a few days. W-would you like to join us ?" It was lame and he knew it, he just couldn't find anything else to say. Maybe it would take her mind off this. Asuka glared at him when she heard his question, she didn't want anyone to come with them. Her wordless reprimand died as a tired sigh escaped her guardian's mouth.
-"... I'd like that." Was all she said, without inflexion, still staring at nothing, her Children's presence soothed her mind, it reminded her that despite Kaji's absence, she wasn't alone. She was still crying, albeit silently now. She couldn't stop crying even if she had wanted to. This pain, even if it were alleviated by her wards, was too much.
-Shinji felt powerless. He hated that feeling. He could get inside a giant robot and fight against ungodly monsters, yet he was incapable of helping the woman who had helped him on so many occasions. He wanted to help her so much. That's at this moment that he realized that despite everything, he was still just a child. That didn't mean that he would let Misato face this tragedy alone, though. Silently, he moved away from them to prepare some coffee for everyone, this night was going to be long.
-Asuka, still crouched next to Misato, took her hand, a bit too roughly and motioned with her head for her guardian to stand up. Her jaw was clenched, she had a deep frown on her face. They got up and walked to the living room. Misato sat on the couch while Asuka plopped herself down angrily on a pillow on the ground cross-legged, still frowning in a -very- angry scowl, a dark and cold stare adorning her features. Neither of them talked, they just sat there, alone together, thinking about the message, its owner, and what it meant.
+
+Asuka and Shinji went to bed soon after, while Misato stayed a little longer, doing the dishes. It was her penance for trying to shamelessly steal Asuka's dessert.  
+明日香和真嗣不久后便上床睡觉了，而美里则多留了一会儿洗碗。这是她试图无耻地抢夺明日香甜点的惩罚。
+
+Nothing was different between them, yet everything had changed. It had just taken three words. Three little words that they had not said nor heard in far, far too long. They were still in Asuka's bed, as was usual, still snuggling together, arms wrapped around each other.  
+他们之间似乎一切如常，却又发生了变化。仅仅因为三个字。这三个字他们已经很久没有说出口，也没有听到。他们依旧像往常一样躺在明日香的床上，依偎在一起，手臂环绕着对方。
+
+"Asuka ?" He whispered delicately. "Do you like Beethoven ?"  
+"明日香？" 他轻声细语地问道，"你喜欢贝多芬吗？"
+
+She opened her eyes as an evil smirk appeared on her face. "Why would I like Beethoven ? You say that because I come from Germany ?" She answered, trying her best to sound offended. "You know that's racist, right ?"  
+她睁开眼睛，脸上浮现出一丝邪恶的微笑。"我为什么要喜欢贝多芬？你这么说是因为我来自德国吗？" 她尽力装出被冒犯的样子回答，"你知道这是种族歧视吧？"
+
+Shinji squirmed uncomfortably. "I-I... It's just... I mean..." He was completely shocked by what she had just said, that she could even think this of him. He tried, but he was speechless.  
+真嗣不安地扭动着身体。"我...我...只是...我的意思是..." 他被她刚才的话完全震惊了，没想到她会这样想他。他试图解释，却哑口无言。
+
+That's when she started laughing. "I was kidding Shinji ! Why are you asking me this ?"  
+"就在那时，她开始笑了起来。“我开玩笑的，真嗣！你为什么问我这个？””
+
+Still shocked, but reassured nonetheless he took a few seconds to calm down. "T-There is a tradition here in Japan. In December, there are concerts of Beethoven's Ninth Symphony. I wanted to go to a concert with you for..." He trailed off for a second. "For your birthday."  
+"尽管仍然震惊，但得到了安慰的他还是花了几秒钟来平复心情。“在日本，有一个传统。每年十二月，都会有贝多芬第九交响曲的音乐会。我想和你一起去听一场音乐会……”他顿了一下。“为了你的生日。””
+
+Asuka loved the idea. She had always loved this symphony and despite, or maybe because of the memories hearing it would bring, she wanted to go. However, she was still feeling playful from her previous joke. "Are you sure that will be enough ?" She said sounding a tad disappointed while looking him right in the eyes in the darkness. "I mean, it's an okay gift, but you seem to forget that now that I came back from Unit 02, one might consider that I have two birthdays."  
+"明日香对这个主意很感兴趣。她一直很喜欢这首交响曲，尽管——或者可能正是因为——听到它会勾起一些回忆，她很想一起去。然而，她还在为之前的玩笑感到调皮。“你确定这足够吗？”她在黑暗中直视着他的眼睛，语气略带失望地说。“我是说，这个礼物还算可以，但你似乎忘了，自从我从二号机回来后，有人可能会认为我有两个生日。””
+
+"I... Erm I... Th-that's the only idea I had." He said desperately, trying with all his might not to stutter or sound disappointed himself, and failing spectacularly at both.  
+"我...呃...我...这-这是我唯一能想到的主意了。" 他绝望地说道，竭尽全力不让自己结巴或听起来失望，却在两者上都失败得一塌糊涂。
+
+"Relax idiot !" She said smiling kindly to him before kissing him gently on the lips. "That's a wonderful gift. I'd really like to go to this concert." She then laid back down, her head on his chest. He let out the breath he was holding in a sigh of relief. They stayed like this for a moment before Asuka broke the silence. "Stop worrying about me, idiot. I'm fine." Her tone wasn't aggressive though. 'If you stop, I swear I'll kill you with my bare hands.'  
+"放松点，笨蛋！" 她微笑着温柔地对他说，然后轻轻地吻了他的嘴唇。"这礼物太棒了。我真的想去这场音乐会。" 她随后躺下，头靠在他的胸膛上。他松了一口气，释放了憋着的呼吸。他们就这样静静地待了一会儿，直到明日香打破了沉默。"别再担心我了，笨蛋。我没事。" 虽然她的语气并不强硬。'如果你停下来，我发誓我会用空手杀了你。'
+
+"How did you know ?" He asked completely taken by surprise. He had done his best not to let it show.  
+"你怎么知道的？" 他完全被惊到了。他尽力不让它显露出来。
+
+"I can barely breathe. If you held me any tighter you'd probably break some of my ribs. That kinda gave it away." She couldn't hide her disappointment when he loosened his embrace though. He couldn't see it, thankfully. 'I'm not ready Shinji. I can't tell you why I am who I am and what I saw... Not yet.'  
+"我几乎喘不过气来。如果你再抱紧一点，恐怕我的肋骨都要断了。那样就露馅了。" 尽管如此，当他松开怀抱时，她无法掩饰自己的失望。幸好，他看不见。'我还没准备好，真嗣。我无法告诉你我是谁，我看到了什么... 还不能。'
+
+"Sorry." He was feeling disappointed too. He hadn't done it on purpose, but that could have been a good opportunity for her to tell him what was bothering her. 'How can I understand you if you won't say anything ?' He thought sadly. But he didn't have to understand her to help her. He gently caressed her back 'If you don't want to tell me about anything you don't have to. I'll always be there for you.' That's what he had told her when they kissed for the first time.  
+"对不起。" 他也感到失望。他并非有意为之，但那本是一个她向他倾诉困扰的好机会。'如果你什么都不说，我怎么理解你呢？' 他悲伤地想。但他不需要理解她才能帮助她。他温柔地抚摸着她的背，'如果你不想告诉我任何事，你不必勉强。我会一直在你身边。' 这是他们第一次接吻时他对她说过的话。
+
+"Idiot." She said tenderly. Maybe it was enough to make him understand. Silence once again enveloped them before she changed the subject. "Why did you go see Wondergirl in the hospital ?"  
+"傻瓜。" 她温柔地说。也许这足以让他明白。沉默再次笼罩他们，随后她改变了话题，"你为什么去医院看明日香？"
+
+He fidgeted a little, making her move in unison to keep her comfortable place on his chest. Even having been separated for this long did not change this habit. Because of the contact, of course, and also because they could speak more freely like that than when they were face to face. "Since the nurse didn't know where you were and..." He trailed off before resuming. "And since I was scared to face Toji after what happened, I wanted to make sure that at least she was okay." He snorted humorlessly. "In the end we barely talked about her because I was too preoccupied about you..."  
+他轻轻地动了动，让她也随之调整姿势，以保持她在他胸前的舒适位置。即便分离了这么久，这个习惯依旧未变。当然是因为接触的关系，也因为这样他们能比面对面时更自由地交谈。“既然护士不知道你去哪儿了……”他话说到一半又停了下来，然后继续道，“而且我害怕面对真嗣之后发生的事，我想确保至少她没事。”他自嘲地哼了一声，“结果我们几乎没怎么谈她，因为我满脑子都是你……”
+
+She smiled at that last statement. 'Take that, Wondergirl !'  
+听到最后那句话，她笑了。'看你还敢不敢，奇迹少女！'
+
+"I feel bad though..." He continued, unaware of what Asuka was thinking. "She's been isolated her whole life, just like me. It's unfair to ostracize her like that."  
+“不过我感到很内疚……”他继续说道，没注意到明日香在想什么。“她一生都像我一样孤独，这样排斥她是不公平的。”
+
+The thought had never crossed her mind. She had always disliked the First Child after she had rejected her. She hadn't tried to understand why she was like this. It didn't even cross her mind that she could be just like she used to be, isolated, alone. "Yeah... I guess you're right." She couldn't disagree with him. It indeed was unfair, nobody deserves to live a life of loneliness. Her smile vanished when she said that. She was about to continue when the sound of something heavy scraping on the floor made them both jump. They were about to shrug it off when they heard desperate wailing through the paper thin door.  
+这个念头从未在她脑海中闪现过。自从被她拒绝后，她一直不喜欢这位第一子。她从未试图理解她为何如此。她甚至没有想过，她可能就像过去的自己一样，孤独、孤立。“嗯……我想你说得对。”她无法反驳他。这确实不公平，没有人应该过孤独的生活。当她说出这话时，她的笑容消失了。她正要继续说下去，突然一阵沉重的刮擦声让他们俩都跳了起来。他们正要置之不理，却听到透过薄薄的门传来的绝望哭声。
+
+They got on their feet and rushed outside of the bedroom. The sight that greeted them broke their heart. Misato was kneeling in the kitchen, her elbows resting on the table, she was cradling her head in her arms. She was crying and shouting in front of the telephone, oblivious to the rest of the world. Her body shook with each powerful sob. She didn't even move when a hand gently squeezed her shoulder. Shinji and Asuka came on each side of her in an attempt to support her.  
+他们站起身来，冲出卧室。眼前的一幕让他们心碎。美里跪在厨房里，手肘撑在桌上，用双臂抱着头。她对着电话哭泣喊叫，完全无视周围的世界。每一次强烈的抽泣都让她的身体颤抖。即使一只手轻轻地握住她的肩膀，她也没有动弹。真嗣和明日香分别走到她两侧，试图支持她。
+
+"Misato ?What's going on ?" Asked Asuka worriedly. She didn't answer, she didn't even seem to realize that they were here with her. Her body kept rocking violently as she continued crying. Hesitantly, scared as if the answering machine would burn his finger, Shinji pushed the button to replay the message. Asuka raised her head in shock as she heard the voice belonging to the person who had left the message and as understanding dawned in her mind.  
+“美里？发生什么事了？”明日香担忧地问道。她没有回答，甚至似乎没有意识到他们和她在一起。她的身体继续剧烈摇晃，哭泣不止。犹豫不决，害怕得仿佛答录机会烧伤他的手指，真嗣按下了重播按钮。明日香震惊地抬起头，当她听到留下信息的人的声音，理解逐渐在她脑海中清晰。
+
+"Katsuragi, it's me. I'm sure you're listening to this message, especially after I caused you so much trouble. Sorry. Please tell Ritsuko I'm sorry too. Oh, and there's one more thing. I've been growing watermelons. I'd appreciate if you could water them for me. Asuka knows where they are. Katsuragi, take care of the kids, I'll have to lay low for a while. If I see you again, I'll say the words that I couldn't say eight years ago. Bye."  
+“葛城，是我。我确信你正在听这条留言，尤其是在我给你惹了这么多麻烦之后。对不起。请告诉律子我也道歉。哦，还有一件事。我在种西瓜。如果你能帮我浇浇水，我会很感激的。明日香知道它们在哪里。葛城，照顾好孩子们，我得低调一段时间。如果我们再见，我会说出八年前没能说出口的话。再见。”
+
+This message was recorded at 12:02 PM.  
+这条留言录制于下午 12 点 02 分。
+
+"He's gone." It was almost imperceptible, but the Children heard it, and it shook them to the core. Misato had stopped shouting as soon as she heard Kaji's voice mail, just to hear his voice again. Asuka squatted next to her, she couldn't say anything, so she looked in her sorrowful eyes, her own glimmering with unshed tears. Shinji's hand squeezed the grieving woman's shoulder a bit tighter. "He abandoned me. All for the sake of his stupid quest for truth..." She trailed off, looking away from Asuka, in the distance.  
+"他走了。" 这句话几乎微不可闻，但孩子们听到了，它深深震撼了他们。美里一听到加持的语音留言，就停止了呼喊，只为再次听到他的声音。明日香蹲在她旁边，无法说出任何话，只是凝视着她悲伤的双眼，自己的眼中也闪烁着未落的泪光。真嗣的手更紧地握住了这位悲痛女子的肩膀。"他抛弃了我。全都是为了他那愚蠢的追求真相的使命..." 她渐渐停下，避开明日香的目光，望向远方。
+
+"... We... We're going to a concert in a few days. W-would you like to join us ?" It was lame and he knew it, he just couldn't find anything else to say. Maybe it would take her mind off this. Asuka glared at him when she heard his question, she didn't want anyone to come with them. Her wordless reprimand died as a tired sigh escaped her guardian's mouth.  
+"... 我们... 我们几天后要去听音乐会。你-你想和我们一起去吗？" 这话很蹩脚，他自己也知道，只是找不到其他可说的。也许这能让她暂时忘却这一切。明日香听到他的提议时瞪了他一眼，她不希望任何人加入他们。她的无声责备随着监护人疲惫的叹息而消散。
+
+"... I'd like that." Was all she said, without inflexion, still staring at nothing, her Children's presence soothed her mind, it reminded her that despite Kaji's absence, she wasn't alone. She was still crying, albeit silently now. She couldn't stop crying even if she had wanted to. This pain, even if it were alleviated by her wards, was too much.  
+“……我愿意那样。”她毫无起伏地说道，依旧凝视着虚无，孩子们的存在抚慰了她的心灵，提醒她尽管加持不在，她并不孤单。她仍在哭泣，尽管现在是无声的。即使她想停止，也无法止住泪水。这份痛苦，即便有孩子们的慰藉，也太过沉重。
+
+Shinji felt powerless. He hated that feeling. He could get inside a giant robot and fight against ungodly monsters, yet he was incapable of helping the woman who had helped him on so many occasions. He wanted to help her so much. That's at this moment that he realized that despite everything, he was still just a child. That didn't mean that he would let Misato face this tragedy alone, though. Silently, he moved away from them to prepare some coffee for everyone, this night was going to be long.  
+真嗣感到无能为力。他讨厌这种感觉。他可以进入巨大的机器人与不可名状的怪物战斗，却无法帮助那位多次帮助过他的女性。他非常想帮助她。就在这时，他意识到尽管经历了那么多，自己仍然只是一个孩子。但这并不意味着他会让美里独自面对这场悲剧。他默默地离开他们，去为大家准备咖啡，今夜将会很漫长。
+
+Asuka, still crouched next to Misato, took her hand, a bit too roughly and motioned with her head for her guardian to stand up. Her jaw was clenched, she had a deep frown on her face. They got up and walked to the living room. Misato sat on the couch while Asuka plopped herself down angrily on a pillow on the ground cross-legged, still frowning in a -very- angry scowl, a dark and cold stare adorning her features. Neither of them talked, they just sat there, alone together, thinking about the message, its owner, and what it meant.  
+明日香依旧蹲在美里旁边，用力地握住她的手，示意她站起来。她的下巴紧绷，脸上带着深深的皱眉。两人起身走向客厅。美里坐在沙发上，而明日香则气呼呼地盘腿坐在地上的一个枕头上，依旧皱着眉头，脸上挂着非常愤怒的怒容，眼神阴冷而冷漠。她们都没有说话，只是静静地坐在那里，孤独地相伴，思考着那条信息、它的主人以及它意味着什么。
+
 A few minutes later, Shinji joined them, a tray in his hands with three mugs on it. He had prepared Misato a simple strong coffee with two sugars, her favorite. He gave Asuka a latte, her favorite hot beverage as well. He had thought about fixing himself some tea, but thought coffee would be better, the bitterness of the liquid would go well with the mood, he gloomily thought. He had served each of them in their favorite mugs, hoping that this simple attention would at least help a little. When he gave her her latte, he brushed discreetly her hand to try and relax Asuka, who was looking angrier by the minute.
-They spent most of the time in silence, just drinking their coffees, sometimes talking a little. Asuka never spoke a word, however. After having finished her coffee, Misato seemed almost calm, resigned. "I'm going to take a shower." She said, deadpan, in fact, she sounded empty. Nobody acquiesced. She left without uttering another word.
-"Asuka ? Talk to me." Shinji had waited for Misato to leave before asking his girlfriend to share what she was feeling.
-"Drop it." She sounded furious. The kind of calm fury that always sent shivers down Shinji's spine. He flinched, but didn't back away. He heard the water stream from the bathroom.
-"No. I can see you're angry, tell me what's going..."
-"Leave me alone !" She shouted. Her anger finally winning over her restraint. This message had been the last straw. She had already enough to deal with ever since coming back from Unit 02. "Kaji abandoned me too ! Just like everyone else before him ! Just like Mama !" Tears were coming dangerously close to falling down from her deep blue eyes full of anger. "You're gonna abandon me too so you might as well do it right now !"
-"No." He said trying to sound as confident as possible. He was scared, and unsettled by what she had just said, but now was not the time for that. He stood up and came close to her. He knelt down to try and hug her, only to receive a violent right hook in the face for his trouble. He fell on his side and held his bruised cheek with his left hand for a few seconds, trying vainly to stop his head from spinning. Yet he didn't back off, he wouldn't run away like last time she hit him, so he came back to her and took her in her arms as quickly as possible, effectively preventing her from punching him again. She struggled for a while with little strength. A part of her wanted nothing to do with him at the moment, but the other part just screamed at her to let him hold her. She finally settled down and slumped in his arms, her head dropped on his shoulder. She weakly raised her arms to return the embrace, clutching his shirt desperately. "Asuka, I couldn't abandon you even if I wanted to. I'm far too scared of you to do that."
-She laughed, finally letting go of some of her tension in the comfort of his arms. "Not scared enough, obviously... You're okay ?" She asked when what she had done hit her, concern evident in her voice. She felt reassured by the fact that he was still holding her close to him, he wouldn't had he been mad at her. That wasn't a reason to make it a habit, however. It was the second time she had hit him, the second time she had lost control. She didn't want to wake up alone one day because of her temper, and she knew this would eventually happen if she wasn't able to control herself.
-"Oh this ?" He said in a light tone. "It's nothing. You should see the other guy !" They both laughed against each other. The joke wasn't very good, but in their state of mind, it was as if it had been the best joke they had ever heard. They stayed like this a moment before Shinji stood up and went to the kitchen to prepare three more coffees. Asuka never stopped looking at him.
-When Misato came out of the bathroom, a hot coffee was waiting for her on the coffee table. She didn't even notice Shinji's red and slightly swollen left cheek as she slouched unceremoniously on the couch. "Well... Happy birthday to me."
- 
-### Chapter 13 : Picture in a frame
 
+They spent most of the time in silence, just drinking their coffees, sometimes talking a little. Asuka never spoke a word, however. After having finished her coffee, Misato seemed almost calm, resigned. "I'm going to take a shower." She said, deadpan, in fact, she sounded empty. Nobody acquiesced. She left without uttering another word.  
+他们大部分时间都沉默着，只是喝着咖啡，偶尔聊上几句。然而，明日香一句话也没说。喝完咖啡后，美里似乎变得几乎平静，顺从。“我去洗个澡。”她面无表情地说，实际上，她的声音听起来空洞。没有人回应。她一言不发地离开了。
 
-It's me again ! With a new chapter ! Enjoy !
+"Asuka ? Talk to me." Shinji had waited for Misato to leave before asking his girlfriend to share what she was feeling.  
+“明日香？跟我说说。”真嗣等美里离开后，才请求他的女朋友分享她的感受。
 
-The last updates are going pretty slow, I'm enjoying the time I have between the Angels, things will be getting more fast-paced from this point !
+"Drop it." She sounded furious. The kind of calm fury that always sent shivers down Shinji's spine. He flinched, but didn't back away. He heard the water stream from the bathroom.  
+“别提了。”她的声音听起来很愤怒。那种平静的愤怒总是让真嗣脊背发凉。他畏缩了一下，但没有退缩。他听到了浴室里传来的水流声。
 
+"No. I can see you're angry, tell me what's going..."  
+"不，我能看出你在生气，告诉我发生了什么..."
 
-The room he was in was pitch black and large enough to remain cool despite the post Second Impact perpetual summer's heat. The air was stale, however, courtesy of the lack of air conditioning, or windows for that matter, in the room.
-His chair was uncomfortable, especially since he had been sitting on it for hours. His handcuffs would undeniably leave marks if they had not already bruised his flesh. He wasn't sure, he couldn't check with his own eyes. His hands were numb due to his restraints obstructing his bloodstream. So he just sat there, waiting to be released or executed by his captors. He didn't really mind either way anymore. All these machinations, all these schemes were making him weary. Especially in the last months. Especially when the last remaining shards of humanity, that he had thought were long gone, manifested themselves, makings things he had repressed for years awaken and stir inside him.
-Regret ? Guilt ? The manifestation of his conscience ? Whatever it was, it was now impossible to ignore for the benefit of the Scenario. Torturing children had always been part of it, he knew. He had accepted that. In theory, it had been acceptable, the reality was quite different. Seeing Yui's offspring's dedication to the Second Child had reminded him of how he used to be... Before he decided to follow the man who wanted to prevent humanity from being able to make its own decisions. If, even after being manipulated into being incapable of forming any deep connexion with any other human being, Shinji Ikari had managed to find some semblance of happiness, maybe a world where people live, no matter how stained with sin it was, was not such a bad thing.
-There would be no salvation for him, he had no illusions about that. He could have ran away to hide somewhere, or he could have died with his honor intact. He had chosen a third option, he had chosen to survive, which could be considered brave or cowardly, depending on the point of view, and so he had to face the consequences, yet said consequences were about to get even more extreme, as his superior was already coming up with ways to set the Scenario back on its tracks. He knew what that meant. The collateral damages that were the Children were going to be the prime victims of the Scenario's alterations. This thought alone made him flinch. There was no saving his soul anymore, but maybe, just maybe, he could do something to try to atone for his past cowardice, something to maybe set things right.
-If Yui was aware of what was happening to her child, and what was about to happen to him, she would probably destroy each and every person involved in the Human Instrumentality Project, her ex-husband and himself included, he thought.
-His musings were interrupted by a light which forced him to shut his eyes for a second before he turned his head, not showing any emotion. "Oh, it's you."
-"Long time no see." The silhouette answered before approaching him. "I've put the guards outside to sleep for a while."
-"This will cost you your life." He said as Kaji knelt behind him to remove his handcuffs.
-"All I want is for the kids to be safe." Kaji answered in his usual nonchalant tone as the cuffs fell noisily on the ground. Fuyutsuki was glad to feel blood pumping freely through his hands after so long.
-"This is a noble and selfless cause. Your enemies are powerful, however." He replied deadpan. It wasn't a threat, just an assessment of the situation his interlocutor was in. He massaged his wrists as he stood up.
-The response was peculiar, coming from the Sub Commander, and Kaji realized it. "I sure could use informations." It was risky, but it had been his plan when he decided to come and free Fuyutsuki from SEELE's grasp. So he asked him, there was no use beating about the bush with this man.
-"Maybe you and I should have a talk." He declared as they both walked out of the room. "Not here, though."
-"Just tell me this. Why ?" Kaji couldn't hold back his curiosity. His plan was working, or seemed to at least, but he wanted to understand. He looked around a corner to make sure their path was clear. It would have been a shame to get caught now that things seemed to be looking up.
-"Let's just say the end might not justify the means anymore." Fuyutsuki stated as calmly as always. He didn't want Kaji to know what he really felt. Anticipation. Apprehension. He was also feeling a little like a rat deserting the ship, now that the Scenario was compromised. It didn't matter, however, he should have never been on this ship to begin with. He was a professor. A man supposed to teach youngsters, to help them. Not torture them psychologically. This endeavor was going to be taxing for the old man, nevertheless, he couldn't stay idle anymore. He was one of the few people who might be able to make a difference. This would have to be enough for now. He had been granted a second chance. He wasn't sure he deserved it, however, he was determined to make it count.
-They left the building in silence, their footsteps resonating in the empty hallways, accompanied only by the cicadas.
-.
-.
-They eventually went to bed. Both of them had been trying for the past hours to simply stay awake, their eyes closing for a little longer every time they closed them, the effort required to open them again more important each time. Neither of them wanted to leave Misato alone for the remainder of the night. She was forced in the end to order them to go to bed, reminding them that they had to go to school on the next day. The three of them had just been sitting there in silence for the last hours anyway, so there was little to no point in them staying in the living room, Misato thought, even though she was glad for the silent comfort her charges gave her. She did not thank them, there was no point. And she was too absorbed in her own thoughts to think about politeness.
-Ever since Misato got out of the shower, Shinji had been racking his brain to try, without success, to find a gift for his guardian until he couldn't resist anymore and fell asleep with Asuka in his arms, who had already been sleeping for a while. He smiled a little when he managed to see her peaceful expression as she moved from her usual spot close to his heart. She looked peaceful, which soothed him a little. She hadn't really been herself since coming back. She was her usual self most of the time, but sometimes it seemed forced, even more than usual. And there were those moments when she wasn't even trying. These moments scared him the most. She would either openly slump as if she were overwhelmed by whatever was eating at her or she would simply be completely out of it. Either way, Shinji hated seeing her like this, so he was glad to see her get some respite from her demons when she was sleeping.
-As usual, they had not paid attention to their old teacher droning about Second Impact, however, this time it was for very different reasons. Asuka was sulking about everything that was happening to her since coming back from Unit 02, while Shinji was still trying to come up with an idea, barely paying attention to all of his surroundings. He had to find it, to find something that would cheer her up, it was the least he could do. There were just too many things going wrong at the moment for him not to do anything. And he could do nothing to help Asuka. He had tried, and was still trying, but he couldn't reach her. He didn't know if she didn't want him to or if she just wasn't ready.
-For her part, she had been forced by Shinji to add frustration to the -too- long list of things that were bothering her. She hated that he was not giving her his complete attention as he had been doing for the past months. Nonetheless, she understood. She had started to like Misato more and more as time went by, and she had to admit that she liked living with her, despite how much of a slob she was. She didn't like to see her completely desperate as she had been the previous night. She was used to seeing Misato being cheerful and annoying ! So she let Shinji try to comfort her, since she knew she wouldn't be able to do it, it was just not her thing.
-The answer to Shinji's conundrum was so simple that he couldn't believe how long it took him to find it. The last hours of class were like torture to him. He couldn't stop fidgeting on his seat, waiting for the bell to ring to be able to reveal his grand plan to Asuka. Seeing him like this made her feel a little better, his unfamiliar enthusiasm had contaminated her as soon as he had told her what their present to their guardian was. And despite the fact that he had been the one who found the idea, he kept telling her it was their gift. She had to admit, it was really good. All they had to do was buy a frame and wait to see the look on Misato's face.
-She couldn't hold back the tears when she unwrapped the now framed picture. It was a simple black frame with a photo which had been taken at the hot springs, one of the few ones that had immortalized the three of them, and Pen Pen, of course ! Shinji didn't even remember its existence until, thinking about all the time he had spent with Misato, he remembered looking at a camera's lens back at the Onsen.
-Misato was at the center of the photo, holding the penguin tightly in her arms. She was surrounded by her charges. On her right was Shinji, a shy, embarrassed smile on his face. He looked like he was trying to make himself a small as possible, without leaving the frame, because he knew Misato wouldn't have let him get away with it. That didn't mean he didn't try, since he was a bit further away from Misato than Asuka, who was on her left, winking while making the peace sign with her right hand. She had been in a good mood after having killed the Eighth Angel... Still being alive didn't hurt either.
-The picture represented a simpler time, far from the schemes and the brutality of Humans and Angels alike. Their efficiency at the time made them think they were invincible, that this war could be won. They all carried their own burdens, of course, but they didn't feel as overwhelming as right now. They felt like they could be, if not dealt with immediately, at least put aside until the time was right.
-But this picture meant so much more. It meant that no matter what life would throw at them, from falling into an active volcano to the disappearance of a loved one, they could always rely on each other. This picture was to become a reminder of that simple yet paramount fact. It needed no explanation. They all understood the underlying message.
-Misato, not able to control herself anymore (not that she tried very much), crushed both Asuka and Shinji in her arms, and for once, they both felt genuinely happy to be victims of one of Misato's bear hugs. Soon, the three of them were enjoying a nice group hug which only helped consolidate the bond between them. Eventually, Misato released her wards only to go hang the picture in the living room, so they would be able to see it every time they would need it. Now all they had to do was prepare for the concert.
-As she got ready, which meant changing out of her school uniform and putting clothes that were more suited for the occasion, Asuka couldn't help but feel jealous. She wanted the same comfort Shinji was giving Misato with that picture. That damn picture that was almost mocking her. They all were there for each other. She knew that. She knew that Shinji was there for her, he would help her in a heartbeat with what she saw in Unit 02... With what happened to her when she was younger. He would understand. He was the only one who could understand. All she had to do was tell him... And that was the problem. This frustrated her to no end, she wanted to. She just couldn't. She still wasn't ready. It was stupid, she was getting more withdrawn every day, so it was getting harder and harder to tell him. And she knew that one day, he wouldn't even be there anymore to listen to her if she continued like this.
-It was gnawing at her. She wanted to explode, to break everything and scream at everyone unlucky enough to cross her path, to drive them away so she could enjoy her downward spiral alone, in peace. The only reason that made her control her anger was Shinji, who, despite also being one of the reasons for her current state of mind, was also the only reason for her not falling apart. 'I'm glad you're there, idiot, but we both know I don't deserve it.' She hated him right now. Because he wasn't running away. Because he was there for her. He was forcing her not to be her egotistical and selfish self. And she loved him as much as she hated him because of that.
-However, she realized quickly that there were only two ways this could go. He would either help her through all this until she got better, or she would drag him down with her. She didn't want that, she wanted him to be happy, or at least she didn't want to be responsible for his woes, and she hated thinking like that. It would have been so much easier if she didn't care about him. She forced her eyes shut and took a deep breath.
-"One runs the risk of crying a bit if one allows oneself to be tamed." She chuckled cynically, thinking back to this quote from the Little Prince. She had never expected to be in the fox's shoes one day when she read that book when she was younger.
-Being like this was getting on her nerves. She wasn't even sure of what she had seen inside Unit 02, how come it affected her so much ? And how could she verify it ? She couldn't ask her Eva, it was just a weapon, how could it answer her ? Did she really want to know ? It would probably take time, but she knew she could do like she always did if she wanted to, bury it as deep as she could and never think about it again. Then she'd be able to get back to her normal self. She wouldn't admit it to herself, but she was scared. Scared that what she had seen inside Unit 02 was the truth. Because if it were, it would mean that her mother had abandoned her intentionally.
-.
-.
-Misato cursed herself for the what must have been the thousandth time since they arrived at the concert hall. She uncrossed her legs and crossed them again. It was a rookie mistake, really, and she should have known better. Really. She should have known not to accept to go to a concert without knowing what said concert was. She had expected some pop music like what Shinji was always listening to on his SDAT. She would have enjoyed that, she liked the singer's voice in the last tracks. She even had dared to to hope for some hard rock or something. Anything that could clear her head.
-It's not that she disliked classical music or anything, it's just that she found it so boring !
-She was trying, really trying, with all her might, not to show how bored she was, but she knew she was not doing a very good job at the moment. She just couldn't stop fidgeting on her seat. She had to make an effort. A few sighs had already escaped her lips. She rolled her eyes, slouching a little more on her seat and tried her best to stifle a yawn. And she knew the most boring part had not even started yet. This was going to be long. She really didn't want to ruin the concert for her charges. She could see how much they were enjoying themselves. 'Ugh ! How long is the concerto again ?'
-Shinji was absolutely fascinated. He had already listened to Beethoven's 9th Symphony a few times but seeing it performed live was a completely different experience ! He had never been to a classical music concert in his young life. To be fair, he had never been to a concert at all. His teacher never saw the point in taking him to one.
-Seeing the conductor gesture to one section of the orchestra to an other, moving seemingly at random, yet maintaining the harmony of all the musicians in front of his was astounding to him. All the members of the orchestra played and stopped at exactly the right time, giving life to the music sheets before them, each of them adding their contributions at the perfect moment. He couldn't isolate all of the myriad details of this composition, of course, however, it didn't prevent him from thoroughly enjoying the experience.
-At one point during the third movement, he managed to pry his eyes off the violinists' hypnotizing bows and the cellists which captivated him with their dexterity to stare at his girlfriend's face. She had her eyes closed and a serene expression on her face, as if she were completely absorbed by the music. At this precise moment, after studying her face for a few seconds, Shinji Ikari had a very strange epiphany, one that should have sent shivers down his spine. However, it felt so natural at the moment that it didn't perturb him whatsoever.
-He wanted to thank his father. Because of his father, he became an Eva Pilot. Because of his father, his life was more hectic than it ever had been before. But he wouldn't change that for the world ! He had friends, he had Misato, his mother/big sister figure, and most importantly, he had her. All the pain, all the sorrow was well worth it as long as he had her in his life. He squeezed her hand gently, making her smile softly before he turned his gaze back to the cellists.
-She had very fond yet conflicting memories of this symphony. The first time she had listened to it was when her mother made her listen to an old CD from 1989. She only had vague recollections of it, obviously. Listening to it afterwards always made her feel wistful because of that. This time was no exception, nevertheless, it was also different.
-She had always thought that the third movement was boring, the second movement had always been her favorite. However, this time, the third filled her with a sense of calm, of serenity... Of determination. She had never truly understood it before, but now it made her feel at peace. Just like when she was in Shinji's arms at night, when he would chase her nightmares away. He had his fingers intertwined with hers, which emphasized those feelings. He never released his hold on her hand. Their palms were a little sweaty but she couldn't care less. This time, for the first time, thanks to him, the Ode to Joy spoke to her. For the first time, these lyrics managed to make their way into her heart.. It was what she had needed. She had beaten around the bush for far too long already. She had to see for herself what was inside Unit 02. After that, when she would know, she would be able to start talking to Shinji, she would be able to get better.
-.
-.
-Pen Pen had been looking at what was happening in front of him for quite some time, trying to make sense of it. His three roommates, even though he considered them more as his guests, were sitting at the table, eating. Well, not exclusively. Misato was drinking a beer on her seat, her back to the kitchen, which was not extraordinary in its own right, what stood out to the penguin was that she was drinking it really, really slowly, taking little sip after little sip, not downing it in seconds as she usually did. The most surprising thing was that she just kept the can to her lips, yet she was not drinking ! And it was her first beer of the evening ! Shinji was eating quietly, he looked almost normal compared to his roommates. Almost, because occasionally, he would glance to his right to look at Asuka with what could only be interpreted as worry. A few times, he looked like he was about to say or do something, then decided against it and continued eating. Asuka was eating, her chopsticks clanking noisily each time she brought them to her plate. Other than that, she was silent. Completely silent, as if lost in her own thoughts. She was usually so noisy, it was really strange.
-He didn't understand those humans sometimes. A month ago everything seemed to be perfectly fine, then Asuka disappeared for a month, and now that she was back none of them seemed happy anymore. He shrugged before waddling back to his fridge. Maybe nobody, even her, wanted her back. That was the only logical explanation.
-Since her talk with Shinji last month, Misato had decided to make an effort to spend more time with her charges. It had taken her some time to figure it out, but she needed to be a better guardian for them. 'I guess there's a lot going on right now... I just wish we could have a nice dinner like we used to.'
-"I'm finished." Asuka stated while getting up. She took her plate and brought it to the sink. She then left in silence as the telephone started to ring. She didn't even pay it any attention as she walked to her room.
-Seeing that no one was going to pick it up, Shinji stood and went for it. Asuka stopped, then resumed her previous action once again.
-"Yes, hello ?" Asuka had almost reached her room, her shelter when she was interrupted for a second time. "Asuka ? An international call from Germany for you. It's your mother." Shinji called out to her before she managed to leave. He offered her the phone with a shy smile.
-"For me ? From Mama ?" She said shyly, yet with little inflexion, as she grabbed the phone. Shinji kept looking at her while she started speaking German in front of him. He saw her blush a little while answering her interlocutor.
-Deciding not to intrude into her privacy, even though he couldn't understand a single word that she was saying at the moment, he decided to go wash the dishes. He couldn't help but listen to her, however. It fascinated him to hear her speak another language. The feeling was peculiar, she was still the same person, her voice was still the same, but he had never heard her speak German for a long time like this. He had almost forgotten that she wasn't Japanese. She sounded so exotic ! When he was done with the dishes, he went to the living room and lounged on the couch, still idly listening to his girlfriend voice.
-"Mother..." He thought wistfully. She had never told him anything about her mother. The only time he had mentioned her mother, Asuka had stampeded to her room, her eyes full of tears. 'Why does her mother not call her more often ? And why does Asuka never call her ?' He didn't realize it, but he had started to flex and relax his hand. He was getting angry. He couldn't understand why Asuka would just not call her mother if she had the opportunity. Her mother was alive ! His train of thought was cut short when he heard that Asuka had ended the call. He stood up and turned to her. "You sure talked for a long time." He said, trying to remain as calm as possible. He knew he was glaring at her, he just couldn't help it, his hand was still flexing and relaxing.
-"Well, it's our usual bit of communication." Asuka answered with a hint of disappointment in her tone.
-"It must be nice to have a family to talk to." Shinji replied as sarcastically as he could. He felt bitter. It wasn't completely Asuka's fault. Maybe she had not told him about her family not to hurt his feelings. It was unintentional, but he felt almost betrayed by her.
-She didn't seem to pick up on the caustic comment. "Well, just in appearance. It's only on the surface. She's not my real mother anyway." Shinji's anger disappeared instantly as she said that. "My father moved on with his life rather quickly..." Shinji had walked around the couch and was now facing her. He grabbed her hand with his own. "But it's not like I hate her or anything. I just don't deal with her well. We still talk from time to time because she's my step-mother... Otherwise she would probably have given up like everyone else..." She then added with a smile "You know more than most how I can be !"
-They chuckled a little together, still holding hands. "People never gave you the chance you deserve."
-他们轻声笑了起来，依旧手牵手。“人们从未给你应得的机会。”
-She smiled. That same smile that made his knees weak. A smile that he had not seen for more than a month. "Thank you, idiot." She let go of his hand and finally managed to get to her room.
-她微笑着，那个让他膝盖发软的笑容。一个他一个多月未曾见过的笑容。“谢谢你，傻瓜。”她松开他的手，终于设法回到了自己的房间。
-Shinji stood there, watching the door behind which she disappeared. "You're very nice to her." Misato stated, breaking him out of his musing.
-"She doesn't show it, but there's something wrong. We have to be there for her." He said with authority, turning to face her.
-"You two are really good to each other. You're more confident in yourself. You have not stuttered once while talking to her ! I'm happy for you." She added with melancholy. "I'm very proud of you two." Having said that, she went to the bathroom.
-Shinji could hear the bathtub filling up, and since Asuka probably needed to be alone, he decided to go to his old room to occupy himself with some homework.
-真嗣能听到浴缸注水的声音，既然明日香可能需要独处，他决定去自己的旧房间做些作业来打发时间。
-.
-.
-The water was draining slowly from the bathtub. There probably were hair again clogging the drain. Asuka was standing in front of the bathtub, naked, the stopper in her left hand, looking idly at the water level going down. "What's happening to me ?" She asked herself quietly. "This is disgusting !.. I should feel sick just thinking about bathing in the same water as Misato and stupid Shinji !"
-When the tub was only two thirds full, she put the stopper back in its place. "Yet somehow... It almost feels... Comforting." She said as she turned the hot water on. Bathing in the same water meant that it was usually too cold when the last person got to take their bath. "I don't get it !" She was getting more upset as she continued with her introspection. "I've lived only for myself for so long... It feels so... Alien. And now I don't think I could ever go back to it..." She trailed off, still watching with disinterest as the bathtub was getting full again. "Stupid Shinji ! This is all your fault !" Despite her accusation, she couldn't help but smile softly.
-Her smile vanished quickly, however, as a cramp forced her to hold her stomach. She groaned in pain and grit her teeth. "Ugh ! I hate this !" She cried out to externalize her pain. "I don't even want children !" She took a deep breath after closing her eyes. "Right ?.." She frowned at herself while turning off the tap, her right hand still nursing her stomach. "I'm not sure anymore..." She paused. "Things really were easier when Shinji was just an idiot who cooked my food... But he... Loves me... Maybe I'm the idiot." She chuckled humorlessly before getting into the bathtub.
-.
-.
-It was getting quite late when she got out of the bathroom, clad in her pajamas. Shinji was probably already asleep in their bed. She stayed in her bath longer than usual, the warm water doing wonders to her aching stomach. She slid the bathroom door shut quietly before navigating the apartment.
-"Asuka ? Are you okay ?" She tried to conceal how startled she had been at hearing Misato's voice.
-"I'm fine !" She answered vehemently as she tried to calm her heart rate. Her abdominal pain didn't help with her patience either.
-“我没事！”她激烈地回答，试图平复心跳。腹部的疼痛也让她更加不耐烦。
-"You know, you shouldn't preoccupy yourself with those things..." Misato continued quietly, not reacting to Asuka's anger.
-“你知道，你不应该为那些事情分心……”美里继续平静地说，没有对明日香的愤怒做出反应。
-"Are you kidding me ?" That did it. "You were listening to me ? What the hell Misato ?" She screamed, not caring if Shinji was asleep anymore. Nor the neighbors, for that matter. This intrusion on her privacy was too much at the moment.
-“你在开玩笑吗？”这让她彻底爆发了。“你一直在听我说话？搞什么鬼，美里？”她尖叫起来，不再在乎真嗣是否还在睡觉，也不在乎邻居们会怎么想。此刻，这种对隐私的侵犯让她感到太过分了。
-"I didn't mean to... I just heard you through the door." She whispered, trying to make her charge understand that shouting this late was not something that should be done.
-“我不是故意的……我只是隔着门听到了你的声音。”她低声说道，试图让她的被监护人明白，这么晚大声喊叫是不应该的。
-"I can't believe it ! I'm never truly by myself anymore, except when I'm in the bathroom ! And even there I have to be aware that you could be eavesdropping ?!"
-“我简直不敢相信！我现在连一个人独处的时候都没有了，除了在洗手间！甚至在洗手间里我还得提防你可能在偷听？！”
-"Asuka... Calm down, you'll wake Shinji. I really didn't mean to. And I promise it won't happen again. I just couldn't ignore what you said." She saw Asuka take a deep breath, maybe talking about Shinji was a good idea to calm her.
-“明日香……冷静点，你会吵醒真嗣的。我真的不是故意的。我保证不会再发生这种事了。我只是无法忽视你说的那些话。”她看到明日香深吸了一口气，也许提到真嗣是个让她冷静下来的好主意。
-"What is it ?" She spat. She wasn't screaming anymore, but she was still extremely angry. "You're going to lecture me now that you intruded into my privacy ?"
-Misato tried her best to ignore the sarcasm, it still hurt though. "... You grew up too fast, Asuka." She said, sitting down on her chair at the kitchen table. "Lots of things happened to you... Things you didn't deserve..." She was taking her time to carefully pick her words, the situation was tense enough as it was. Asuka sat down, opting to stay silent for the moment. "You have a lot of responsibilities on you shoulders, so you shouldn't bother yourself with this right now... You have to appreciate what you have." She lowered her head and took a deep breath before looking her charge in the eye again. "Don't squander your chance to be happy." She sounded thoroughly sad, probably thinking about Kaji, Asuka mused. "You and Shinji have a good influence on each other. Focus on this. You can think about all these things later."
-She stopped and waited for a reaction from Asuka, who kept silent. She was looking right back at her intently, with animosity, but also with something else. She was really taking into consideration the advice her rude guardian just gave her.
-她停下，等待着明日香的反应，但明日香保持沉默。她正专注地回望着她，带着敌意，却也夹杂着其他情感。她确实在认真考虑这位粗鲁的监护人刚刚给她的建议。
-Seeing that she wasn't answering, Misato continued. "I'm sorry I listened to what you said. But I want you to know that if you ever need to talk or anything, I'm here." She smiled warmly, tilting her head to the right a little. "I've been neglecting you since you arrived in Japan. That's an other thing I've messed up !" She tried to sound playful, but it was obvious that she took it seriously. "I want to make it up to you. We're a team ! And I'm supposed to be your guardian, it's about time I start acting like that !"
-见她没有回答，美里继续说道：“对不起，我听了你说的那些话。但我想让你知道，如果你需要倾诉或任何帮助，我都在这里。”她温暖地笑着，微微向右偏了偏头。“自从你来到日本，我就一直忽视你。这是我又一件搞砸了的事！”她试图用轻松的语气，但显然她很认真。“我想弥补这一切。我们是一个团队！而我应该是你的监护人，是时候我开始履行这个角色了！”
-Asuka's anger had receded quickly once Misato had started her monologue. Receded, not vanished. She had not expected this. She just wanted to go to bed, she was too tired to argue. She could hold some grudges though. "... Thank you..." She didn't know what else to say. She was still angry, of course, but it was nice to know that Misato was there for her as well. She would probably never ask her anything, but it was nice nonetheless. She had wanted Misato to act more like a guardian, even if she would have never admitted it. That was something she absolutely did not want to admit, but she was starting to get tired of handling everything by herself.
-She left without saying an other word. She wanted to go to bed, to find comfort in Shinji's arms. They had a sync test the next day, and there was something she had to do.
+"Leave me alone !" She shouted. Her anger finally winning over her restraint. This message had been the last straw. She had already enough to deal with ever since coming back from Unit 02. "Kaji abandoned me too ! Just like everyone else before him ! Just like Mama !" Tears were coming dangerously close to falling down from her deep blue eyes full of anger. "You're gonna abandon me too so you might as well do it right now !"  
+"别管我！" 她喊道。她的愤怒终于战胜了克制。这条消息成了压垮骆驼的最后一根稻草。自从从二号机回来后，她已经受够了。"加持也抛弃了我！就像之前的每个人一样！就像妈妈一样！" 泪水危险地在她充满怒火的深蓝色眼睛中打转。"你也会抛弃我的，所以你干脆现在就做吧！"
+
+"No." He said trying to sound as confident as possible. He was scared, and unsettled by what she had just said, but now was not the time for that. He stood up and came close to her. He knelt down to try and hug her, only to receive a violent right hook in the face for his trouble. He fell on his side and held his bruised cheek with his left hand for a few seconds, trying vainly to stop his head from spinning. Yet he didn't back off, he wouldn't run away like last time she hit him, so he came back to her and took her in her arms as quickly as possible, effectively preventing her from punching him again. She struggled for a while with little strength. A part of her wanted nothing to do with him at the moment, but the other part just screamed at her to let him hold her. She finally settled down and slumped in his arms, her head dropped on his shoulder. She weakly raised her arms to return the embrace, clutching his shirt desperately. "Asuka, I couldn't abandon you even if I wanted to. I'm far too scared of you to do that."  
+“不。”他尽力让自己的声音听起来尽可能自信。他感到害怕，她刚才的话让他心神不宁，但此刻并非为此分心之时。他站起身，靠近她。他跪下试图拥抱她，却因此挨了一记猛烈的右勾拳。他侧身倒地，用左手捂着淤青的脸颊，几秒钟内徒劳地试图止住头晕。然而他没有退缩，他不会像上次她打他时那样逃跑，于是他迅速回到她身边，紧紧抱住她，有效地阻止了她再次挥拳。她挣扎了一会儿，但力气微弱。一部分的她此刻不愿与他有任何瓜葛，但另一部分却在尖叫着让她让他拥抱。最终，她平静下来，瘫软在他怀里，头靠在他的肩上。她无力地抬起双臂回抱，紧紧抓住他的衬衫。“明日香，即使我想，我也无法抛弃你。我太怕你了，不敢那么做。”
+
+She laughed, finally letting go of some of her tension in the comfort of his arms. "Not scared enough, obviously... You're okay ?" She asked when what she had done hit her, concern evident in her voice. She felt reassured by the fact that he was still holding her close to him, he wouldn't had he been mad at her. That wasn't a reason to make it a habit, however. It was the second time she had hit him, the second time she had lost control. She didn't want to wake up alone one day because of her temper, and she knew this would eventually happen if she wasn't able to control herself.  
+她笑了，终于在他的怀抱中放松了一些紧张。“显然还不够害怕……你还好吗？”当她意识到自己做了什么时，关切之情溢于言表。她感到安心，因为他依然紧紧抱着她，如果他生气了，是不会这样的。然而，这并不是养成习惯的理由。这是她第二次打他，第二次失控。她不想因为自己的脾气而有一天醒来时独自一人，她知道如果不能控制自己，这终将发生。
+
+"Oh this ?" He said in a light tone. "It's nothing. You should see the other guy !" They both laughed against each other. The joke wasn't very good, but in their state of mind, it was as if it had been the best joke they had ever heard. They stayed like this a moment before Shinji stood up and went to the kitchen to prepare three more coffees. Asuka never stopped looking at him.  
+“哦，这个吗？”他用轻松的语气说，“没什么。你应该看看另一个人！”他们相视而笑。这个笑话并不高明，但在他们当时的心境下，仿佛成了他们听过的最好的笑话。他们就这样待了一会儿，然后真嗣起身去厨房再准备三杯咖啡。明日香始终注视着他。
+
+When Misato came out of the bathroom, a hot coffee was waiting for her on the coffee table. She didn't even notice Shinji's red and slightly swollen left cheek as she slouched unceremoniously on the couch. "Well... Happy birthday to me."  
+当美里从浴室出来时，咖啡桌上已经为她准备了一杯热咖啡。她毫无顾忌地瘫坐在沙发上，甚至没注意到真嗣左脸颊的红肿。“好吧……祝我生日快乐。”
+
  
 ---
 ### Chapter 13 Picture in a frame
-The last updates are going pretty slow, I'm enjoying the time I have between the Angels, things will be getting more fast-paced from this point !
-最近的更新进展相当缓慢，我很享受在使徒之间的这段时光，从现在开始事情将会变得更加快节奏！
+It's me again ! With a new chapter ! Enjoy !  
+又是我！带着新章节来啦！尽情享受吧！
 
+The last updates are going pretty slow, I'm enjoying the time I have between the Angels, things will be getting more fast-paced from this point !  
+最近的更新进展相当缓慢，我很享受在使徒之间的这段时光，从现在开始事情会变得更加快节奏！
 
-The room he was in was pitch black and large enough to remain cool despite the post Second Impact perpetual summer's heat. The air was stale, however, courtesy of the lack of air conditioning, or windows for that matter, in the room.
-His chair was uncomfortable, especially since he had been sitting on it for hours. His handcuffs would undeniably leave marks if they had not already bruised his flesh. He wasn't sure, he couldn't check with his own eyes. His hands were numb due to his restraints obstructing his bloodstream. So he just sat there, waiting to be released or executed by his captors. He didn't really mind either way anymore. All these machinations, all these schemes were making him weary. Especially in the last months. Especially when the last remaining shards of humanity, that he had thought were long gone, manifested themselves, makings things he had repressed for years awaken and stir inside him.
-他的椅子很不舒服，尤其是他已经坐了好几个小时。手铐无疑会留下痕迹，如果还没有让他的皮肤淤青的话。他不确信，他自己无法用眼睛检查。由于束缚阻碍了血液循环，他的双手已经麻木。所以他只是坐在那里，等待着被释放或被他的俘虏处决。他不再真正在意哪一种结果了。所有这些阴谋，所有这些计划都让他感到疲惫。尤其是在过去的几个月里。尤其是当他以为早已消失殆尽的人性碎片，突然显现出来，唤醒并搅动了他多年来压抑的情感。
-Regret ? Guilt ? The manifestation of his conscience ? Whatever it was, it was now impossible to ignore for the benefit of the Scenario. Torturing children had always been part of it, he knew. He had accepted that. In theory, it had been acceptable, the reality was quite different. Seeing Yui's offspring's dedication to the Second Child had reminded him of how he used to be... Before he decided to follow the man who wanted to prevent humanity from being able to make its own decisions. If, even after being manipulated into being incapable of forming any deep connexion with any other human being, Shinji Ikari had managed to find some semblance of happiness, maybe a world where people live, no matter how stained with sin it was, was not such a bad thing.
-There would be no salvation for him, he had no illusions about that. He could have ran away to hide somewhere, or he could have died with his honor intact. He had chosen a third option, he had chosen to survive, which could be considered brave or cowardly, depending on the point of view, and so he had to face the consequences, yet said consequences were about to get even more extreme, as his superior was already coming up with ways to set the Scenario back on its tracks. He knew what that meant. The collateral damages that were the Children were going to be the prime victims of the Scenario's alterations. This thought alone made him flinch. There was no saving his soul anymore, but maybe, just maybe, he could do something to try to atone for his past cowardice, something to maybe set things right.
-If Yui was aware of what was happening to her child, and what was about to happen to him, she would probably destroy each and every person involved in the Human Instrumentality Project, her ex-husband and himself included, he thought.
-他想，如果 Yui 知道她的孩子正在经历什么，以及即将发生在他身上的事情，她可能会摧毁参与人类补完计划的每一个人，包括她的前夫和他自己。
-His musings were interrupted by a light which forced him to shut his eyes for a second before he turned his head, not showing any emotion. "Oh, it's you."
-他的沉思被一道强光打断，迫使他闭上眼睛一秒钟，然后才转过头，面无表情地说：“哦，是你。”
-"Long time no see." The silhouette answered before approaching him. "I've put the guards outside to sleep for a while."
-"This will cost you your life." He said as Kaji knelt behind him to remove his handcuffs.
-"All I want is for the kids to be safe." Kaji answered in his usual nonchalant tone as the cuffs fell noisily on the ground. Fuyutsuki was glad to feel blood pumping freely through his hands after so long.
-“我只希望孩子们能安全。”加持用他一贯的漫不经心的语气回答，手铐咣当一声掉在地上。副司令感到血液终于在双手中自由流动，这让他松了一口气。
-"This is a noble and selfless cause. Your enemies are powerful, however." He replied deadpan. It wasn't a threat, just an assessment of the situation his interlocutor was in. He massaged his wrists as he stood up.
-The response was peculiar, coming from the Sub Commander, and Kaji realized it. "I sure could use informations." It was risky, but it had been his plan when he decided to come and free Fuyutsuki from SEELE's grasp. So he asked him, there was no use beating about the bush with this man.
-"Maybe you and I should have a talk." He declared as they both walked out of the room. "Not here, though."
-"Just tell me this. Why ?" Kaji couldn't hold back his curiosity. His plan was working, or seemed to at least, but he wanted to understand. He looked around a corner to make sure their path was clear. It would have been a shame to get caught now that things seemed to be looking up.
-"Let's just say the end might not justify the means anymore." Fuyutsuki stated as calmly as always. He didn't want Kaji to know what he really felt. Anticipation. Apprehension. He was also feeling a little like a rat deserting the ship, now that the Scenario was compromised. It didn't matter, however, he should have never been on this ship to begin with. He was a professor. A man supposed to teach youngsters, to help them. Not torture them psychologically. This endeavor was going to be taxing for the old man, nevertheless, he couldn't stay idle anymore. He was one of the few people who might be able to make a difference. This would have to be enough for now. He had been granted a second chance. He wasn't sure he deserved it, however, he was determined to make it count.
-They left the building in silence, their footsteps resonating in the empty hallways, accompanied only by the cicadas.
+The room he was in was pitch black and large enough to remain cool despite the post Second Impact perpetual summer's heat. The air was stale, however, courtesy of the lack of air conditioning, or windows for that matter, in the room.  
+他所在的房间漆黑一片，空间足够大，即使在第二次冲击后永久的夏日酷暑中也能保持凉爽。然而，由于房间内缺乏空调或窗户，空气显得沉闷。
+
+His chair was uncomfortable, especially since he had been sitting on it for hours. His handcuffs would undeniably leave marks if they had not already bruised his flesh. He wasn't sure, he couldn't check with his own eyes. His hands were numb due to his restraints obstructing his bloodstream. So he just sat there, waiting to be released or executed by his captors. He didn't really mind either way anymore. All these machinations, all these schemes were making him weary. Especially in the last months. Especially when the last remaining shards of humanity, that he had thought were long gone, manifested themselves, makings things he had repressed for years awaken and stir inside him.  
+他的椅子很不舒服，尤其是他已经坐了好几个小时。手铐无疑会留下痕迹，如果还没有在他的皮肤上留下淤青的话。他不确信，他自己无法查看。由于束缚阻碍了血液循环，他的双手已经麻木。所以他只是坐在那里，等待着被释放或被他的俘虏处决。他现在对这两种结果都不太在意了。所有这些阴谋，所有这些计划都让他感到疲惫。尤其是在过去的几个月里。尤其是当他以为早已消失的人性最后碎片显现出来时，那些他多年来压抑的事情在他内心苏醒并搅动。
+
+Regret ? Guilt ? The manifestation of his conscience ? Whatever it was, it was now impossible to ignore for the benefit of the Scenario. Torturing children had always been part of it, he knew. He had accepted that. In theory, it had been acceptable, the reality was quite different. Seeing Yui's offspring's dedication to the Second Child had reminded him of how he used to be... Before he decided to follow the man who wanted to prevent humanity from being able to make its own decisions. If, even after being manipulated into being incapable of forming any deep connexion with any other human being, Shinji Ikari had managed to find some semblance of happiness, maybe a world where people live, no matter how stained with sin it was, was not such a bad thing.  
+后悔？内疚？良心的体现？无论那是什么，现在为了剧本的利益已无法忽视。他知道，折磨孩子一直是其中的一部分。他接受了这一点。理论上，这可以接受，但现实却截然不同。看到 Yui 的后代对第二适格者的奉献，让他想起了自己曾经的模样……在他决定追随那个想要阻止人类自主决策的人之前。即使在被操纵得无法与任何人建立深厚联系之后，碇真嗣仍能找到些许幸福的影子，或许一个无论多么罪孽深重却仍有人生存的世界，也并非那么糟糕。
+
+There would be no salvation for him, he had no illusions about that. He could have ran away to hide somewhere, or he could have died with his honor intact. He had chosen a third option, he had chosen to survive, which could be considered brave or cowardly, depending on the point of view, and so he had to face the consequences, yet said consequences were about to get even more extreme, as his superior was already coming up with ways to set the Scenario back on its tracks. He knew what that meant. The collateral damages that were the Children were going to be the prime victims of the Scenario's alterations. This thought alone made him flinch. There was no saving his soul anymore, but maybe, just maybe, he could do something to try to atone for his past cowardice, something to maybe set things right.  
+对他而言，救赎已无可能，对此他心知肚明。他本可以选择逃离藏匿，或是带着尊严死去。然而，他选择了第三条路，选择了生存，这或许勇敢，亦或懦弱，全凭旁观者视角而定。因此，他必须面对随之而来的后果，而这些后果正变得愈发极端，因为他的上级已经在设法让“剧本”重回正轨。他深知这意味着什么。作为附带损害的孩子们，将成为“剧本”调整的首要牺牲品。仅是这一念头就让他畏缩。他的灵魂已无法得救，但或许，仅仅是或许，他可以做些什么来弥补过去的怯懦，尝试纠正一些错误。
+
+If Yui was aware of what was happening to her child, and what was about to happen to him, she would probably destroy each and every person involved in the Human Instrumentality Project, her ex-husband and himself included, he thought.  
+他想，如果 Yui 知道她的孩子正在经历什么，以及即将遭遇什么，她大概会摧毁参与人类补完计划的每一个人，包括她的前夫和他自己。
+
+His musings were interrupted by a light which forced him to shut his eyes for a second before he turned his head, not showing any emotion. "Oh, it's you."  
+他的沉思被一道强光打断，迫使他闭上眼睛片刻，随后他转过头，面无表情地说：“哦，是你。”
+
+"Long time no see." The silhouette answered before approaching him. "I've put the guards outside to sleep for a while."  
+"好久不见。" 那个身影回答着，向他靠近。"我已经让外面的守卫暂时睡着了。"
+
+"This will cost you your life." He said as Kaji knelt behind him to remove his handcuffs.  
+"这会让你付出生命的代价。" 他说着，卡吉跪在他身后，开始解开他的手铐。
+
+"All I want is for the kids to be safe." Kaji answered in his usual nonchalant tone as the cuffs fell noisily on the ground. Fuyutsuki was glad to feel blood pumping freely through his hands after so long.  
+"我只希望孩子们能安全。" 卡吉用他一贯的漫不经心的语气回答，手铐咔嗒一声掉在地上。冬月感到久违的血液自由流动在双手中，感到欣慰。
+
+"This is a noble and selfless cause. Your enemies are powerful, however." He replied deadpan. It wasn't a threat, just an assessment of the situation his interlocutor was in. He massaged his wrists as he stood up.  
+"这是一项崇高而无私的事业。不过，你的敌人很强大。" 他面无表情地回答。这不是威胁，只是对他对话者所处情况的评估。他站起来，按摩着手腕。
+
+The response was peculiar, coming from the Sub Commander, and Kaji realized it. "I sure could use informations." It was risky, but it had been his plan when he decided to come and free Fuyutsuki from SEELE's grasp. So he asked him, there was no use beating about the bush with this man.  
+副司令的回答很奇怪，加持意识到了这一点。"我确实需要一些情报。" 这很冒险，但这是他决定来救出被 SEELE 控制的冬月时的计划。所以他直接问他，和这个人兜圈子没有意义。
+
+"Maybe you and I should have a talk." He declared as they both walked out of the room. "Not here, though."  
+"也许你我应该谈谈。" 他们一起走出房间时，他宣布道。"但不是在这里。"
+
+"Just tell me this. Why ?" Kaji couldn't hold back his curiosity. His plan was working, or seemed to at least, but he wanted to understand. He looked around a corner to make sure their path was clear. It would have been a shame to get caught now that things seemed to be looking up.  
+“就告诉我这个，为什么？”加持忍不住好奇心。他的计划似乎正在奏效，但他想要理解其中的缘由。他探头看向拐角，确保前方道路畅通无阻。现在事情似乎有了转机，要是此刻被抓可就太遗憾了。
+
+"Let's just say the end might not justify the means anymore." Fuyutsuki stated as calmly as always. He didn't want Kaji to know what he really felt. Anticipation. Apprehension. He was also feeling a little like a rat deserting the ship, now that the Scenario was compromised. It didn't matter, however, he should have never been on this ship to begin with. He was a professor. A man supposed to teach youngsters, to help them. Not torture them psychologically. This endeavor was going to be taxing for the old man, nevertheless, he couldn't stay idle anymore. He was one of the few people who might be able to make a difference. This would have to be enough for now. He had been granted a second chance. He wasn't sure he deserved it, however, he was determined to make it count.  
+“这么说吧，或许结果已不再能证明手段的正当性。”冬月一如既往平静地说道。他不想让加持知道他真正的感受——期待与忧虑交织。他也觉得自己像是在弃船而逃，毕竟计划已经受挫。然而，这无关紧要，他本就不该登上这艘船。他是一名教授，一个本应教导年轻人、帮助他们的人，而不是对他们进行心理折磨。尽管这项任务对这位老人来说将极为艰巨，但他不能再袖手旁观了。他是少数几个可能产生影响的人之一。眼下，这已足够。他获得了第二次机会。他不确定自己是否配得上，但他决心要让它变得有意义。
+
+They left the building in silence, their footsteps resonating in the empty hallways, accompanied only by the cicadas.  
+他们默默地离开了大楼，脚步声在空荡的走廊里回响，只有蝉鸣相伴。
+
+.
+
+.
+
+They eventually went to bed. Both of them had been trying for the past hours to simply stay awake, their eyes closing for a little longer every time they closed them, the effort required to open them again more important each time. Neither of them wanted to leave Misato alone for the remainder of the night. She was forced in the end to order them to go to bed, reminding them that they had to go to school on the next day. The three of them had just been sitting there in silence for the last hours anyway, so there was little to no point in them staying in the living room, Misato thought, even though she was glad for the silent comfort her charges gave her. She did not thank them, there was no point. And she was too absorbed in her own thoughts to think about politeness.  
+他们最终还是去睡了。过去几个小时里，两人都只是勉强保持清醒，每次闭眼的时间越来越长，再次睁开眼所需的努力也越来越大。谁都不想让美里独自度过剩下的夜晚。最后，美里不得不命令他们去睡觉，提醒他们第二天还得上学。其实过去几个小时里，三个人只是静静地坐在那里，所以美里觉得他们留在客厅也没什么意义，尽管她很感激他们无声的陪伴。她没有向他们道谢，因为那毫无意义。而且她正沉浸在自己的思绪中，无暇顾及礼节。
+
+Ever since Misato got out of the shower, Shinji had been racking his brain to try, without success, to find a gift for his guardian until he couldn't resist anymore and fell asleep with Asuka in his arms, who had already been sleeping for a while. He smiled a little when he managed to see her peaceful expression as she moved from her usual spot close to his heart. She looked peaceful, which soothed him a little. She hadn't really been herself since coming back. She was her usual self most of the time, but sometimes it seemed forced, even more than usual. And there were those moments when she wasn't even trying. These moments scared him the most. She would either openly slump as if she were overwhelmed by whatever was eating at her or she would simply be completely out of it. Either way, Shinji hated seeing her like this, so he was glad to see her get some respite from her demons when she was sleeping.  
+自从美里洗完澡出来后，真嗣就一直绞尽脑汁试图为他的监护人找到一份礼物，却始终未能成功，最终他再也抵挡不住困意，在怀里抱着已经熟睡了一会儿的明日香的情况下睡着了。当他设法看到她从平时紧贴他心口的位置移开时那平静的表情，他微微一笑。她看起来很安宁，这让他稍感宽慰。自从回来后，她并没有真正恢复到自己。大多数时候她还是平时的她，但有时显得有些勉强，甚至比平时更甚。还有那些她甚至不尝试的时刻。这些时刻最让他害怕。她要么会明显地瘫软，仿佛被困扰她的事情压垮，要么就完全心不在焉。无论哪种情况，真嗣都不愿看到她这样，所以看到她在睡梦中暂时摆脱内心的困扰，他感到欣慰。
+
+As usual, they had not paid attention to their old teacher droning about Second Impact, however, this time it was for very different reasons. Asuka was sulking about everything that was happening to her since coming back from Unit 02, while Shinji was still trying to come up with an idea, barely paying attention to all of his surroundings. He had to find it, to find something that would cheer her up, it was the least he could do. There were just too many things going wrong at the moment for him not to do anything. And he could do nothing to help Asuka. He had tried, and was still trying, but he couldn't reach her. He didn't know if she didn't want him to or if she just wasn't ready.  
+一如既往，他们并未留意老教师关于第二次冲击的喋喋不休，然而这次的原因却截然不同。自从从二号机归来后，明日香对周遭发生的一切都闷闷不乐，而真嗣则仍在苦思冥想，几乎没怎么注意周围的一切。他必须找到些什么，找到能让她振作起来的东西，这是他起码能做的。眼下有太多事情出了差错，他不能什么都不做。而他却无法帮助明日香。他尝试过，也仍在尝试，却始终无法触及她。他不知道是她不愿让他接近，还是她还没准备好。
+
+For her part, she had been forced by Shinji to add frustration to the -too- long list of things that were bothering her. She hated that he was not giving her his complete attention as he had been doing for the past months. Nonetheless, she understood. She had started to like Misato more and more as time went by, and she had to admit that she liked living with her, despite how much of a slob she was. She didn't like to see her completely desperate as she had been the previous night. She was used to seeing Misato being cheerful and annoying ! So she let Shinji try to comfort her, since she knew she wouldn't be able to do it, it was just not her thing.  
+对于她来说，被真嗣逼着在已经够长的烦恼清单上又添了一笔——沮丧。她讨厌他不像过去几个月那样全神贯注地对待她。尽管如此，她还是理解。随着时间的推移，她开始越来越喜欢美里，尽管她是个邋遢鬼，但她不得不承认与她同住的感觉不错。她不喜欢看到美里像前一晚那样彻底绝望。她习惯了看到美里开朗又烦人的样子！所以她让真嗣去安慰美里，因为她知道自己做不到，这不是她的强项。
+
+The answer to Shinji's conundrum was so simple that he couldn't believe how long it took him to find it. The last hours of class were like torture to him. He couldn't stop fidgeting on his seat, waiting for the bell to ring to be able to reveal his grand plan to Asuka. Seeing him like this made her feel a little better, his unfamiliar enthusiasm had contaminated her as soon as he had told her what their present to their guardian was. And despite the fact that he had been the one who found the idea, he kept telling her it was their gift. She had to admit, it was really good. All they had to do was buy a frame and wait to see the look on Misato's face.  
+解决真嗣难题的方法简单到他不敢相信自己花了这么久才找到。最后几节课对他来说如同煎熬。他坐在座位上不停地动来动去，等待着下课铃响，好向明日香展示他的宏伟计划。看到他这样，她感觉好多了，他那不寻常的热情在他告诉她给监护人的礼物是什么时就已经感染了她。尽管是他想出的主意，他却一直说是他们共同的礼物。她不得不承认，这确实很棒。他们只需要买个相框，然后等着看美里脸上的表情。
+
+She couldn't hold back the tears when she unwrapped the now framed picture. It was a simple black frame with a photo which had been taken at the hot springs, one of the few ones that had immortalized the three of them, and Pen Pen, of course ! Shinji didn't even remember its existence until, thinking about all the time he had spent with Misato, he remembered looking at a camera's lens back at the Onsen.  
+当她拆开装裱好的照片时，泪水止不住地流了下来。那是一个简单的黑色相框，里面是一张在温泉拍的照片，为数不多记录了他们三人——当然还有企鹅 Pen Pen——的照片！直到回想起与美里共度的时光，真嗣才记起自己在温泉时曾对着镜头看过。
+
+Misato was at the center of the photo, holding the penguin tightly in her arms. She was surrounded by her charges. On her right was Shinji, a shy, embarrassed smile on his face. He looked like he was trying to make himself a small as possible, without leaving the frame, because he knew Misato wouldn't have let him get away with it. That didn't mean he didn't try, since he was a bit further away from Misato than Asuka, who was on her left, winking while making the peace sign with her right hand. She had been in a good mood after having killed the Eighth Angel... Still being alive didn't hurt either.  
+照片中央是美里，她紧紧抱着那只企鹅。周围是她的孩子们。右边是真嗣，脸上带着羞涩尴尬的微笑。他看起来尽量让自己显得渺小，又不离开镜头，因为他知道美里不会允许他这么做。但这并不意味着他没有尝试，因为他比美里左边的明日香离她稍远一些，明日香正眨眼并用右手比出和平的手势。她在击杀了第八使徒后心情大好……依然活着也让她感到愉悦。
+
+The picture represented a simpler time, far from the schemes and the brutality of Humans and Angels alike. Their efficiency at the time made them think they were invincible, that this war could be won. They all carried their own burdens, of course, but they didn't feel as overwhelming as right now. They felt like they could be, if not dealt with immediately, at least put aside until the time was right.  
+这张照片象征着一段更简单的时光，远离了人类和使徒的阴谋与残酷。那时的他们效率极高，让他们觉得自己战无不胜，这场战争可以胜利。当然，他们各自都背负着负担，但那些负担并没有现在这样沉重。他们觉得即使不能立即解决，至少可以暂时搁置，等待合适的时机。
+
+But this picture meant so much more. It meant that no matter what life would throw at them, from falling into an active volcano to the disappearance of a loved one, they could always rely on each other. This picture was to become a reminder of that simple yet paramount fact. It needed no explanation. They all understood the underlying message.  
+但这张照片意味着更多。它意味着无论生活向他们抛来什么，从坠入活火山到所爱之人的消失，他们总能相互依靠。这张照片将成为这一简单却至关重要事实的提醒。它无需解释。他们都明白其中的深层含义。
+
+Misato, not able to control herself anymore (not that she tried very much), crushed both Asuka and Shinji in her arms, and for once, they both felt genuinely happy to be victims of one of Misato's bear hugs. Soon, the three of them were enjoying a nice group hug which only helped consolidate the bond between them. Eventually, Misato released her wards only to go hang the picture in the living room, so they would be able to see it every time they would need it. Now all they had to do was prepare for the concert.  
+美里再也控制不住自己（其实她也没怎么努力），将明日香和真嗣紧紧拥入怀中，而这一次，他们俩都真切地感受到了成为美里熊抱受害者的幸福。很快，三人享受着温馨的团体拥抱，这进一步巩固了他们之间的纽带。最终，美里松开了她的孩子们，只是为了去把照片挂在客厅，这样他们每次需要时都能看到它。现在他们要做的就是准备音乐会了。
+
+As she got ready, which meant changing out of her school uniform and putting clothes that were more suited for the occasion, Asuka couldn't help but feel jealous. She wanted the same comfort Shinji was giving Misato with that picture. That damn picture that was almost mocking her. They all were there for each other. She knew that. She knew that Shinji was there for her, he would help her in a heartbeat with what she saw in Unit 02... With what happened to her when she was younger. He would understand. He was the only one who could understand. All she had to do was tell him... And that was the problem. This frustrated her to no end, she wanted to. She just couldn't. She still wasn't ready. It was stupid, she was getting more withdrawn every day, so it was getting harder and harder to tell him. And she knew that one day, he wouldn't even be there anymore to listen to her if she continued like this.  
+当她准备换下校服，穿上更适合场合的衣物时，明日香忍不住感到一阵嫉妒。她渴望得到那份由真嗣通过那张照片给予美里般的安慰。那该死的照片几乎像是在嘲弄她。他们彼此都互相支持，她知道这一点。她明白真嗣会为她挺身而出，他会毫不犹豫地帮助她面对在二号机中看到的那些...以及她年幼时经历的那些事。他会理解的，他是唯一能理解的人。她只需告诉他...而这正是问题所在。这让她无比沮丧，她想这么做，却做不到。她还没准备好。这很愚蠢，她每天都在变得更加封闭，因此越来越难以向他倾诉。她知道，如果继续这样下去，总有一天，他甚至不会再在那里聆听她了。
+
+It was gnawing at her. She wanted to explode, to break everything and scream at everyone unlucky enough to cross her path, to drive them away so she could enjoy her downward spiral alone, in peace. The only reason that made her control her anger was Shinji, who, despite also being one of the reasons for her current state of mind, was also the only reason for her not falling apart. 'I'm glad you're there, idiot, but we both know I don't deserve it.' She hated him right now. Because he wasn't running away. Because he was there for her. He was forcing her not to be her egotistical and selfish self. And she loved him as much as she hated him because of that.  
+这念头在她心头啃噬。她想要爆发，想要砸碎一切，对那些不幸撞上她枪口的倒霉蛋尖叫，赶走他们，好让自己独自享受这堕落的宁静。唯一让她克制怒火的原因是真嗣，尽管他也是她此刻心境的缘由之一，却也是她不至于崩溃的唯一理由。'有你在真好，傻瓜，但我们俩都知道我不配。'她此刻恨他。因为他没有逃避。因为他陪在她身边。他逼迫她不要成为那个自负又自私的自己。她爱他，正如她恨他一样，正是因为这些。
+
+However, she realized quickly that there were only two ways this could go. He would either help her through all this until she got better, or she would drag him down with her. She didn't want that, she wanted him to be happy, or at least she didn't want to be responsible for his woes, and she hated thinking like that. It would have been so much easier if she didn't care about him. She forced her eyes shut and took a deep breath.  
+然而，她很快意识到这件事只有两种可能。要么他帮她度过这一切直到她好转，要么她拖他一起沉沦。她不希望那样，她希望他快乐，或者至少她不想成为他痛苦的根源，她讨厌这样想。如果她不在乎他就简单多了。她强迫自己闭上眼睛，深吸一口气。
+
+"One runs the risk of crying a bit if one allows oneself to be tamed." She chuckled cynically, thinking back to this quote from the Little Prince. She had never expected to be in the fox's shoes one day when she read that book when she was younger.  
+“如果一个人让自己被驯服了，那他难免会流泪。”她嘲讽地笑了笑，回想起《小王子》中的这句话。她从未想过有一天自己会站在狐狸的位置上，当她年轻时读到那本书的时候。
+
+Being like this was getting on her nerves. She wasn't even sure of what she had seen inside Unit 02, how come it affected her so much ? And how could she verify it ? She couldn't ask her Eva, it was just a weapon, how could it answer her ? Did she really want to know ? It would probably take time, but she knew she could do like she always did if she wanted to, bury it as deep as she could and never think about it again. Then she'd be able to get back to her normal self. She wouldn't admit it to herself, but she was scared. Scared that what she had seen inside Unit 02 was the truth. Because if it were, it would mean that her mother had abandoned her intentionally.  
+这样下去让她心烦意乱。她甚至不确定自己在二号机里看到了什么，为什么会如此影响她？她又该如何验证呢？她不能问她的 Eva，它只是一件武器，怎么可能回答她？她真的想知道吗？或许需要时间，但她知道如果她愿意，她可以像往常一样，把它深深埋藏起来，再也不去想它。那样她就能恢复正常的自己。她不会向自己承认，但她害怕。害怕在二号机里看到的是真相。因为如果是真的，那就意味着她的母亲是有意抛弃她的。
 .
 .
-They eventually went to bed. Both of them had been trying for the past hours to simply stay awake, their eyes closing for a little longer every time they closed them, the effort required to open them again more important each time. Neither of them wanted to leave Misato alone for the remainder of the night. She was forced in the end to order them to go to bed, reminding them that they had to go to school on the next day. The three of them had just been sitting there in silence for the last hours anyway, so there was little to no point in them staying in the living room, Misato thought, even though she was glad for the silent comfort her charges gave her. She did not thank them, there was no point. And she was too absorbed in her own thoughts to think about politeness.
-Ever since Misato got out of the shower, Shinji had been racking his brain to try, without success, to find a gift for his guardian until he couldn't resist anymore and fell asleep with Asuka in his arms, who had already been sleeping for a while. He smiled a little when he managed to see her peaceful expression as she moved from her usual spot close to his heart. She looked peaceful, which soothed him a little. She hadn't really been herself since coming back. She was her usual self most of the time, but sometimes it seemed forced, even more than usual. And there were those moments when she wasn't even trying. These moments scared him the most. She would either openly slump as if she were overwhelmed by whatever was eating at her or she would simply be completely out of it. Either way, Shinji hated seeing her like this, so he was glad to see her get some respite from her demons when she was sleeping.
-As usual, they had not paid attention to their old teacher droning about Second Impact, however, this time it was for very different reasons. Asuka was sulking about everything that was happening to her since coming back from Unit 02, while Shinji was still trying to come up with an idea, barely paying attention to all of his surroundings. He had to find it, to find something that would cheer her up, it was the least he could do. There were just too many things going wrong at the moment for him not to do anything. And he could do nothing to help Asuka. He had tried, and was still trying, but he couldn't reach her. He didn't know if she didn't want him to or if she just wasn't ready.
-For her part, she had been forced by Shinji to add frustration to the -too- long list of things that were bothering her. She hated that he was not giving her his complete attention as he had been doing for the past months. Nonetheless, she understood. She had started to like Misato more and more as time went by, and she had to admit that she liked living with her, despite how much of a slob she was. She didn't like to see her completely desperate as she had been the previous night. She was used to seeing Misato being cheerful and annoying ! So she let Shinji try to comfort her, since she knew she wouldn't be able to do it, it was just not her thing.
-至于她自己，被真嗣逼得在已经够长的烦恼清单上又添了一笔——烦躁。她讨厌他这几个月来不再全神贯注于她。尽管如此，她还是理解。随着时间的推移，她越来越喜欢美里，尽管她是个邋遢鬼，但她不得不承认喜欢和她一起生活。她不喜欢看到美里像昨晚那样完全绝望的样子。她习惯了看到美里快乐又烦人的样子！所以她让真嗣去安慰美里，因为她知道自己做不到，这不是她的强项。
-The answer to Shinji's conundrum was so simple that he couldn't believe how long it took him to find it. The last hours of class were like torture to him. He couldn't stop fidgeting on his seat, waiting for the bell to ring to be able to reveal his grand plan to Asuka. Seeing him like this made her feel a little better, his unfamiliar enthusiasm had contaminated her as soon as he had told her what their present to their guardian was. And despite the fact that he had been the one who found the idea, he kept telling her it was their gift. She had to admit, it was really good. All they had to do was buy a frame and wait to see the look on Misato's face.
-解决真嗣难题的方法简单到他不敢相信自己花了这么久才找到。最后几节课对他来说如同煎熬。他坐在座位上不停地动来动去，等待着下课铃响，好向明日香展示他的伟大计划。看到他这样，她感觉好多了，他那不寻常的热情在他告诉她给监护人的礼物是什么时就已经感染了她。尽管是他想出了这个主意，但他一直告诉她这是他们共同的礼物。她不得不承认，这确实很棒。他们只需要买一个相框，然后等着看美里脸上的表情。
-She couldn't hold back the tears when she unwrapped the now framed picture. It was a simple black frame with a photo which had been taken at the hot springs, one of the few ones that had immortalized the three of them, and Pen Pen, of course ! Shinji didn't even remember its existence until, thinking about all the time he had spent with Misato, he remembered looking at a camera's lens back at the Onsen.
-Misato was at the center of the photo, holding the penguin tightly in her arms. She was surrounded by her charges. On her right was Shinji, a shy, embarrassed smile on his face. He looked like he was trying to make himself a small as possible, without leaving the frame, because he knew Misato wouldn't have let him get away with it. That didn't mean he didn't try, since he was a bit further away from Misato than Asuka, who was on her left, winking while making the peace sign with her right hand. She had been in a good mood after having killed the Eighth Angel... Still being alive didn't hurt either.
-The picture represented a simpler time, far from the schemes and the brutality of Humans and Angels alike. Their efficiency at the time made them think they were invincible, that this war could be won. They all carried their own burdens, of course, but they didn't feel as overwhelming as right now. They felt like they could be, if not dealt with immediately, at least put aside until the time was right.
-But this picture meant so much more. It meant that no matter what life would throw at them, from falling into an active volcano to the disappearance of a loved one, they could always rely on each other. This picture was to become a reminder of that simple yet paramount fact. It needed no explanation. They all understood the underlying message.
-Misato, not able to control herself anymore (not that she tried very much), crushed both Asuka and Shinji in her arms, and for once, they both felt genuinely happy to be victims of one of Misato's bear hugs. Soon, the three of them were enjoying a nice group hug which only helped consolidate the bond between them. Eventually, Misato released her wards only to go hang the picture in the living room, so they would be able to see it every time they would need it. Now all they had to do was prepare for the concert.
-As she got ready, which meant changing out of her school uniform and putting clothes that were more suited for the occasion, Asuka couldn't help but feel jealous. She wanted the same comfort Shinji was giving Misato with that picture. That damn picture that was almost mocking her. They all were there for each other. She knew that. She knew that Shinji was there for her, he would help her in a heartbeat with what she saw in Unit 02... With what happened to her when she was younger. He would understand. He was the only one who could understand. All she had to do was tell him... And that was the problem. This frustrated her to no end, she wanted to. She just couldn't. She still wasn't ready. It was stupid, she was getting more withdrawn every day, so it was getting harder and harder to tell him. And she knew that one day, he wouldn't even be there anymore to listen to her if she continued like this.
-It was gnawing at her. She wanted to explode, to break everything and scream at everyone unlucky enough to cross her path, to drive them away so she could enjoy her downward spiral alone, in peace. The only reason that made her control her anger was Shinji, who, despite also being one of the reasons for her current state of mind, was also the only reason for her not falling apart. 'I'm glad you're there, idiot, but we both know I don't deserve it.' She hated him right now. Because he wasn't running away. Because he was there for her. He was forcing her not to be her egotistical and selfish self. And she loved him as much as she hated him because of that.
-However, she realized quickly that there were only two ways this could go. He would either help her through all this until she got better, or she would drag him down with her. She didn't want that, she wanted him to be happy, or at least she didn't want to be responsible for his woes, and she hated thinking like that. It would have been so much easier if she didn't care about him. She forced her eyes shut and took a deep breath.
-"One runs the risk of crying a bit if one allows oneself to be tamed." She chuckled cynically, thinking back to this quote from the Little Prince. She had never expected to be in the fox's shoes one day when she read that book when she was younger.
-Being like this was getting on her nerves. She wasn't even sure of what she had seen inside Unit 02, how come it affected her so much ? And how could she verify it ? She couldn't ask her Eva, it was just a weapon, how could it answer her ? Did she really want to know ? It would probably take time, but she knew she could do like she always did if she wanted to, bury it as deep as she could and never think about it again. Then she'd be able to get back to her normal self. She wouldn't admit it to herself, but she was scared. Scared that what she had seen inside Unit 02 was the truth. Because if it were, it would mean that her mother had abandoned her intentionally.
+Misato cursed herself for the what must have been the thousandth time since they arrived at the concert hall. She uncrossed her legs and crossed them again. It was a rookie mistake, really, and she should have known better. Really. She should have known not to accept to go to a concert without knowing what said concert was. She had expected some pop music like what Shinji was always listening to on his SDAT. She would have enjoyed that, she liked the singer's voice in the last tracks. She even had dared to to hope for some hard rock or something. Anything that could clear her head.  
+自从他们到达音乐厅以来，Misato 肯定已经咒骂了自己上千次。她不自觉地交换了双腿的交叉姿势。这真是个新手错误，她本该更明白的。真的，她早该知道不该在不清楚是什么音乐会的情况下就答应去。她原本期待的是像 Shinji 经常在 SDAT 上听的那种流行音乐。她本可以享受那种音乐，她喜欢最近几首歌中歌手的声音。她甚至曾大胆地希望会有一些硬摇滚之类的。任何能让她头脑清醒的东西。
+
+It's not that she disliked classical music or anything, it's just that she found it so boring !  
+并不是说她讨厌古典音乐什么的，只是她觉得它太无聊了！
+
+She was trying, really trying, with all her might, not to show how bored she was, but she knew she was not doing a very good job at the moment. She just couldn't stop fidgeting on her seat. She had to make an effort. A few sighs had already escaped her lips. She rolled her eyes, slouching a little more on her seat and tried her best to stifle a yawn. And she knew the most boring part had not even started yet. This was going to be long. She really didn't want to ruin the concert for her charges. She could see how much they were enjoying themselves. 'Ugh ! How long is the concerto again ?'  
+她正竭尽全力，真的在努力，不让自己的无聊表现出来，但她知道自己现在做得并不好。她就是无法停止在座位上动来动去。她必须努力克制。已经有几声叹息从她唇间溜出。她翻了翻白眼，在座位上稍微蜷缩了一些，并尽力抑制住一个哈欠。而且她知道最无聊的部分还没开始呢。这将是一场漫长的等待。她真的不想破坏孩子们的音乐会体验。她能看到他们有多享受。'呃！这个协奏曲到底有多长？'
+
+Shinji was absolutely fascinated. He had already listened to Beethoven's 9th Symphony a few times but seeing it performed live was a completely different experience ! He had never been to a classical music concert in his young life. To be fair, he had never been to a concert at all. His teacher never saw the point in taking him to one.  
+真嗣完全被迷住了。他已经听过贝多芬的第九交响曲几次了，但亲眼看到现场演奏是完全不同的体验！他年轻的人生中从未去过古典音乐会。公平地说，他从未去过任何音乐会。他的老师从未觉得带他去有什么意义。
+
+Seeing the conductor gesture to one section of the orchestra to an other, moving seemingly at random, yet maintaining the harmony of all the musicians in front of his was astounding to him. All the members of the orchestra played and stopped at exactly the right time, giving life to the music sheets before them, each of them adding their contributions at the perfect moment. He couldn't isolate all of the myriad details of this composition, of course, however, it didn't prevent him from thoroughly enjoying the experience.  
+看到指挥家向乐队的某一部分示意转向另一部分，动作看似随意，却始终保持着所有乐手面前的和谐，这让他感到惊叹。乐队的每个成员都在恰到好处的时候演奏和停止，赋予面前的乐谱以生命，每个人都在完美的时刻贡献自己的力量。当然，他无法完全分辨出这首作品的无数细节，但这并不妨碍他充分享受这一体验。
+
+At one point during the third movement, he managed to pry his eyes off the violinists' hypnotizing bows and the cellists which captivated him with their dexterity to stare at his girlfriend's face. She had her eyes closed and a serene expression on her face, as if she were completely absorbed by the music. At this precise moment, after studying her face for a few seconds, Shinji Ikari had a very strange epiphany, one that should have sent shivers down his spine. However, it felt so natural at the moment that it didn't perturb him whatsoever.  
+在第三乐章的某个时刻，他设法将目光从令人着迷的小提琴手弓弦和以灵巧吸引他的大提琴手身上移开，凝视着女友的脸庞。她闭着眼睛，脸上带着宁静的表情，仿佛完全沉浸在音乐之中。就在这一刻，在仔细观察了她的脸几秒钟后，碇真嗣突然有了一种非常奇怪的顿悟，这种顿悟本应让他脊背发凉。然而，那一刻它感觉如此自然，以至于丝毫没有打扰到他。
+
+He wanted to thank his father. Because of his father, he became an Eva Pilot. Because of his father, his life was more hectic than it ever had been before. But he wouldn't change that for the world ! He had friends, he had Misato, his mother/big sister figure, and most importantly, he had her. All the pain, all the sorrow was well worth it as long as he had her in his life. He squeezed her hand gently, making her smile softly before he turned his gaze back to the cellists.  
+他想感谢他的父亲。正因为父亲，他成为了一名 EVA 驾驶员。正因为父亲，他的生活比以往任何时候都要忙碌。但他绝不会为此改变世界！他有朋友，有美里，有母亲/大姐般的存在，最重要的是，他还有她。只要生命中有她，所有的痛苦和悲伤都值得。他轻轻握紧她的手，让她温柔地微笑，随后将目光转回大提琴手们。
+
+She had very fond yet conflicting memories of this symphony. The first time she had listened to it was when her mother made her listen to an old CD from 1989. She only had vague recollections of it, obviously. Listening to it afterwards always made her feel wistful because of that. This time was no exception, nevertheless, it was also different.  
+她对这首交响曲有着既深刻又矛盾的记忆。第一次听它是在母亲让她听一张 1989 年的旧 CD 时。她当然只有模糊的记忆。之后每次听都让她感到怀旧，这次也不例外，然而，它也有些不同。
+
+She had always thought that the third movement was boring, the second movement had always been her favorite. However, this time, the third filled her with a sense of calm, of serenity... Of determination. She had never truly understood it before, but now it made her feel at peace. Just like when she was in Shinji's arms at night, when he would chase her nightmares away. He had his fingers intertwined with hers, which emphasized those feelings. He never released his hold on her hand. Their palms were a little sweaty but she couldn't care less. This time, for the first time, thanks to him, the Ode to Joy spoke to her. For the first time, these lyrics managed to make their way into her heart.. It was what she had needed. She had beaten around the bush for far too long already. She had to see for herself what was inside Unit 02. After that, when she would know, she would be able to start talking to Shinji, she would be able to get better.  
+她一直认为第三乐章乏味无趣，第二乐章才是她的最爱。然而这次，第三乐章却让她感到一种宁静、平和……以及决心。她从未真正理解过它，但现在它让她感到心安。就像夜晚在真嗣的怀抱中，他驱散她的噩梦时那样。他的手指与她的紧紧相扣，更加深了这种感觉。他从未松开过她的手。他们的手掌微微出汗，但她毫不在意。这一次，多亏了他，《欢乐颂》终于对她说话了。这些歌词首次触动了她的心弦……这正是她所需要的。她已经兜了太久的圈子。她必须亲自探明零二机内部究竟藏着什么。之后，当她知晓一切，她就能开始与真嗣交谈，她就能变得更好。
+
 .
+
 .
-Misato cursed herself for the what must have been the thousandth time since they arrived at the concert hall. She uncrossed her legs and crossed them again. It was a rookie mistake, really, and she should have known better. Really. She should have known not to accept to go to a concert without knowing what said concert was. She had expected some pop music like what Shinji was always listening to on his SDAT. She would have enjoyed that, she liked the singer's voice in the last tracks. She even had dared to to hope for some hard rock or something. Anything that could clear her head.
-It's not that she disliked classical music or anything, it's just that she found it so boring !
-She was trying, really trying, with all her might, not to show how bored she was, but she knew she was not doing a very good job at the moment. She just couldn't stop fidgeting on her seat. She had to make an effort. A few sighs had already escaped her lips. She rolled her eyes, slouching a little more on her seat and tried her best to stifle a yawn. And she knew the most boring part had not even started yet. This was going to be long. She really didn't want to ruin the concert for her charges. She could see how much they were enjoying themselves. 'Ugh ! How long is the concerto again ?'
-Shinji was absolutely fascinated. He had already listened to Beethoven's 9th Symphony a few times but seeing it performed live was a completely different experience ! He had never been to a classical music concert in his young life. To be fair, he had never been to a concert at all. His teacher never saw the point in taking him to one.
-真嗣完全被迷住了。他已经听过几次贝多芬的第九交响曲，但现场观看演出是完全不同的体验！他年轻时从未去过古典音乐会。公平地说，他从未去过任何音乐会。他的老师从未觉得带他去有什么意义。
-Seeing the conductor gesture to one section of the orchestra to an other, moving seemingly at random, yet maintaining the harmony of all the musicians in front of his was astounding to him. All the members of the orchestra played and stopped at exactly the right time, giving life to the music sheets before them, each of them adding their contributions at the perfect moment. He couldn't isolate all of the myriad details of this composition, of course, however, it didn't prevent him from thoroughly enjoying the experience.
-看到指挥向乐队的某一部分示意到另一部分，动作看似随意，却始终保持着所有音乐家面前的和谐，这让他感到惊叹。乐队的每个成员都在恰到好处的时候演奏和停止，赋予了面前的乐谱以生命，每个人都在完美的时刻贡献了自己的一份力量。当然，他无法完全分辨出这首作品的无数细节，但这并不妨碍他充分享受这一体验。
-At one point during the third movement, he managed to pry his eyes off the violinists' hypnotizing bows and the cellists which captivated him with their dexterity to stare at his girlfriend's face. She had her eyes closed and a serene expression on her face, as if she were completely absorbed by the music. At this precise moment, after studying her face for a few seconds, Shinji Ikari had a very strange epiphany, one that should have sent shivers down his spine. However, it felt so natural at the moment that it didn't perturb him whatsoever.
-在第三乐章的某个时刻，他设法将目光从小提琴手那令人着迷的弓法和大提琴手以其灵巧吸引他的地方移开，凝视着女友的脸庞。她闭着眼睛，脸上带着宁静的表情，仿佛完全沉浸在音乐之中。就在这一刻，在仔细观察了她的脸几秒钟后，碇真嗣有了一个非常奇怪的顿悟，这本应让他脊背发凉。然而，那一刻它感觉如此自然，以至于丝毫没有打扰到他。
-He wanted to thank his father. Because of his father, he became an Eva Pilot. Because of his father, his life was more hectic than it ever had been before. But he wouldn't change that for the world ! He had friends, he had Misato, his mother/big sister figure, and most importantly, he had her. All the pain, all the sorrow was well worth it as long as he had her in his life. He squeezed her hand gently, making her smile softly before he turned his gaze back to the cellists.
-他想感谢他的父亲。正因为父亲，他成为了一名 EVA 驾驶员。正因为父亲，他的生活比以往任何时候都要忙碌。但他绝不会为此改变世界！他有朋友，有美里，有母亲/大姐般的存在，最重要的是，他拥有她。只要生命中有她，所有的痛苦和悲伤都是值得的。他轻轻握紧她的手，让她温柔地微笑，然后再次将目光转向大提琴手们。
-She had very fond yet conflicting memories of this symphony. The first time she had listened to it was when her mother made her listen to an old CD from 1989. She only had vague recollections of it, obviously. Listening to it afterwards always made her feel wistful because of that. This time was no exception, nevertheless, it was also different.
-She had always thought that the third movement was boring, the second movement had always been her favorite. However, this time, the third filled her with a sense of calm, of serenity... Of determination. She had never truly understood it before, but now it made her feel at peace. Just like when she was in Shinji's arms at night, when he would chase her nightmares away. He had his fingers intertwined with hers, which emphasized those feelings. He never released his hold on her hand. Their palms were a little sweaty but she couldn't care less. This time, for the first time, thanks to him, the Ode to Joy spoke to her. For the first time, these lyrics managed to make their way into her heart.. It was what she had needed. She had beaten around the bush for far too long already. She had to see for herself what was inside Unit 02. After that, when she would know, she would be able to start talking to Shinji, she would be able to get better.
-.
-.
-Pen Pen had been looking at what was happening in front of him for quite some time, trying to make sense of it. His three roommates, even though he considered them more as his guests, were sitting at the table, eating. Well, not exclusively. Misato was drinking a beer on her seat, her back to the kitchen, which was not extraordinary in its own right, what stood out to the penguin was that she was drinking it really, really slowly, taking little sip after little sip, not downing it in seconds as she usually did. The most surprising thing was that she just kept the can to her lips, yet she was not drinking ! And it was her first beer of the evening ! Shinji was eating quietly, he looked almost normal compared to his roommates. Almost, because occasionally, he would glance to his right to look at Asuka with what could only be interpreted as worry. A few times, he looked like he was about to say or do something, then decided against it and continued eating. Asuka was eating, her chopsticks clanking noisily each time she brought them to her plate. Other than that, she was silent. Completely silent, as if lost in her own thoughts. She was usually so noisy, it was really strange.
-He didn't understand those humans sometimes. A month ago everything seemed to be perfectly fine, then Asuka disappeared for a month, and now that she was back none of them seemed happy anymore. He shrugged before waddling back to his fridge. Maybe nobody, even her, wanted her back. That was the only logical explanation.
-Since her talk with Shinji last month, Misato had decided to make an effort to spend more time with her charges. It had taken her some time to figure it out, but she needed to be a better guardian for them. 'I guess there's a lot going on right now... I just wish we could have a nice dinner like we used to.'
-"I'm finished." Asuka stated while getting up. She took her plate and brought it to the sink. She then left in silence as the telephone started to ring. She didn't even pay it any attention as she walked to her room.
-“我吃完了。”明日香说着站起身来。她拿起盘子，送到水槽边。随后，她默默地离开了，电话铃声随之响起。她甚至没有注意到电话，径直走向自己的房间。
-Seeing that no one was going to pick it up, Shinji stood and went for it. Asuka stopped, then resumed her previous action once again.
-看到没人打算接电话，真嗣站起身去接。明日香停了一下，然后又继续她之前的动作。
-"Yes, hello ?" Asuka had almost reached her room, her shelter when she was interrupted for a second time. "Asuka ? An international call from Germany for you. It's your mother." Shinji called out to her before she managed to leave. He offered her the phone with a shy smile.
-"For me ? From Mama ?" She said shyly, yet with little inflexion, as she grabbed the phone. Shinji kept looking at her while she started speaking German in front of him. He saw her blush a little while answering her interlocutor.
-Deciding not to intrude into her privacy, even though he couldn't understand a single word that she was saying at the moment, he decided to go wash the dishes. He couldn't help but listen to her, however. It fascinated him to hear her speak another language. The feeling was peculiar, she was still the same person, her voice was still the same, but he had never heard her speak German for a long time like this. He had almost forgotten that she wasn't Japanese. She sounded so exotic ! When he was done with the dishes, he went to the living room and lounged on the couch, still idly listening to his girlfriend voice.
+
+Pen Pen had been looking at what was happening in front of him for quite some time, trying to make sense of it. His three roommates, even though he considered them more as his guests, were sitting at the table, eating. Well, not exclusively. Misato was drinking a beer on her seat, her back to the kitchen, which was not extraordinary in its own right, what stood out to the penguin was that she was drinking it really, really slowly, taking little sip after little sip, not downing it in seconds as she usually did. The most surprising thing was that she just kept the can to her lips, yet she was not drinking ! And it was her first beer of the evening ! Shinji was eating quietly, he looked almost normal compared to his roommates. Almost, because occasionally, he would glance to his right to look at Asuka with what could only be interpreted as worry. A few times, he looked like he was about to say or do something, then decided against it and continued eating. Asuka was eating, her chopsticks clanking noisily each time she brought them to her plate. Other than that, she was silent. Completely silent, as if lost in her own thoughts. She was usually so noisy, it was really strange.  
+企鹅潘潘已经盯着眼前的一幕看了好一阵子，试图理解这一切。他的三位室友，尽管他更愿意将他们视为访客，正坐在桌前用餐。嗯，也不完全是。美里背对着厨房，坐在自己的位置上喝着啤酒，这本身并不稀奇，但让潘潘感到奇怪的是，她喝得异常缓慢，一小口接一小口，完全没有平时那种几秒内一饮而尽的豪爽。最令人惊讶的是，她只是将罐子举在唇边，却并未真正饮用！而且这还是她当晚的第一罐啤酒！真嗣安静地吃着饭，与他的室友们相比，他看起来几乎正常。几乎，因为时不时地，他会向右瞥一眼，目光中流露出明显的担忧，投向明日香。有好几次，他似乎想要说些什么或做些什么，但最终还是决定作罢，继续用餐。明日香则用筷子夹菜，每次触碰盘子时都发出清脆的声响。除此之外，她完全沉默，仿佛沉浸在自己的思绪中。她平时总是那么吵闹，此刻的安静显得格外反常。
+
+He didn't understand those humans sometimes. A month ago everything seemed to be perfectly fine, then Asuka disappeared for a month, and now that she was back none of them seemed happy anymore. He shrugged before waddling back to his fridge. Maybe nobody, even her, wanted her back. That was the only logical explanation.  
+他有时真搞不懂这些人类。一个月前一切似乎都还完美无缺，然后明日香消失了整整一个月，现在她回来了，他们却似乎都不再快乐了。他耸了耸肩，摇摇摆摆地回到冰箱前。也许没有人，包括她自己，希望她回来。这是唯一合乎逻辑的解释。
+
+Since her talk with Shinji last month, Misato had decided to make an effort to spend more time with her charges. It had taken her some time to figure it out, but she needed to be a better guardian for them. 'I guess there's a lot going on right now... I just wish we could have a nice dinner like we used to.'  
+自从上个月与真嗣谈过之后，美里决定努力多花时间陪伴她的孩子们。她花了一些时间才明白过来，但她需要成为一个更好的监护人。'我想现在有很多事情正在发生...我只希望我们能像以前那样享受一顿美好的晚餐。'
+
+"I'm finished." Asuka stated while getting up. She took her plate and brought it to the sink. She then left in silence as the telephone started to ring. She didn't even pay it any attention as she walked to her room.  
+“我吃完了。”明日香说着站起身来。她拿起盘子，把它放到水槽里。然后她默默地离开了，电话铃声随之响起。她连看都没看一眼，径直走向自己的房间。
+
+Seeing that no one was going to pick it up, Shinji stood and went for it. Asuka stopped, then resumed her previous action once again.  
+看到没人打算去捡，真嗣站起身来走向它。明日香停了下来，然后再次恢复了之前的动作。
+
+"Yes, hello ?" Asuka had almost reached her room, her shelter when she was interrupted for a second time. "Asuka ? An international call from Germany for you. It's your mother." Shinji called out to her before she managed to leave. He offered her the phone with a shy smile.  
+“是的，你好？”明日香几乎已经到了她的房间，那是她被打断时的避难所。“明日香？从德国打来的国际电话，是你妈妈。”真嗣在她离开前喊住了她。他带着羞涩的微笑将电话递给她。
+
+"For me ? From Mama ?" She said shyly, yet with little inflexion, as she grabbed the phone. Shinji kept looking at her while she started speaking German in front of him. He saw her blush a little while answering her interlocutor.  
+“给我的？从妈妈那里？”她羞涩地说道，语气中却几乎没有起伏，接过了电话。真嗣一直看着她，她开始在他面前用德语交谈。他看到她在回答对方时脸颊微微泛红。
+
+Deciding not to intrude into her privacy, even though he couldn't understand a single word that she was saying at the moment, he decided to go wash the dishes. He couldn't help but listen to her, however. It fascinated him to hear her speak another language. The feeling was peculiar, she was still the same person, her voice was still the same, but he had never heard her speak German for a long time like this. He had almost forgotten that she wasn't Japanese. She sounded so exotic ! When he was done with the dishes, he went to the living room and lounged on the couch, still idly listening to his girlfriend voice.  
 决定不打扰她的私人空间，尽管此刻他一个字也听不懂她在说什么，他还是决定去洗碗。然而，他忍不住倾听她的声音。听到她说另一种语言让他着迷。这种感觉很奇特，她依然是同一个人，声音也依旧，但他很久没有听过她这样长时间地说德语了。他几乎忘了她不是日本人。她的发音听起来如此异国情调！洗完碗后，他走进客厅，懒洋洋地躺在沙发上，依旧漫不经心地听着女友的声音。
-"Mother..." He thought wistfully. She had never told him anything about her mother. The only time he had mentioned her mother, Asuka had stampeded to her room, her eyes full of tears. 'Why does her mother not call her more often ? And why does Asuka never call her ?' He didn't realize it, but he had started to flex and relax his hand. He was getting angry. He couldn't understand why Asuka would just not call her mother if she had the opportunity. Her mother was alive ! His train of thought was cut short when he heard that Asuka had ended the call. He stood up and turned to her. "You sure talked for a long time." He said, trying to remain as calm as possible. He knew he was glaring at her, he just couldn't help it, his hand was still flexing and relaxing.
-"Well, it's our usual bit of communication." Asuka answered with a hint of disappointment in her tone.
-"It must be nice to have a family to talk to." Shinji replied as sarcastically as he could. He felt bitter. It wasn't completely Asuka's fault. Maybe she had not told him about her family not to hurt his feelings. It was unintentional, but he felt almost betrayed by her.
-She didn't seem to pick up on the caustic comment. "Well, just in appearance. It's only on the surface. She's not my real mother anyway." Shinji's anger disappeared instantly as she said that. "My father moved on with his life rather quickly..." Shinji had walked around the couch and was now facing her. He grabbed her hand with his own. "But it's not like I hate her or anything. I just don't deal with her well. We still talk from time to time because she's my step-mother... Otherwise she would probably have given up like everyone else..." She then added with a smile "You know more than most how I can be !"
-They chuckled a little together, still holding hands. "People never gave you the chance you deserve."
-他们轻声笑了起来，依旧手牵手。“人们从未给你应得的机会。”
-She smiled. That same smile that made his knees weak. A smile that he had not seen for more than a month. "Thank you, idiot." She let go of his hand and finally managed to get to her room.
-她微笑着，那个让他膝盖发软的笑容。一个他一个多月未曾见过的笑容。“谢谢你，傻瓜。”她松开他的手，终于设法回到了自己的房间。
-Shinji stood there, watching the door behind which she disappeared. "You're very nice to her." Misato stated, breaking him out of his musing.
-"She doesn't show it, but there's something wrong. We have to be there for her." He said with authority, turning to face her.
-"You two are really good to each other. You're more confident in yourself. You have not stuttered once while talking to her ! I'm happy for you." She added with melancholy. "I'm very proud of you two." Having said that, she went to the bathroom.
-Shinji could hear the bathtub filling up, and since Asuka probably needed to be alone, he decided to go to his old room to occupy himself with some homework.
-真嗣能听到浴缸注水的声音，既然明日香可能需要独处，他决定去自己的旧房间做些作业来打发时间。
+
+"Mother..." He thought wistfully. She had never told him anything about her mother. The only time he had mentioned her mother, Asuka had stampeded to her room, her eyes full of tears. 'Why does her mother not call her more often ? And why does Asuka never call her ?' He didn't realize it, but he had started to flex and relax his hand. He was getting angry. He couldn't understand why Asuka would just not call her mother if she had the opportunity. Her mother was alive ! His train of thought was cut short when he heard that Asuka had ended the call. He stood up and turned to her. "You sure talked for a long time." He said, trying to remain as calm as possible. He knew he was glaring at her, he just couldn't help it, his hand was still flexing and relaxing.  
+"妈妈..." 他遐想着。她从未向他透露过任何关于她母亲的事情。唯一一次提到她母亲时，明日香便泪眼汪汪地冲回了自己的房间。'为什么她妈妈不常给她打电话？而明日香又为何从不主动联系她？' 他没有意识到，自己的手已经开始不自觉地握紧又松开。他感到愤怒。他不明白，既然有机会，明日香为何不主动联系她的母亲。她的母亲还健在啊！他的思绪被明日香挂断电话的声音打断。他站起身，转向她。"你聊得挺久的。" 他尽量保持平静地说道。他知道自己正瞪着她，他就是控制不住，手还在不停地握紧又松开。
+
+"Well, it's our usual bit of communication." Asuka answered with a hint of disappointment in her tone.  
+"嗯，这是我们惯常的交流方式。" 明日香回答，语气中带着一丝失望。
+
+"It must be nice to have a family to talk to." Shinji replied as sarcastically as he could. He felt bitter. It wasn't completely Asuka's fault. Maybe she had not told him about her family not to hurt his feelings. It was unintentional, but he felt almost betrayed by her.  
+"有家人可以聊天一定很美好吧。" 真嗣尽可能地用讽刺的口吻回应。他感到苦涩。这并不完全是明日香的错。也许她没告诉他关于家人的事，是不想伤害他的感情。虽然是无意的，但他几乎感到被她背叛了。
+
+She didn't seem to pick up on the caustic comment. "Well, just in appearance. It's only on the surface. She's not my real mother anyway." Shinji's anger disappeared instantly as she said that. "My father moved on with his life rather quickly..." Shinji had walked around the couch and was now facing her. He grabbed her hand with his own. "But it's not like I hate her or anything. I just don't deal with her well. We still talk from time to time because she's my step-mother... Otherwise she would probably have given up like everyone else..." She then added with a smile "You know more than most how I can be !"  
+"她似乎并未察觉那句尖刻的评论。“嗯，只是外表上。仅此而已。她毕竟不是我的亲生母亲。” 说到这里，真嗣的怒气瞬间消散了。“我父亲很快就重新开始了他的生活……” 真嗣绕过沙发，现在正面对着她。他用自己的手握住了她的手。“但我并不恨她或什么的。我只是不太擅长与她相处。我们偶尔还是会交谈，因为她是我继母……否则她可能也像其他人一样放弃了……” 她随后微笑着补充道，“你比大多数人更了解我！””
+
+They chuckled a little together, still holding hands. "People never gave you the chance you deserve."  
+"他们一起轻声笑了笑，依然牵着手。“人们从未给你应得的机会。””
+
+She smiled. That same smile that made his knees weak. A smile that he had not seen for more than a month. "Thank you, idiot." She let go of his hand and finally managed to get to her room.  
+"她笑了。那个让他膝盖发软的笑容。一个他一个多月未曾见过的笑容。“谢谢你，傻瓜。” 她松开了他的手，终于设法回到了自己的房间。”
+
+Shinji stood there, watching the door behind which she disappeared. "You're very nice to her." Misato stated, breaking him out of his musing.  
+真嗣站在那里，注视着她消失的那扇门。“你对她的确很好。”美里说道，打断了他的沉思。
+
+"She doesn't show it, but there's something wrong. We have to be there for her." He said with authority, turning to face her.  
+“她虽然不表现出来，但肯定有什么不对劲。我们必须在她身边支持她。”他带着权威的口吻说道，转过身面对她。
+
+"You two are really good to each other. You're more confident in yourself. You have not stuttered once while talking to her ! I'm happy for you." She added with melancholy. "I'm very proud of you two." Having said that, she went to the bathroom.  
+“你们俩真的很关心对方。你比以前自信多了。和她说话时，你一次都没有结巴过！我为你感到高兴。”她带着一丝忧郁补充道，“我为你们俩感到非常骄傲。”说完这些，她走向了洗手间。
+
+Shinji could hear the bathtub filling up, and since Asuka probably needed to be alone, he decided to go to his old room to occupy himself with some homework.  
+真嗣能听到浴缸正在放水，既然明日香可能需要独处，他决定去自己的旧房间做些作业来打发时间。
+
 .
+
 .
-The water was draining slowly from the bathtub. There probably were hair again clogging the drain. Asuka was standing in front of the bathtub, naked, the stopper in her left hand, looking idly at the water level going down. "What's happening to me ?" She asked herself quietly. "This is disgusting !.. I should feel sick just thinking about bathing in the same water as Misato and stupid Shinji !"
-When the tub was only two thirds full, she put the stopper back in its place. "Yet somehow... It almost feels... Comforting." She said as she turned the hot water on. Bathing in the same water meant that it was usually too cold when the last person got to take their bath. "I don't get it !" She was getting more upset as she continued with her introspection. "I've lived only for myself for so long... It feels so... Alien. And now I don't think I could ever go back to it..." She trailed off, still watching with disinterest as the bathtub was getting full again. "Stupid Shinji ! This is all your fault !" Despite her accusation, she couldn't help but smile softly.
-Her smile vanished quickly, however, as a cramp forced her to hold her stomach. She groaned in pain and grit her teeth. "Ugh ! I hate this !" She cried out to externalize her pain. "I don't even want children !" She took a deep breath after closing her eyes. "Right ?.." She frowned at herself while turning off the tap, her right hand still nursing her stomach. "I'm not sure anymore..." She paused. "Things really were easier when Shinji was just an idiot who cooked my food... But he... Loves me... Maybe I'm the idiot." She chuckled humorlessly before getting into the bathtub.
-然而，她的笑容很快消失了，因为一阵痉挛迫使她捂住了肚子。她痛苦地呻吟着，咬紧牙关。“呃！我讨厌这样！”她向外宣泄着疼痛。“我甚至不想要孩子！”她闭上眼睛深吸了一口气。“对吧？..”她皱着眉头对自己说，同时关掉了水龙头，右手仍轻抚着肚子。“我现在不确定了...”她停顿了一下。“事情真的在真嗣只是个做饭的傻瓜时更简单...但他...爱我...也许我才是傻瓜。”她苦笑了一下，然后走进浴缸。
+
+The water was draining slowly from the bathtub. There probably were hair again clogging the drain. Asuka was standing in front of the bathtub, naked, the stopper in her left hand, looking idly at the water level going down. "What's happening to me ?" She asked herself quietly. "This is disgusting !.. I should feel sick just thinking about bathing in the same water as Misato and stupid Shinji !"  
+浴缸里的水正缓慢地排走。大概又是头发堵住了下水口。明日香站在浴缸前，一丝不挂，左手拿着塞子，漫不经心地看着水位下降。“我这是怎么了？”她轻声自问，“这太恶心了！……光是想到和美里还有笨蛋真嗣用同一缸水洗澡，我就应该感到恶心！”
+
+When the tub was only two thirds full, she put the stopper back in its place. "Yet somehow... It almost feels... Comforting." She said as she turned the hot water on. Bathing in the same water meant that it was usually too cold when the last person got to take their bath. "I don't get it !" She was getting more upset as she continued with her introspection. "I've lived only for myself for so long... It feels so... Alien. And now I don't think I could ever go back to it..." She trailed off, still watching with disinterest as the bathtub was getting full again. "Stupid Shinji ! This is all your fault !" Despite her accusation, she couldn't help but smile softly.  
+当浴缸只装满三分之二时，她将塞子重新塞好。“然而不知为何...这几乎让人...感到安慰。”她一边说着，一边打开了热水。共用同一缸水意味着通常最后一个人洗澡时水已经太凉了。“我不明白！”随着自我反省的深入，她越发感到烦躁。“我为自己而活了这么久...这感觉如此...陌生。而现在，我觉得我再也无法回到那种状态了...”她话音渐弱，依旧漠然地看着浴缸再次被注满。“笨蛋真嗣！这都是你的错！”尽管如此指责，她还是忍不住轻轻笑了。
+
+Her smile vanished quickly, however, as a cramp forced her to hold her stomach. She groaned in pain and grit her teeth. "Ugh ! I hate this !" She cried out to externalize her pain. "I don't even want children !" She took a deep breath after closing her eyes. "Right ?.." She frowned at herself while turning off the tap, her right hand still nursing her stomach. "I'm not sure anymore..." She paused. "Things really were easier when Shinji was just an idiot who cooked my food... But he... Loves me... Maybe I'm the idiot." She chuckled humorlessly before getting into the bathtub.  
+然而，她的笑容很快消失了，因为一阵痉挛迫使她捂住了肚子。她痛苦地呻吟着，咬紧牙关。“呃！我讨厌这样！”她向外宣泄着疼痛。“我甚至不想要孩子！”她闭上眼睛深吸了一口气。“对吧？..”她皱着眉头对自己说，同时关掉了水龙头，右手仍轻抚着肚子。“我现在不确定了...”她停顿了一下。“事情真的在真嗣只是个做饭的傻瓜时更简单...但他...爱我...也许我才是傻瓜。”她苦笑了一下，然后走进了浴缸。
+
 .
+
 .
-It was getting quite late when she got out of the bathroom, clad in her pajamas. Shinji was probably already asleep in their bed. She stayed in her bath longer than usual, the warm water doing wonders to her aching stomach. She slid the bathroom door shut quietly before navigating the apartment.
-当她穿着睡衣走出浴室时，时间已经很晚了。真嗣可能已经在床上睡着了。她在浴缸里待的时间比平时长，温暖的水对她的疼痛的肚子有奇效。她轻轻地关上浴室门，然后在公寓里走动。
-"Asuka ? Are you okay ?" She tried to conceal how startled she had been at hearing Misato's voice.
+
+It was getting quite late when she got out of the bathroom, clad in her pajamas. Shinji was probably already asleep in their bed. She stayed in her bath longer than usual, the warm water doing wonders to her aching stomach. She slid the bathroom door shut quietly before navigating the apartment.  
+当她穿着睡衣走出浴室时，时间已经很晚了。真嗣可能已经在床上睡着了。她在浴缸里待的时间比平时长，温暖的水对她的疼痛的肚子有奇效。她轻轻地关上浴室的门，然后在公寓里走动。
+
+"Asuka ? Are you okay ?" She tried to conceal how startled she had been at hearing Misato's voice.  
 “明日香？你还好吗？”她试图掩饰听到美里声音时的惊慌。
-"I'm fine !" She answered vehemently as she tried to calm her heart rate. Her abdominal pain didn't help with her patience either.
-“我没事！”她激烈地回答，试图平复心跳。腹部的疼痛也让她更加不耐烦。
-"You know, you shouldn't preoccupy yourself with those things..." Misato continued quietly, not reacting to Asuka's anger.
-“你知道，你不应该为那些事情分心……”美里继续平静地说，没有对明日香的愤怒做出反应。
-"Are you kidding me ?" That did it. "You were listening to me ? What the hell Misato ?" She screamed, not caring if Shinji was asleep anymore. Nor the neighbors, for that matter. This intrusion on her privacy was too much at the moment.
-“你在开玩笑吗？”这让她彻底爆发了。“你一直在听我说话？搞什么鬼，美里？”她尖叫起来，不再在乎真嗣是否还在睡觉，也不在乎邻居们会怎么想。此刻，这种对隐私的侵犯让她感到太过分了。
-"I didn't mean to... I just heard you through the door." She whispered, trying to make her charge understand that shouting this late was not something that should be done.
-“我不是故意的……我只是隔着门听到了你的声音。”她低声说道，试图让她的被监护人明白，这么晚大声喊叫是不应该的。
-"I can't believe it ! I'm never truly by myself anymore, except when I'm in the bathroom ! And even there I have to be aware that you could be eavesdropping ?!"
-“我简直不敢相信！我现在连一个人独处的时候都没有了，除了在洗手间！甚至在洗手间里我还得提防你可能在偷听？！”
-"Asuka... Calm down, you'll wake Shinji. I really didn't mean to. And I promise it won't happen again. I just couldn't ignore what you said." She saw Asuka take a deep breath, maybe talking about Shinji was a good idea to calm her.
-“明日香……冷静点，你会吵醒真嗣的。我真的不是故意的。我保证不会再发生这种事了。我只是无法忽视你说的那些话。”她看到明日香深吸了一口气，也许提到真嗣是个让她冷静下来的好主意。
-"What is it ?" She spat. She wasn't screaming anymore, but she was still extremely angry. "You're going to lecture me now that you intruded into my privacy ?"
-“这是什么？”她厉声问道。她不再尖叫，但依然怒气冲冲。“你现在要教训我，就因为你侵犯了我的隐私？”
+
+"I'm fine !" She answered vehemently as she tried to calm her heart rate. Her abdominal pain didn't help with her patience either.  
+"我没事！" 她激烈地回答，试图平复心跳。腹部的疼痛也让她更加不耐烦。
+
+"You know, you shouldn't preoccupy yourself with those things..." Misato continued quietly, not reacting to Asuka's anger.  
+"你知道，你不应该为那些事情分心..." 美里继续平静地说，没有对明日香的情绪做出反应。
+
+"Are you kidding me ?" That did it. "You were listening to me ? What the hell Misato ?" She screamed, not caring if Shinji was asleep anymore. Nor the neighbors, for that matter. This intrusion on her privacy was too much at the moment.  
+"你在开玩笑吗？" 这让她彻底爆发了。"你一直在听我说话？搞什么鬼，美里？" 她尖叫着，不再在乎真嗣是否还在睡觉，也不在乎邻居们会怎么想。此刻，这种侵犯隐私的行为让她无法忍受。
+
+"I didn't mean to... I just heard you through the door." She whispered, trying to make her charge understand that shouting this late was not something that should be done.  
+"我不是故意的...我只是隔着门听到了你的声音。" 她低声说道，试图让她的委托人明白，这么晚大声喊叫是不应该的。
+
+"I can't believe it ! I'm never truly by myself anymore, except when I'm in the bathroom ! And even there I have to be aware that you could be eavesdropping ?!"  
+"我简直不敢相信！我现在连一个人独处的时候都没有了，除了在浴室里！甚至在浴室里我还得提防你可能在偷听？！"
+
+"Asuka... Calm down, you'll wake Shinji. I really didn't mean to. And I promise it won't happen again. I just couldn't ignore what you said." She saw Asuka take a deep breath, maybe talking about Shinji was a good idea to calm her.  
+"明日香...冷静点，你会吵醒真嗣的。我真的不是故意的。我保证不会再发生这种事了。我只是无法忽视你说的那些话。" 她看到明日香深吸了一口气，也许提到真嗣是个让她冷静下来的好主意。
+
+"What is it ?" She spat. She wasn't screaming anymore, but she was still extremely angry. "You're going to lecture me now that you intruded into my privacy ?"  
+“什么事？”她厉声问道。她不再尖叫，但依然怒气冲冲。“你现在要教训我，就因为你侵犯了我的隐私？”
+
 Misato tried her best to ignore the sarcasm, it still hurt though. "... You grew up too fast, Asuka." She said, sitting down on her chair at the kitchen table. "Lots of things happened to you... Things you didn't deserve..." She was taking her time to carefully pick her words, the situation was tense enough as it was. Asuka sat down, opting to stay silent for the moment. "You have a lot of responsibilities on you shoulders, so you shouldn't bother yourself with this right now... You have to appreciate what you have." She lowered her head and took a deep breath before looking her charge in the eye again. "Don't squander your chance to be happy." She sounded thoroughly sad, probably thinking about Kaji, Asuka mused. "You and Shinji have a good influence on each other. Focus on this. You can think about all these things later."
-美里尽力忽视其中的讽刺，尽管这仍然刺痛了她。“...你成长得太快了，明日香。”她坐在厨房桌旁的椅子上说道，“你经历了许多...许多你不应承受的事情...”她小心翼翼地斟酌着措辞，气氛已经足够紧张。明日香坐了下来，选择暂时保持沉默。“你肩负着许多责任，所以现在不应该为这些事烦心...你必须珍惜你所拥有的。”她低下头，深吸一口气，再次直视着她的被监护人。“不要浪费你获得幸福的机会。”她的声音充满了悲伤，明日香猜测她可能在想加治，“你和真嗣相互影响很好。专注于这一点。你可以稍后再考虑所有这些事情。”
-She stopped and waited for a reaction from Asuka, who kept silent. She was looking right back at her intently, with animosity, but also with something else. She was really taking into consideration the advice her rude guardian just gave her.
-她停下，等待着明日香的反应，但明日香保持沉默。她正专注地回望着她，带着敌意，却也夹杂着其他情感。她确实在认真考虑这位粗鲁的监护人刚刚给她的建议。
-Seeing that she wasn't answering, Misato continued. "I'm sorry I listened to what you said. But I want you to know that if you ever need to talk or anything, I'm here." She smiled warmly, tilting her head to the right a little. "I've been neglecting you since you arrived in Japan. That's an other thing I've messed up !" She tried to sound playful, but it was obvious that she took it seriously. "I want to make it up to you. We're a team ! And I'm supposed to be your guardian, it's about time I start acting like that !"
-见她没有回答，美里继续说道：“对不起，我听了你说的那些话。但我想让你知道，如果你需要倾诉或任何帮助，我都在这里。”她温暖地笑着，微微向右偏了偏头。“自从你来到日本，我就一直忽视你。这是我又一件搞砸了的事！”她试图用轻松的语气，但显然她很认真。“我想弥补这一切。我们是一个团队！而我应该是你的监护人，是时候我开始履行这个角色了！”
-Asuka's anger had receded quickly once Misato had started her monologue. Receded, not vanished. She had not expected this. She just wanted to go to bed, she was too tired to argue. She could hold some grudges though. "... Thank you..." She didn't know what else to say. She was still angry, of course, but it was nice to know that Misato was there for her as well. She would probably never ask her anything, but it was nice nonetheless. She had wanted Misato to act more like a guardian, even if she would have never admitted it. That was something she absolutely did not want to admit, but she was starting to get tired of handling everything by herself.
-明日香的不满在美里开始她的独白后迅速消退了。消退，而非消失。她没料到这一点。她只想去睡觉，太累了，没力气争吵。但她还是能记仇的。"...谢谢你..."她不知道还能说什么。她当然还在生气，但知道美里也在她身边，感觉很好。她可能永远不会向她求助，但这种感觉依然很好。她曾希望美里能更像一个监护人，尽管她永远不会承认。这是她绝对不想承认的事，但她开始厌倦独自处理一切。
-She left without saying an other word. She wanted to go to bed, to find comfort in Shinji's arms. They had a sync test the next day, and there was something she had to do.
-她没再说一句话就离开了。她想上床睡觉，在真嗣的怀里寻找安慰。第二天他们有同步测试，还有件事她必须去做。
+
+She stopped and waited for a reaction from Asuka, who kept silent. She was looking right back at her intently, with animosity, but also with something else. She was really taking into consideration the advice her rude guardian just gave her.  
+她停下脚步，等待着明日香的反应，但明日香保持沉默。她正专注地回望着她，带着敌意，但也夹杂着其他情感。她确实在认真考虑这位粗鲁的监护人刚刚给她的建议。
+
+Seeing that she wasn't answering, Misato continued. "I'm sorry I listened to what you said. But I want you to know that if you ever need to talk or anything, I'm here." She smiled warmly, tilting her head to the right a little. "I've been neglecting you since you arrived in Japan. That's an other thing I've messed up !" She tried to sound playful, but it was obvious that she took it seriously. "I want to make it up to you. We're a team ! And I'm supposed to be your guardian, it's about time I start acting like that !"  
+见她没有回答，美里继续说道。“对不起，我听了你说的话。但我想让你知道，如果你需要倾诉或任何帮助，我都在这里。”她温暖地微笑着，微微向右偏了偏头。“自从你来到日本，我就一直忽视你。这是我搞砸的另一件事！”她试图用轻松的语气说话，但显然她很认真。“我想弥补这一点。我们是一个团队！而我应该是你的监护人，是时候我开始履行这个角色了！”
+
+Asuka's anger had receded quickly once Misato had started her monologue. Receded, not vanished. She had not expected this. She just wanted to go to bed, she was too tired to argue. She could hold some grudges though. "... Thank you..." She didn't know what else to say. She was still angry, of course, but it was nice to know that Misato was there for her as well. She would probably never ask her anything, but it was nice nonetheless. She had wanted Misato to act more like a guardian, even if she would have never admitted it. That was something she absolutely did not want to admit, but she was starting to get tired of handling everything by herself.  
+随着美里开始她的独白，明日香心中的怒火迅速消退了。消退，而非消失。她未曾预料到这一幕。她只想上床睡觉，太累了，无力争吵。但她仍能怀恨在心。"...谢谢你..."她不知还能说些什么。当然，她依旧愤怒，但得知美里也在她身边，这感觉很好。她或许永远不会向她求助，但这份安心依旧美好。她曾希望美里能更像一个监护人，即便她从未承认过。这是她绝对不愿承认的事，但她开始厌倦独自应对一切。
+
+She left without saying an other word. She wanted to go to bed, to find comfort in Shinji's arms. They had a sync test the next day, and there was something she had to do.  
+她一言不发地离开了。她想上床，在真嗣的怀抱中寻求安慰。第二天他们有同步测试，有些事情她必须去做。
 
 ---
 ### Chapter 14 : Town with no cheer
 Hey !
 
-Here's the author's cut of chapter 14 ! I've added some scenes from other fics that I didn't ass in the ff version. It's been a rather hard chapter to write, so I hope you like it !
+Here's the author's cut of chapter 14 ! I've added some scenes from other fics that I didn't ass in the ff version. It's been a rather hard chapter to write, so I hope you like it !  
+这是作者修订版的第 14 章！我添加了一些来自其他同人文的场景，这些在原版中没有加入。这一章写起来相当艰难，希望你们会喜欢！
 
+"Ugh !" She had tried to be angry when she got out of her entry-plug but all she could manage was annoyance and frustration. She was tired. To be more precise, she was completely exhausted.  
+“呃！”她试图在离开插入栓时表现出愤怒，但最终只能感到恼怒和沮丧。她很疲惫。更准确地说，她已经筋疲力尽了。
 
+She knew that she wanted to know, that she wanted to reach out to whatever was hiding inside her Unit 02, so she focused all her efforts towards that goal during this sync test... To no avail. Sync tests were usually nothing much to her. She had to get inside the entry-plug, concentrate a little if she felt like it and leave. And she had the highest sync rate, usually. This time she had to really concentrate in order to find what she was looking for. If there was something to look for in the first place. She could feel something, like a distant presence lurking, watching her from afar. She didn't know what it was or how to reach it, but she spent all this time trying to get closer to it. But the more she tried, the farther it seemed to get.  
+她知道自己想要了解，想要触及隐藏在她二号机内的某种存在，因此在这场同步测试中，她全力以赴地朝这个目标努力……却徒劳无功。同步测试对她来说通常不算什么。她只需进入插入栓，如果愿意的话集中一下注意力，然后离开。而且她通常拥有最高的同步率。这次她必须真正集中精力去寻找她所追寻的东西。如果那里真的有什么东西的话。她能感觉到某种遥远的存在，像是一个潜伏者，从远处窥视着她。她不知道那是什么，也不知道如何触及它，但她花了所有时间试图接近它。然而，她越是努力，它似乎就离得越远。
 
-"Ugh !" She had tried to be angry when she got out of her entry-plug but all she could manage was annoyance and frustration. She was tired. To be more precise, she was completely exhausted.
-She knew that she wanted to know, that she wanted to reach out to whatever was hiding inside her Unit 02, so she focused all her efforts towards that goal during this sync test... To no avail. Sync tests were usually nothing much to her. She had to get inside the entry-plug, concentrate a little if she felt like it and leave. And she had the highest sync rate, usually. This time she had to really concentrate in order to find what she was looking for. If there was something to look for in the first place. She could feel something, like a distant presence lurking, watching her from afar. She didn't know what it was or how to reach it, but she spent all this time trying to get closer to it. But the more she tried, the farther it seemed to get.
-She could sense it. So she didn't give up, and even though she had failed, she would try again on the next occasion she would get. She was Asuka Langley Soryu. She didn't give up. But she was demoralized. Not only did she fail in getting to the bottom of what was in Unit 02, she also got her worst sync rate since arriving in Japan.
-She sighed again loudly, waiting for the elevator. "What a colossal waste of time !" She exclaimed in the empty hallway. All she wanted was to get out of this accursed place and go back home, where things were not as bad.
-Punching that wall was starting to feel like a very good idea... Idea that she quickly dismissed however. Shinji would notice. He would see even the tiniest bruise on her knuckles and he would ask questions she didn't feel like answering. His puppy eyes were already breaking her heart enough, she didn't need to give him more reasons to be sad and worry about her.
-She was barely able to suppress a jolt when the elevator doors opened and revealed Rei Ayanami. She covered it by rolling her eyes in an exaggerated fashion before stepping inside, leaning on the wall to her right, her arms crossed.
-Rei... Yet an other thing on her to-do list. 'Just... Shut up, Wondergirl. Stay quiet. I'm not in the mood !' She thought angrily. However, Shinji's words kept repeating themselves in her head. And for once she had the opportunity to do something. She was being selfish, again. 'I know it's unfair, but I already have enough to deal with.'
-"The Eva won't move unless you open your heart." As if on cue, Rei talked in her usual emotionless tone.
-Asuka sighed again. "If it's so easy, how come you're so far behind me and Stupid Shinji ?" She answered as angrily as she could. She just sounded tired, not at all like she usually sounded when she got angry.
-"Because I cannot." A hint of annoyance could be heard in her inflexion. She had tensed very slightly upon hearing "Stupid Shinji".
-"Why do you always have to be so cryptic ?!" She was raising her voice. "Forget that. Why are you talking to me all of a sudden ?" She couldn't begin to comprehend why Rei would chose this day of all days to talk to her.
-"I do not trust the Pilot who is to replace you."
-This statement hurt. Bad. The last thing she wanted was to be replaced. She had trained to be the best most of her life. They couldn't replace her like that. It was unfair. She didn't show it however"... Yeah. Right. Because everyone knows you trust me with your life !" She still hadn't accepted that Rei had declined her friendship, as a consequence, her statement sounded false. Asuka was in a whirlwind of emotions, all of them negative, just because of one sentence. She wanted this conversation to end. She was exhausted, all she wanted was to go home and sulk in peace.
-"You are a valuable Pilot. The three of us have already defeated several Angels together. Moreover, Pilot Ikari trusts you, that is enough for me." All these were facts. Just plain statements, nothing more, nothing less, yet it made Asuka feel a little better. 'I really must have lost my edge.' She thought bitterly.
+She could sense it. So she didn't give up, and even though she had failed, she would try again on the next occasion she would get. She was Asuka Langley Soryu. She didn't give up. But she was demoralized. Not only did she fail in getting to the bottom of what was in Unit 02, she also got her worst sync rate since arriving in Japan.  
+她能感觉到。所以她没有放弃，尽管失败了，她仍会在下一次机会来临时再次尝试。她是惣流·明日香·兰格雷。她不会放弃。但她感到沮丧。不仅没能揭开二号机内部的秘密，她的同步率还降到了来日本后的最低点。
+
+She sighed again loudly, waiting for the elevator. "What a colossal waste of time !" She exclaimed in the empty hallway. All she wanted was to get out of this accursed place and go back home, where things were not as bad.  
+她再次大声叹息，等待着电梯。“真是浪费时间！”她在空荡荡的走廊里喊道。她只想离开这个该死的地方，回到家里，那里没有这么糟糕。
+
+Punching that wall was starting to feel like a very good idea... Idea that she quickly dismissed however. Shinji would notice. He would see even the tiniest bruise on her knuckles and he would ask questions she didn't feel like answering. His puppy eyes were already breaking her heart enough, she didn't need to give him more reasons to be sad and worry about her.  
+捶打那面墙的想法开始变得诱人……但她很快打消了这个念头。真嗣会注意到。他甚至会看到她拳头上最微小的瘀伤，然后问一些她不想回答的问题。他的小狗眼已经让她心碎，她不需要再给他更多理由来为她难过和担心。
+
+She was barely able to suppress a jolt when the elevator doors opened and revealed Rei Ayanami. She covered it by rolling her eyes in an exaggerated fashion before stepping inside, leaning on the wall to her right, her arms crossed.  
+当电梯门打开，露出绫波零的身影时，她几乎无法抑制内心的震动。她用夸张地翻白眼来掩饰，随后走进电梯，靠在右边的墙上，双臂交叉。
+
+Rei... Yet an other thing on her to-do list. 'Just... Shut up, Wondergirl. Stay quiet. I'm not in the mood !' She thought angrily. However, Shinji's words kept repeating themselves in her head. And for once she had the opportunity to do something. She was being selfish, again. 'I know it's unfair, but I already have enough to deal with.'  
+绫波...又是她待办事项上的一件事。'只是...闭嘴，奇迹少女。保持安静。我没心情！'她愤怒地想。然而，真嗣的话不断在她脑海中回响。这一次，她有机会做些什么。她又在自私了。'我知道这不公平，但我已经有太多要处理的事情了。'
+
+"The Eva won't move unless you open your heart." As if on cue, Rei talked in her usual emotionless tone.  
+“除非你敞开心扉，否则 Eva 不会动。”仿佛是应景一般，绫波用她一贯毫无感情的语调说道。
+
+Asuka sighed again. "If it's so easy, how come you're so far behind me and Stupid Shinji ?" She answered as angrily as she could. She just sounded tired, not at all like she usually sounded when she got angry.  
+明日香又叹了口气。“既然这么简单，你怎么会落后我和笨蛋真嗣这么多？”她尽可能生气地回答。但她听起来只是疲惫，完全没有平时生气时的样子。
+
+"Because I cannot." A hint of annoyance could be heard in her inflexion. She had tensed very slightly upon hearing "Stupid Shinji".  
+“因为我做不到。”她的语气中透露出一丝不悦。听到“笨蛋真嗣”这个词时，她微微紧张了一下。
+
+"Why do you always have to be so cryptic ?!" She was raising her voice. "Forget that. Why are you talking to me all of a sudden ?" She couldn't begin to comprehend why Rei would chose this day of all days to talk to her.  
+“为什么你总是这么神秘兮兮的？！”她的声音提高了。“算了。为什么你突然要跟我说话？”她无法理解为什么绫波会选择在今天这个日子跟她说话。
+
+"I do not trust the Pilot who is to replace you."  
+"我不信任那个将要接替你的驾驶员。"
+
+This statement hurt. Bad. The last thing she wanted was to be replaced. She had trained to be the best most of her life. They couldn't replace her like that. It was unfair. She didn't show it however"... Yeah. Right. Because everyone knows you trust me with your life !" She still hadn't accepted that Rei had declined her friendship, as a consequence, her statement sounded false. Asuka was in a whirlwind of emotions, all of them negative, just because of one sentence. She wanted this conversation to end. She was exhausted, all she wanted was to go home and sulk in peace.  
+这话刺痛了她，非常痛。她最不希望的就是被替换。她一生中大部分时间都在训练成为最好的。他们不能就这样替换她，这不公平。然而她没有表现出来……是的，没错。因为大家都知道你把生命托付给了我！" 她仍然没有接受丽拒绝她的友谊，因此，她的话听起来很虚伪。明日香正处于情绪的漩涡中，全都是负面的，只因为一句话。她希望这场对话结束。她筋疲力尽，只想回家安静地生闷气。
+
+"You are a valuable Pilot. The three of us have already defeated several Angels together. Moreover, Pilot Ikari trusts you, that is enough for me." All these were facts. Just plain statements, nothing more, nothing less, yet it made Asuka feel a little better. 'I really must have lost my edge.' She thought bitterly.  
+"你是一位宝贵的驾驶员。我们三人已经一起击败了几个使徒。而且，碇驾驶员信任你，这对我来说已经足够了。" 这些都是事实，只是简单的陈述，不多也不少，但这让明日香感觉好了一点。'我一定是失去了我的锋芒。' 她苦涩地想。
+
 Ding.
-Asuka was taken aback by this answer. It was the first time Rei had told her something which could be interpreted as a compliment. Or something even remotely positive, for that matter. "... Erm... Thanks ? I guess ?.." She answered as she got out of the elevator. Rei followed suit, which puzzled her, since she was standing just in front of the doors. "What ?" Asuka snarled without turning.
-"I wish to discuss further things with you." Rei said as calmly as possible, but she was unnerved.
-Asuka really couldn't be sure but she would have sworn she heard worry in Rei's voice nonetheless. "My, my... You're a real chatterbox ! Who would have thought ?" She answered sardonically.
-"Can I accompany you ?" Rei asked, all emotions gone from her once again.
-"Don't you think it's already been enough for one day ?" She asked as clearly as possible 'If she can't understand sarcasm, I'll make it clear for her.' She was at her limit now. She avoided speaking with Rei even when she was having a good day, she didn't need to chat with her right now.
-"Please, Pilot Soryu, this is important." Rei didn't react when Asuka tried and mostly failed to stifle a gasp. She knew this must have sounded desperate coming for her, but she had to tell her what was happening.
-"Ugh ! Fine ! Whatever !" Asuka answered, defeated, and intrigued, she couldn't deny it. She knew Rei would not give up easily, the best thing to do was to hear her out and maybe eventually she would be done with this day.
-They both walked in silence in the corridors leading out of the Geofront for a few minutes. Asuka was getting pretty annoyed at her fellow Pilot's silence. 'If she wanted to talk, why isn't she talking right now !?'
-"There are surveillance systems everywhere in the Geofront. I don't want this conversation to be overheard." Asuka heard Rei say. It startled her a little, it was as if she was reading her mind. She rationalized it quickly though. It probably wasn't that hard to guess.
-"We're out now."
-"Commander Ikari suspects that you and Pilot Ikari are romantically involved."
-"Wha..? We... That's none of his business !" Asuka stopped dead in her tracks and turned to face her fellow pilot. Terror etched on her face. It quickly turned to rage and hatred. "And none of yours either !" She screamed, her face red from embarrassment and anger.
-Rei stayed silent for a few seconds, studying the redhead's face. "Indeed. It is not. The Commander is not sure yet, however, he is actively seeking confirmation. He has asked me to report to him if I were to learn that you were in a relationship."
-"So you asked me just so you could go back to this asshole and tell him everything like the good little doll you are ?" Asuka was -very- glad to be this angry, otherwise she would have blushed so much at the word relationship that even Rei would have gotten the message.
-"I am not a doll." Rei answered calmly.
-"You are a doll ! You're going to run to your beloved Commander and tell him everything that just happened ! I ha..."
-Rei sternly cut her, without even raising her voice. "I am not a doll." She repeated for emphasis. "And I am not going to tell him anything." She trailed off, still scrutinizing Asuka's face, which adorned a mix of terror, anger and incomprehension. When she didn't speak up, Rei resumed. "I just wanted you and Pilot Ikari to be aware that the Commander is watching you."
-Asuka was about to explode when what Rei just told her, and what it implied, hit her. "I... Thank you, Wondergirl."
-Rei didn't do anything to acknowledge Asuka's gratitude. She just turned on her heels and walked away. Before she got out of her sight, Asuka drew her attention once again. "Wondergirl ?" Rei stopped and turned around to look at her fellow pilot. "And thanks for taking care of the idiot last month. I owe you one." Rei nodded then continued walking.
+
+Asuka was taken aback by this answer. It was the first time Rei had told her something which could be interpreted as a compliment. Or something even remotely positive, for that matter. "... Erm... Thanks ? I guess ?.." She answered as she got out of the elevator. Rei followed suit, which puzzled her, since she was standing just in front of the doors. "What ?" Asuka snarled without turning.  
+明日香对这个回答感到意外。这是丽第一次告诉她可以被解读为赞美的话。或者说，任何稍微积极一点的事情。"...呃...谢谢？我想？.." 她一边回答一边走出电梯。丽紧随其后，这让明日香感到困惑，因为她就站在电梯门口。"什么？" 明日香没转身就咆哮道。
+
+"I wish to discuss further things with you." Rei said as calmly as possible, but she was unnerved.  
+"我想和你进一步讨论一些事情。" 丽尽可能平静地说，但她感到不安。
+
+Asuka really couldn't be sure but she would have sworn she heard worry in Rei's voice nonetheless. "My, my... You're a real chatterbox ! Who would have thought ?" She answered sardonically.  
+明日香真的不确定，但她发誓她在丽的声音中听到了担忧。"哎呀，哎呀...你真是个话痨！谁会想到呢？" 她讽刺地回答。
+
+"Can I accompany you ?" Rei asked, all emotions gone from her once again.  
+“我可以陪你吗？”丽问道，所有的情感再次从她身上消失。
+
+"Don't you think it's already been enough for one day ?" She asked as clearly as possible 'If she can't understand sarcasm, I'll make it clear for her.' She was at her limit now. She avoided speaking with Rei even when she was having a good day, she didn't need to chat with her right now.  
+“你不觉得今天已经够了吗？”她尽可能清晰地问道，‘如果她听不懂讽刺，我会说得再明白些。’她现在已经到了极限。即使在她心情好的时候，她也尽量避免和丽说话，现在更不需要和她聊天。
+
+"Please, Pilot Soryu, this is important." Rei didn't react when Asuka tried and mostly failed to stifle a gasp. She knew this must have sounded desperate coming for her, but she had to tell her what was happening.  
+“请吧，丽驾驶员，这很重要。”当明日香试图并多半失败地抑制住一声惊呼时，丽没有反应。她知道这听起来一定很绝望，但从她嘴里说出来，但她必须告诉她正在发生的事情。
+
+"Ugh ! Fine ! Whatever !" Asuka answered, defeated, and intrigued, she couldn't deny it. She knew Rei would not give up easily, the best thing to do was to hear her out and maybe eventually she would be done with this day.  
+"呃！好吧！随便！" 明日香无奈又好奇地回答，她无法否认这一点。她知道丽不会轻易放弃，最好的办法是听她说完，也许这样今天就能结束了。
+
+They both walked in silence in the corridors leading out of the Geofront for a few minutes. Asuka was getting pretty annoyed at her fellow Pilot's silence. 'If she wanted to talk, why isn't she talking right now !?'  
+她们在通往地表的走廊里沉默地走了几分钟。明日香对这位同僚驾驶员的沉默感到相当恼火。'如果她想说话，为什么现在不说话！？'
+
+"There are surveillance systems everywhere in the Geofront. I don't want this conversation to be overheard." Asuka heard Rei say. It startled her a little, it was as if she was reading her mind. She rationalized it quickly though. It probably wasn't that hard to guess.  
+"地底都市到处都是监控系统。我不想这次对话被偷听到。" 明日香听到丽说。这让她有点吃惊，仿佛她在读心。但她很快理性地想了想，这大概也不难猜到。
+
+"We're out now." "我们现在出来了。"
+
+"Commander Ikari suspects that you and Pilot Ikari are romantically involved."  
+"碇司令怀疑你和真嗣驾驶员有恋爱关系。"
+
+"Wha..? We... That's none of his business !" Asuka stopped dead in her tracks and turned to face her fellow pilot. Terror etched on her face. It quickly turned to rage and hatred. "And none of yours either !" She screamed, her face red from embarrassment and anger.  
+"什...？我们...那不关他的事！" 明日香突然停下脚步，转身面对她的同伴驾驶员。恐惧刻在她的脸上。很快，恐惧变成了愤怒和憎恨。"也与你无关！" 她尖叫道，脸因尴尬和愤怒而涨得通红。
+
+Rei stayed silent for a few seconds, studying the redhead's face. "Indeed. It is not. The Commander is not sure yet, however, he is actively seeking confirmation. He has asked me to report to him if I were to learn that you were in a relationship."  
+丽沉默了几秒，仔细观察着红发女孩的脸。“确实，并非如此。指挥官尚未确定，但他正在积极寻求确认。他让我一旦得知你们的关系，就向他汇报。”
+
+"So you asked me just so you could go back to this asshole and tell him everything like the good little doll you are ?" Asuka was -very- glad to be this angry, otherwise she would have blushed so much at the word relationship that even Rei would have gotten the message.  
+“所以你问我只是为了回去向那个混蛋报告一切，就像个听话的小玩偶一样？”明日香非常庆幸自己能如此愤怒，否则她会因为“关系”这个词而脸红到连丽都能明白她的心思。
+
+"I am not a doll." Rei answered calmly.  
+“我不是玩偶。”丽平静地回答。
+
+"You are a doll ! You're going to run to your beloved Commander and tell him everything that just happened ! I ha..."  
+"你真是个玩偶！你要跑去你亲爱的指挥官那里，告诉他刚刚发生的一切！我……"
+
+Rei sternly cut her, without even raising her voice. "I am not a doll." She repeated for emphasis. "And I am not going to tell him anything." She trailed off, still scrutinizing Asuka's face, which adorned a mix of terror, anger and incomprehension. When she didn't speak up, Rei resumed. "I just wanted you and Pilot Ikari to be aware that the Commander is watching you."  
+绫波严厉地打断了她，甚至没有提高声音。“我不是玩偶。”她重复强调道。“我也不会告诉他任何事。”她继续审视着明日香的脸，那上面混合着恐惧、愤怒和不解。见她没有说话，绫波继续道：“我只是想让你和碇驾驶员知道，指挥官在监视你们。”
+
+Asuka was about to explode when what Rei just told her, and what it implied, hit her. "I... Thank you, Wondergirl."  
+明日香正要爆发，但绫波刚刚告诉她的事情及其含义击中了她。“我……谢谢你，三无少女。”
+
+Rei didn't do anything to acknowledge Asuka's gratitude. She just turned on her heels and walked away. Before she got out of her sight, Asuka drew her attention once again. "Wondergirl ?" Rei stopped and turned around to look at her fellow pilot. "And thanks for taking care of the idiot last month. I owe you one." Rei nodded then continued walking.  
+丽并没有对明日香表示感谢做出任何回应。她只是转过身，径直离开。在她走出视线之前，明日香再次吸引了她的注意。“三无少女？”丽停下脚步，转过身来看着她的同伴驾驶员。“还有，谢谢你上个月照顾那个白痴。我欠你一个人情。”丽点了点头，然后继续前行。
+
 .
+
 .
-Later that night, Shinji and Asuka were idly lounging in their room. Shinji had put a pillow between the wall and his back to make his position more comfortable. Asuka was leaning with her back against him, snuggled in his arms.
-"... I'm sorry... You know... For punching you." She broke the silence after some minutes, her voice was low, just above a whisper.
-"That's okay, I understand." Shinji answered, squeezing her reassuringly.
-It would have worked on most people, but not Asuka. "Don't !" her voice wasn't calm nor low anymore. "You shouldn't accept that ! I don't want you to think that this is normal, idiot ! I don't want you to accept when I hurt you." Her voice cracked a little, but she mostly kept her composure. This was important, she had to make him understand that even if she lost control sometimes, she didn't mean to, and moreover, that he had to stand up to her.
-"I'm sorry." He answered meekly.
-"No ! I am sorry." She emphasized. "I hurt you. Don't be sorry ! You can't lower your head and accept when someone hurts you, not even me !" She sounded angry, but she just wanted to make sure he understood.
-"You were sad... I can't blame you for this." Shinji reassured her once again. She had already enough bothering her. He couldn't put another burden of her shoulders. He could take it. He would take it, for her.
-There was a somewhat uncomfortable pause before she spoke again. "Why do you put up with me ?" She couldn't deny the fact that she feared his answer. She wasn't even sure why she asked the question, it just came out.
-Shinji took some time to answer. Too much. Asuka elbowed him a little too harshly to make him answer faster. "... You are you."
-"That doesn't mean anything." She said, annoyed and rolled her eyes for good measure. He couldn't see it but she was sure he felt it !
-"I know." He answered with a smile which annoyed her just a bit more. "I-it's just that... I... I lo-love you. All of you... I just wish you'd talk to me when something is bothering you." His voice got more sullen.
-"That's not who I am. I can't just tell you everything like that." 'Like you did' She added mentally.
-"You don't have to do this by yourself." He answered, half-pleading, half-disappointed.
-"I know." Her voice got mellower. "You'll always be there for me." She felt him tense suddenly as she said that, hugging her a bit too tight and too forcefully. She laughed gently. "What ? You think I'd forget ? Don't worry, I'll make sure you keep your promise !"
-Shinji calmed down and caressed her arm a little as if nothing happened. "Then let me help you." He said with determination.
-"You already help me." She turned her head so they could look at each other. "Much more than you think. I... There are things I have to deal with before I can talk to you."
-"Okay." He agreed, with just a hint of disappointment. "That's enough for me."
-"Really ?" She raised an eyebrow. "I didn't think you'd be so easy to convince."
-"You're the Great Asuka Langley Soryu." Shinji declared as solemnly as possible. "You have one word ! Thus I know that you will tell me everything eventually !" They both chuckled softly.
-"I... I can't argue with that." She rested her forehead against his, looking in his deep blue eyes for what seemed like the first time in ages. "Thank you, Stupid Shinji." She wriggled in his arms until she was mostly facing him, her forehead still against his. They looked in each other's eyes until, in unison, they got closer and closer.
-They closed their eyes as their lips met in a passionate kiss. An intimate moment that they had not shared for a long time. Ir crossed Shinji's mind that the last time they had shared a moment like this was before she got absorbed in her Eva. As a consequence, it got more intense quite rapidly, both teenagers getting caught in the moment. They slipped under the cover and before they knew it, Asuka was on top of Shinji, straddling him. When they broke the kiss, Shinji looked at her with loving, albeit dazed eyes, breathing heavily. Asuka opened her eyes and smiled at him, panting a little, trying to conceal her own feelings as much as she could. Her long red hair cascading messily on one side of her face, her cheeks flushed. "By the way, Wondergirl knows about us now. And your asshole of a father is onto us. What's the matter with him ?" She had to change the subject or things would have escalated too quickly. Both their hands were already under the other's shirt. Shinji's were on her back, and hers on his stomach.
-Shinji's expression became serious in an instant. "We can't get caught ! He already tried to get rid of you. He tried to replace you !" He frowned and continued through clenched teeth. "I won't let him."
-"He can't get rid of me !" She said in a light tone, beaming because of how much she enjoyed his concern for her. "As you said, he already tried ! We'll just have to be even more careful." She then planted a small kiss on his lips. "Stop worrying about it and sleep, idiot."
+
+Later that night, Shinji and Asuka were idly lounging in their room. Shinji had put a pillow between the wall and his back to make his position more comfortable. Asuka was leaning with her back against him, snuggled in his arms.  
+那天晚上晚些时候，真嗣和明日香懒洋洋地躺在他们的房间里。真嗣在墙和自己的背之间放了一个枕头，以使自己的姿势更舒适。明日香则背靠着他，依偎在他的怀里。
+
+"... I'm sorry... You know... For punching you." She broke the silence after some minutes, her voice was low, just above a whisper.  
+“……对不起……你知道的……为了打你那件事。”几分钟的沉默后，她打破了寂静，声音低沉，几乎是在耳语。
+
+"That's okay, I understand." Shinji answered, squeezing her reassuringly.  
+“没关系，我理解。” 真嗣回答道，安慰地握紧她的手。
+
+It would have worked on most people, but not Asuka. "Don't !" her voice wasn't calm nor low anymore. "You shouldn't accept that ! I don't want you to think that this is normal, idiot ! I don't want you to accept when I hurt you." Her voice cracked a little, but she mostly kept her composure. This was important, she had to make him understand that even if she lost control sometimes, she didn't mean to, and moreover, that he had to stand up to her.  
+这招对大多数人或许管用，但对明日香不行。“别这样！”她的声音不再平静也不再低沉。“你不该接受这个！我不想让你认为这是正常的，笨蛋！我不想让你在我伤害你时还接受。”她的声音有些哽咽，但大体上保持了镇定。这很重要，她必须让他明白，即使她有时失控，那并非有意，而且更重要的是，他必须对她有所坚持。
+
+"I'm sorry." He answered meekly.  
+“对不起。”他怯生生地回答。
+
+"No ! I am sorry." She emphasized. "I hurt you. Don't be sorry ! You can't lower your head and accept when someone hurts you, not even me !" She sounded angry, but she just wanted to make sure he understood.  
+“不！我很抱歉。”她强调道，“我伤害了你。不要说对不起！当有人伤害你时，你不能低头接受，即使是我也不行！”她听起来很生气，但她只是想确保他明白。
+
+"You were sad... I can't blame you for this." Shinji reassured her once again. She had already enough bothering her. He couldn't put another burden of her shoulders. He could take it. He would take it, for her.  
+“你当时很难过……我不能因此责怪你。”真嗣再次安慰她。她已经有很多烦心事了。他不能再给她增加负担。他能承受。他会承受，为了她。
+
+There was a somewhat uncomfortable pause before she spoke again. "Why do you put up with me ?" She couldn't deny the fact that she feared his answer. She wasn't even sure why she asked the question, it just came out.  
+她沉默了一会儿，气氛有些尴尬，然后她再次开口：“你为什么要忍受我？”她无法否认自己害怕他的回答。她甚至不确定为什么要问这个问题，只是脱口而出。
+
+Shinji took some time to answer. Too much. Asuka elbowed him a little too harshly to make him answer faster. "... You are you."  
+真嗣花了些时间才回答。太久了。明日香用力撞了他一下，催促他快点回答。“……你就是你自己。”
+
+"That doesn't mean anything." She said, annoyed and rolled her eyes for good measure. He couldn't see it but she was sure he felt it !  
+“那根本不算什么解释。”她不悦地说，还翻了个白眼以示强调。他虽然看不见，但她确信他能感受到她的不满！
+
+"I know." He answered with a smile which annoyed her just a bit more. "I-it's just that... I... I lo-love you. All of you... I just wish you'd talk to me when something is bothering you." His voice got more sullen.  
+“我知道。”他微笑着回答，这让她更加恼火。“我只是想说……我……我喜——喜欢你。全部的你……我只是希望你有事能跟我说。”他的声音变得低沉。
+
+"That's not who I am. I can't just tell you everything like that." 'Like you did' She added mentally.  
+"那不是我的本性。我不能就这样把一切都告诉你。" '就像你曾经那样' 她在心里补充道。
+
+"You don't have to do this by yourself." He answered, half-pleading, half-disappointed.  
+"你不必独自承担这一切。" 他回答，半是恳求，半是失望。
+
+"I know." Her voice got mellower. "You'll always be there for me." She felt him tense suddenly as she said that, hugging her a bit too tight and too forcefully. She laughed gently. "What ? You think I'd forget ? Don't worry, I'll make sure you keep your promise !"  
+"我知道。" 她的声音变得柔和。"你永远都会在我身边。" 她感觉到他说这话时突然紧张起来，抱得她有点太紧、太用力了。她轻声笑道。"怎么了？你以为我会忘记吗？别担心，我会确保你遵守承诺的！"
+
+Shinji calmed down and caressed her arm a little as if nothing happened. "Then let me help you." He said with determination.  
+真嗣平静下来，轻轻抚摸她的手臂，仿佛什么都没发生过。“那么，让我帮你吧。”他坚定地说道。
+
+"You already help me." She turned her head so they could look at each other. "Much more than you think. I... There are things I have to deal with before I can talk to you."  
+“你已经帮了我很多。”她转过头，让他们能对视。“比我意识到的还要多。我……有些事情我必须先处理好，才能和你谈。”
+
+"Okay." He agreed, with just a hint of disappointment. "That's enough for me."  
+“好吧。”他同意了，带着一丝失望。“对我来说，这就足够了。”
+
+"Really ?" She raised an eyebrow. "I didn't think you'd be so easy to convince."  
+"真的吗？" 她挑了挑眉。"我没想到你会这么容易被说服。"
+
+"You're the Great Asuka Langley Soryu." Shinji declared as solemnly as possible. "You have one word ! Thus I know that you will tell me everything eventually !" They both chuckled softly.  
+"你是伟大的惣流·明日香·兰格雷。" 真嗣尽可能严肃地宣布。"你有一句话！所以我知道你最终会告诉我一切的！" 他们俩都轻轻地笑了。"
+
+"I... I can't argue with that." She rested her forehead against his, looking in his deep blue eyes for what seemed like the first time in ages. "Thank you, Stupid Shinji." She wriggled in his arms until she was mostly facing him, her forehead still against his. They looked in each other's eyes until, in unison, they got closer and closer.  
+"我...我无法反驳这一点。" 她将额头靠在他的额头上，凝视着他深蓝色的眼睛，仿佛是久违的第一次。"谢谢你，笨蛋真嗣。" 她在他的怀里扭动，直到大部分面对着他，额头依然紧贴着。他们凝视着彼此的眼睛，直到同步地，他们越来越近。"
+
+They closed their eyes as their lips met in a passionate kiss. An intimate moment that they had not shared for a long time. Ir crossed Shinji's mind that the last time they had shared a moment like this was before she got absorbed in her Eva. As a consequence, it got more intense quite rapidly, both teenagers getting caught in the moment. They slipped under the cover and before they knew it, Asuka was on top of Shinji, straddling him. When they broke the kiss, Shinji looked at her with loving, albeit dazed eyes, breathing heavily. Asuka opened her eyes and smiled at him, panting a little, trying to conceal her own feelings as much as she could. Her long red hair cascading messily on one side of her face, her cheeks flushed. "By the way, Wondergirl knows about us now. And your asshole of a father is onto us. What's the matter with him ?" She had to change the subject or things would have escalated too quickly. Both their hands were already under the other's shirt. Shinji's were on her back, and hers on his stomach.  
+他们的唇在激情中相触，闭上了双眼。这是一个久违的亲密时刻。真嗣脑海中闪过上一次他们如此亲近的记忆，那是在她沉浸于 Eva 之前。结果，这一刻迅速升温，两个少年都陷入了情不自禁。他们滑入被窝，转眼间，明日香跨坐在真嗣身上。当他们分开双唇时，真嗣用充满爱意却略显迷离的眼神看着她，呼吸急促。明日香睁开眼，对他微笑，喘息着试图掩饰自己的情感。她长长的红发凌乱地垂在脸颊一侧，双颊绯红。“对了，绫波知道了我们的事。还有你那混蛋老爸也在盯着我们。他到底怎么了？”她不得不转移话题，否则事情会发展得太快。两人的手已经伸进了对方的衬衫下，真嗣的手在她背上，而她的手在他的腹部。
+
+Shinji's expression became serious in an instant. "We can't get caught ! He already tried to get rid of you. He tried to replace you !" He frowned and continued through clenched teeth. "I won't let him."  
+真嗣的表情瞬间变得严肃。“我们不能被抓到！他已经试图除掉你了。他试图替换你！”他皱着眉头，咬牙切齿地继续说道。“我不会让他得逞的。”
+
+"He can't get rid of me !" She said in a light tone, beaming because of how much she enjoyed his concern for her. "As you said, he already tried ! We'll just have to be even more careful." She then planted a small kiss on his lips. "Stop worrying about it and sleep, idiot."  
+“他不能把我怎么样！”她轻快地说道，因为他的关心而笑得灿烂。“就像你说的，他之前已经试过了！我们只需要更加小心。”她随即在他的唇上轻轻一吻。“别担心了，睡吧，傻瓜。”
+
 .
+
 .
-Signal from Eva Unit 02 showing no problems.
-VA connection and fusion are normal. Rate of proliferation is within expected limits.
-Asuka was standing in front of her Evangelion in its cage, her arms crossed. The Eva was getting prepared for the sync test, all she had to do was wait until it was ready. She just stood there, consequently, on the gangway.
-"I always thought you were just a puppet. That all you had just been created to obey my orders..." She said to her Eva glumly. "But I need to know if what I saw was true." She frowned defiantly. "What are you hiding from me ?.. Are you really inside ?"
-She didn't get an answer. All she could hear was the low humming of the machines surrounding her and the lapping of the liquid submerging most of her Eva.
-"Did... Did you choose to stop being my mama on purpose ?" She tried to look at the giant before her menacingly, but she had to close her eyes to keep the tears at bay. She took a deep breath. Just before the alarms started blaring.
-All hands, battle stations, level one ! Prepare for anti-air combat !
+
+Signal from Eva Unit 02 showing no problems.  
+EVA 二号机信号显示无异常。
+
+VA connection and fusion are normal. Rate of proliferation is within expected limits.  
+VA 连接与融合正常。增殖速率在预期范围内。
+
+Asuka was standing in front of her Evangelion in its cage, her arms crossed. The Eva was getting prepared for the sync test, all she had to do was wait until it was ready. She just stood there, consequently, on the gangway.  
+明日香站在她的 EVA 前，双臂交叉。EVA 正在进行同步测试的准备，她只需等待它准备好。她就那样站在过道上，一动不动。
+
+"I always thought you were just a puppet. That all you had just been created to obey my orders..." She said to her Eva glumly. "But I need to know if what I saw was true." She frowned defiantly. "What are you hiding from me ?.. Are you really inside ?"  
+“我一直以为你只是个傀儡。你的一切只是为了服从我的命令而创造……”她沮丧地对她的 EVA 说道。“但我需要知道我所见是否为真。”她倔强地皱起眉头。“你在对我隐瞒什么？……你真的在里面吗？”
+
+She didn't get an answer. All she could hear was the low humming of the machines surrounding her and the lapping of the liquid submerging most of her Eva.  
+她没有得到回答。她能听到的只有周围机器的低沉嗡鸣声和液体淹没大部分 EVA 的拍打声。
+
+"Did... Did you choose to stop being my mama on purpose ?" She tried to look at the giant before her menacingly, but she had to close her eyes to keep the tears at bay. She took a deep breath. Just before the alarms started blaring.  
+"你...你是故意选择不再做我的妈妈吗？" 她试图凶狠地看着面前的巨人，但不得不闭上眼睛以忍住泪水。她深吸了一口气。就在警报开始响起之前。
+
+All hands, battle stations, level one ! Prepare for anti-air combat !  
 全体注意，战斗岗位，一级戒备！准备进行防空作战！
-"I'll find out eventually ! Just you wait !" She barked. "This Angel just bought you some time !" She added as she ran towards her entry-plug. She wouldn't run away. She would get her answers. Nothing, not even an Angel would stop her.
+
+"I'll find out eventually ! Just you wait !" She barked. "This Angel just bought you some time !" She added as she ran towards her entry-plug. She wouldn't run away. She would get her answers. Nothing, not even an Angel would stop her.  
+"我迟早会弄清楚的！你等着瞧吧！" 她咆哮道。"这个使徒只是给你争取了点时间！" 她边说边跑向她的插入栓。她不会逃跑。她会得到答案。没有什么，即使是使徒也阻止不了她。
+
 .
+
 .
-"Angel visually confirmed. Here is the highest magnification." Aoba said, putting the satellite image of the Angel on the Command Center's main screen. The most angelic looking one so far. It looked like a gigantic pair of wings attached to a body which features could not be seen. The whole creature seemed to be made of light, emphasizing its angelic appearance. It stayed in its place, motionless.
-"It isn't budging from its satellite orbit." Hyuga continued, not raising his eyes from his own screen.
-"It's maintaining a set distance from our location." Aoba confirmed, trying to find something that could help them in the upcoming battle.
-"Which means, it's waiting for a chance to descend and close in, or it can attack us without the need to do so." Misato stated. As usual during battle, she looked calm. She was trying to come up with a strategy to dispose of this new threat.
-"We can't make a careless move at this rate." Makoto answered.
-"Either way, we can't do anything about it unless the target moves within our firing range. The Eva Units aren't capable of attacking anything in orbit." Misato thought out loud. She was getting worried about the Children.
-"We have three Evas and there's nothing we can do against this target." Aoba said dejected. Every battle was different, making it impossible for them to be able to rely on a strategy that had already worked in the past.
-"That's it !" Misato exclaimed. "A simultaneous shot from the three of them on a set point might be enough to neutralize the Angel !" She opened a comm window with the three Evas. "Everyone's ready ? The target is not moving from orbit. We will have to use all our long-ranged weapons in conjunction with the others to maximize our efficiency and try to destroy it. Shinji, Toji, you'll use the positron rifles. Rei, you'll use the positron sniper rifle."
-"Unit 01 will use the sniper rifle." Commander Ikari chimed in before the Children could answer.
-"Yes sir." Misato answered, puzzled. She decided not to discuss the Commander's orders. "Now. Since the different projectiles you will be using do not travel at the same speed, you will have to rely on a countdown which will tell you when to shoot." She then added in a lighter tone. "I don't expect anything but perfection from you guys ! Good luck !" She winked as she closed the communication with the Evas.
-"Yeah. No pressure." Toji said sarcastically. Despite his comment, he felt confident. He had been training a lot in the past month in simulations, so in theory, he knew how to use his weapon. He didn't need more.
-"Consider yourself lucky. It was way worse when that Angel fell from the sky !" Shinji joked to lighten the mood. At this moment, all three Evangelions got launched to the surface. Shinji went further back and got in position, waiting for the tech crew to finish preparing the weapon while Rei and Toji went next to the catapults which were to bring them theirs.
-"Aren't we sending Unit 02 ?" Makoto asked. He was monitoring the Pilots so he had a direct video feed from the four entry-plugs, Asuka's included.
-"It's been put on suspension under Commander Ikari's strict orders." Misato answered. 'I suppose it's not surprising after what happened.' She added mentally. She didn't like this. She felt conflicted. On the one hand, she couldn't disagree with the Commander's decision, having seen with her own eyes what Unit 02 was capable of in the last battle. On the other hand, she knew that if the situation was to go bad, Asuka would be very difficult to handle.
+
+"Angel visually confirmed. Here is the highest magnification." Aoba said, putting the satellite image of the Angel on the Command Center's main screen. The most angelic looking one so far. It looked like a gigantic pair of wings attached to a body which features could not be seen. The whole creature seemed to be made of light, emphasizing its angelic appearance. It stayed in its place, motionless.  
+"使徒已确认。这是最高倍率的图像。" 青叶说道，将使徒的卫星图像放在指挥中心的主屏幕上。到目前为止最天使般的一个。它看起来像是一对巨大的翅膀连接着一个看不见特征的身体。整个生物似乎由光构成，突显出其天使般的外观。它停留在原地，一动不动。
+
+"It isn't budging from its satellite orbit." Hyuga continued, not raising his eyes from his own screen.  
+"它没有从卫星轨道上移动的迹象。" 日向继续说道，目光未曾离开自己的屏幕。
+
+"It's maintaining a set distance from our location." Aoba confirmed, trying to find something that could help them in the upcoming battle.  
+"它与我们保持了固定的距离。" 青叶确认道，试图在即将到来的战斗中找到有用的信息。
+
+"Which means, it's waiting for a chance to descend and close in, or it can attack us without the need to do so." Misato stated. As usual during battle, she looked calm. She was trying to come up with a strategy to dispose of this new threat.  
+"这意味着，它在等待时机下降并逼近，或者它可以直接攻击我们，无需这样做。" 美里陈述道。一如既往地在战斗中，她显得镇定自若。她正努力构思一个策略来消除这个新的威胁。
+
+"We can't make a careless move at this rate." Makoto answered.  
+"我们可不能在这种时候轻举妄动。" 真嗣回答道。
+
+"Either way, we can't do anything about it unless the target moves within our firing range. The Eva Units aren't capable of attacking anything in orbit." Misato thought out loud. She was getting worried about the Children.  
+"无论如何，除非目标进入我们的射程范围内，否则我们无计可施。Eva 机体是无法攻击轨道上的任何目标的。" 美里自言自语道。她开始为孩子们感到担忧。
+
+"We have three Evas and there's nothing we can do against this target." Aoba said dejected. Every battle was different, making it impossible for them to be able to rely on a strategy that had already worked in the past.  
+"我们有三个 Eva，却对这目标束手无策。" 青叶沮丧地说。每场战斗都不同，使得他们无法依赖过去曾奏效的策略。
+
+"That's it !" Misato exclaimed. "A simultaneous shot from the three of them on a set point might be enough to neutralize the Angel !" She opened a comm window with the three Evas. "Everyone's ready ? The target is not moving from orbit. We will have to use all our long-ranged weapons in conjunction with the others to maximize our efficiency and try to destroy it. Shinji, Toji, you'll use the positron rifles. Rei, you'll use the positron sniper rifle."  
+"就是这样！" 美里喊道。"他们三人同时在一个定点射击，或许足以中和使徒！" 她打开与三台 EVA 的通讯窗口。"大家都准备好了吗？目标没有离开轨道。我们必须联合使用所有远程武器，以最大化效率并尝试摧毁它。真嗣、渡边，你们使用阳电子步枪。丽，你使用阳电子狙击步枪。"
+
+"Unit 01 will use the sniper rifle." Commander Ikari chimed in before the Children could answer.  
+"初号机将使用狙击步枪。" 碇司令在孩子们回答之前插话道。
+
+"Yes sir." Misato answered, puzzled. She decided not to discuss the Commander's orders. "Now. Since the different projectiles you will be using do not travel at the same speed, you will have to rely on a countdown which will tell you when to shoot." She then added in a lighter tone. "I don't expect anything but perfection from you guys ! Good luck !" She winked as she closed the communication with the Evas.  
+"是，长官。" 美里回答，感到困惑。她决定不讨论司令的命令。"现在。由于你们将使用的不同弹药速度不一，你们需要依靠倒计时来确定射击时机。" 她接着用轻松的语气补充道。"我对你们的要求只有完美！祝好运！" 她眨眼间关闭了与 EVA 的通讯。
+
+"Yeah. No pressure." Toji said sarcastically. Despite his comment, he felt confident. He had been training a lot in the past month in simulations, so in theory, he knew how to use his weapon. He didn't need more.  
+"是啊，没压力。" 冬二讽刺地说道。尽管他这么说，但他感到自信满满。过去一个月里，他在模拟训练中下了很多功夫，所以在理论上，他知道如何使用自己的武器。他不需要更多了。
+
+"Consider yourself lucky. It was way worse when that Angel fell from the sky !" Shinji joked to lighten the mood. At this moment, all three Evangelions got launched to the surface. Shinji went further back and got in position, waiting for the tech crew to finish preparing the weapon while Rei and Toji went next to the catapults which were to bring them theirs.  
+"算你走运。那次使徒从天而降的时候可糟糕多了！" 真嗣开玩笑以缓和气氛。此时，三台 EVA 都被发射到了地面上。真嗣退得更远，进入位置，等待技术团队完成武器的准备工作，而丽和冬二则走向了即将为他们发射武器的弹射器旁。
+
+"Aren't we sending Unit 02 ?" Makoto asked. He was monitoring the Pilots so he had a direct video feed from the four entry-plugs, Asuka's included.  
+"我们不是要派出零二号机吗？" 真琴问道。他在监控驾驶员，因此直接从四个插入栓中接收到了包括明日香在内的视频信号。
+
+"It's been put on suspension under Commander Ikari's strict orders." Misato answered. 'I suppose it's not surprising after what happened.' She added mentally. She didn't like this. She felt conflicted. On the one hand, she couldn't disagree with the Commander's decision, having seen with her own eyes what Unit 02 was capable of in the last battle. On the other hand, she knew that if the situation was to go bad, Asuka would be very difficult to handle.  
+"根据碇司令的严格命令，它已被暂停使用。" 美里回答道。'经历了那样的事情后，这并不令人意外。' 她在心里补充道。她不喜欢这样。她感到矛盾。一方面，她亲眼目睹了二号机在上一场战斗中的能力，无法反驳司令的决定；另一方面，她知道如果情况恶化，明日香将非常难以控制。
+
 .
+
 .
-"The rain feels weird." Toji said to break the silence. The tension was growing with every second. His positron rifle arrived at this moment, he retrieved it and plugged it to its power source.
-"Yeah. It's the first time I fight in the rain." Shinji answered, his weapon was charged, he only had to wait for the countdown to begin. He looked to his right, to his comm windows. Toji was just putting the targeting system on while Rei was picking up her own positron rifle. She didn't betray any emotion. He wondered for a second what she could be thinking about before focusing back to the battle. He didn't have a comm window opened with Asuka. It wouldn't have been justified, and since it was now official that the Commander was meddling in their private life, it was far too dangerous.
-From the corner of his eye he could see Toji aiming his rifle towards the heavens above.
-'Come on come on come on come on' Toji kept repeating this mantra in his head as he was waiting for his reticles to align. "What the ?.."
-"Toji ! Move !" Shinji screamed as a blinding beam of light descended from the sky directly on his friend.
-"Aaaaaaaargh !" Toji shouted at the top of his lungs as his Eva started convulsing.
+
+"The rain feels weird." Toji said to break the silence. The tension was growing with every second. His positron rifle arrived at this moment, he retrieved it and plugged it to its power source.  
+"这雨感觉很奇怪。" 冬二说道，试图打破沉默。紧张感每秒都在加剧。此时，他的阳电子步枪送到了，他取过并连接到电源上。
+
+"Yeah. It's the first time I fight in the rain." Shinji answered, his weapon was charged, he only had to wait for the countdown to begin. He looked to his right, to his comm windows. Toji was just putting the targeting system on while Rei was picking up her own positron rifle. She didn't betray any emotion. He wondered for a second what she could be thinking about before focusing back to the battle. He didn't have a comm window opened with Asuka. It wouldn't have been justified, and since it was now official that the Commander was meddling in their private life, it was far too dangerous.  
+“嗯，这是我第一次在雨中战斗。” 真嗣回答道，他的武器已经充能完毕，只需等待倒计时开始。他向右看去，目光落在通讯窗口上。剑介正在调整瞄准系统，而绫波则拿起她的阳电子步枪。她没有任何情绪流露。真嗣好奇了一瞬她在想什么，随后便将注意力重新集中到战斗上。他没有打开与明日香的通讯窗口。这并不合理，而且自从指挥官正式介入他们的私生活后，这样做太过危险。
+
+From the corner of his eye he could see Toji aiming his rifle towards the heavens above.  
+他用眼角余光瞥见剑介正将步枪瞄准天空。
+
+'Come on come on come on come on' Toji kept repeating this mantra in his head as he was waiting for his reticles to align. "What the ?.."  
+“快点快点快点快点” 剑介在心中不断重复着这个咒语，等待着瞄准镜对齐。“什么鬼？..”
+
+"Toji ! Move !" Shinji screamed as a blinding beam of light descended from the sky directly on his friend.  
+“冬二！快躲开！” 真嗣尖叫着，一道刺眼的光束从天而降，直冲他的朋友而去。
+
+"Aaaaaaaargh !" Toji shouted at the top of his lungs as his Eva started convulsing.  
+“啊啊啊啊啊！” 冬二声嘶力竭地喊着，他的 EVA 开始剧烈抽搐。
+
 .
+
 .
-The alarm started in the Command center where everyone was completely stunned by what they were witnessing. "Is it a direct energy weapon ?!" Misato asked urgently.
-"No, I'm not getting any thermal energy readings." Aoba answered.
-"His psychograph readings are agitated !" Maya looked scared when she shared this information "Mental contamination beginning !"
-Ritsuko looked utterly terrified. "The Angel is launching a psychological attack ? They can comprehend the mind of a human being ?" This could have dire consequences.
+
+The alarm started in the Command center where everyone was completely stunned by what they were witnessing. "Is it a direct energy weapon ?!" Misato asked urgently.  
+指挥中心警报响起，所有人都被眼前的景象惊呆了。“这是直接能量武器吗？！” 美里急切地问道。
+
+"No, I'm not getting any thermal energy readings." Aoba answered.  
+“不，我没有检测到任何热能反应。”青叶回答道。
+
+"His psychograph readings are agitated !" Maya looked scared when she shared this information "Mental contamination beginning !"  
+“他的心理图谱显示异常波动！”真嗣分享这一信息时显得惊恐，“精神污染开始！”
+
+Ritsuko looked utterly terrified. "The Angel is launching a psychological attack ? They can comprehend the mind of a human being ?" This could have dire consequences.  
+律子看起来完全吓坏了。“使徒正在发动心理攻击？它们能理解人类的思想？”这可能会带来灾难性的后果。
+
 .
+
 .
-"Goddamn it !" Toji screamed as he started shooting his rifle at random. He kept unloading his weapon, while groaning in pain until it clicked empty. He kept pulling the trigger several times in his pain induced confusion before dropping the positron rifle.
-"I'm going to help him !" Shinji shouted as he abandoned his position.
-"No. You have to stay at your position." Commander Ikari said in his coldest voice. He was starting to have enough of his son's attitude. He didn't want him to put Unit 01 in harm's way.
-"That wasn't a question, Father." Shinji spat the last word, then added sarcastically. "I'm sorry, but I don't have time to argue with you. My friend is in danger." As he talked, he got his Eva closer to Unit 03. He stopped for a few seconds before charging the Eva as quickly as possible, tackling it outside of the beam of light. The plan would have worked perfectly if the impact had not killed most of his momentum. Now, Shinji was the one trapped in the light.
+
+"Goddamn it !" Toji screamed as he started shooting his rifle at random. He kept unloading his weapon, while groaning in pain until it clicked empty. He kept pulling the trigger several times in his pain induced confusion before dropping the positron rifle.  
+"该死！" 真嗣尖叫着开始胡乱射击他的步枪。他不停地开火，同时痛苦地呻吟，直到枪支发出空响。在痛苦引发的混乱中，他又多次扣动扳机，最后才丢下阳电子步枪。
+
+"I'm going to help him !" Shinji shouted as he abandoned his position.  
+"我要去帮他！" 真嗣大喊着放弃了他的位置。
+
+"No. You have to stay at your position." Commander Ikari said in his coldest voice. He was starting to have enough of his son's attitude. He didn't want him to put Unit 01 in harm's way.  
+"不行。你必须坚守你的位置。" 司令碇源堂用他最冷漠的声音说道。他开始受够了儿子的态度。他不希望真嗣让初号机陷入危险之中。
+
+"That wasn't a question, Father." Shinji spat the last word, then added sarcastically. "I'm sorry, but I don't have time to argue with you. My friend is in danger." As he talked, he got his Eva closer to Unit 03. He stopped for a few seconds before charging the Eva as quickly as possible, tackling it outside of the beam of light. The plan would have worked perfectly if the impact had not killed most of his momentum. Now, Shinji was the one trapped in the light.  
+"那不是个问题，父亲。" 真嗣吐出最后一个词，然后讽刺地补充道。"对不起，我没时间和你争论。我的朋友正处于危险之中。" 他一边说着，一边让他的 Eva 更靠近 03 号机。他停顿了几秒钟，然后尽可能快地冲向 Eva，将其撞出光束之外。如果撞击没有让他失去大部分动力，这个计划本可以完美执行。现在，真嗣自己被困在了光中。
+
 .
+
 .
-"Rei ! Go down into Dogma and use the Lance ! Hurry !"
-"The Lance of Longinus ?!" Fuyutsuki asked with evident concern. "Ikari, that is..."
-"This is our only way to bring the target's down. We do not know what the consequences will be for Unit 01. There is no time to waste." Gendo's worry was enough to shut the Sub-Commander up.
-"Analysis of the ray of light ?!" Misato demanded, trying not to listen to Shinji's screams of pain.
-"It's an energy wave within the visible spectrum ! It's similar to the AT-Field, but details are unknown !" Makoto answered.
-"What about Shinji ?" Ritsuko asked Maya. She couldn't read what was on her screen.
-"He's in danger ! The mental contamination has entered Y !" Maya answered, her eyes still fixed on her screen, she didn't want to miss any critical information concerning the Pilot's status.
-"Monkey-boy ! Do something !" Asuka's scream paralyzed everyone who heard it. It was filled with hope and despair at the same time, with helplessness and terror.
-"Toji can't help him. His plug was ejected as soon as he got out of the light." Misato told her, there was no point in hiding the truth from her.
-"I'll go then !"
-"No ! Your Eva is frozen. You have to stand by." Misato ordered with as much authority as she could, hoping it would be enough.
-"Like hell I will !" Was Asuka's answer. She then started to get her Eva free of its restraints in order to make her way towards the elevators.
-"Major." Gendo said. He didn't have to say anything more. The order was very clear.
-"Increase the pressure of Unit 02's LCL to maximum." Misato ordered, her head low, just loud enough for the crew to hear. She had to. She didn't have a choice. She cut the communication with Unit 02 at the same time, too ashamed of herself to listen to what Asuka would say. She didn't even pay attention to the conversation that was occurring right behind her back.
+
+"Rei ! Go down into Dogma and use the Lance ! Hurry !"  
+"绫波！去到迪格玛，使用长枪！快！"
+
+"The Lance of Longinus ?!" Fuyutsuki asked with evident concern. "Ikari, that is..."  
+"朗基努斯之枪？！" 冬月问道，语气中明显带着关切。"碇，那是..."
+
+"This is our only way to bring the target's down. We do not know what the consequences will be for Unit 01. There is no time to waste." Gendo's worry was enough to shut the Sub-Commander up.  
+"这是我们唯一能击倒目标的方法。我们不知道对零号机会有什么后果。没有时间可以浪费了。" 碇源堂的担忧足以让副司令闭嘴。
+
+"Analysis of the ray of light ?!" Misato demanded, trying not to listen to Shinji's screams of pain.  
+"光线的分析结果？！" 美里要求道，尽量不去听真嗣痛苦的尖叫声。
+
+"It's an energy wave within the visible spectrum ! It's similar to the AT-Field, but details are unknown !" Makoto answered.  
+"这是一种可见光谱内的能量波！类似于 AT 力场，但具体细节尚不清楚！" 真希波回答道。
+
+"What about Shinji ?" Ritsuko asked Maya. She couldn't read what was on her screen.  
+“那真嗣呢？”律子问真希波。她无法解读屏幕上的内容。
+
+"He's in danger ! The mental contamination has entered Y !" Maya answered, her eyes still fixed on her screen, she didn't want to miss any critical information concerning the Pilot's status.  
+“他有危险！精神污染已经进入 Y 区域了！”真希波回答，目光依旧紧盯着屏幕，她不想错过任何有关驾驶员状态的关键信息。
+
+"Monkey-boy ! Do something !" Asuka's scream paralyzed everyone who heard it. It was filled with hope and despair at the same time, with helplessness and terror.  
+“猴头小子！快做点什么！”明日香的尖叫让所有听到的人都僵住了。她的声音充满了希望与绝望，无助与恐惧交织。
+
+"Toji can't help him. His plug was ejected as soon as he got out of the light." Misato told her, there was no point in hiding the truth from her.  
+“真嗣帮不了他。他一离开光束，插入栓就被弹出了。”美里告诉她，没有必要对她隐瞒真相。
+
+"I'll go then !"  
+“那我去吧！”
+
+"No ! Your Eva is frozen. You have to stand by." Misato ordered with as much authority as she could, hoping it would be enough.  
+“不行！你的 EVA 被冻结了。你得待命。”美里尽可能用权威的语气命令道，希望这足够说服她。
+
+"Like hell I will !" Was Asuka's answer. She then started to get her Eva free of its restraints in order to make her way towards the elevators.  
+“打死我也不干！”明日香回道。随后她开始解开她的 EVA 身上的束缚，准备向电梯方向移动。
+
+"Major." Gendo said. He didn't have to say anything more. The order was very clear.  
+“少校。”碇司令说道。他无需多言，命令已经非常明确。
+
+"Increase the pressure of Unit 02's LCL to maximum." Misato ordered, her head low, just loud enough for the crew to hear. She had to. She didn't have a choice. She cut the communication with Unit 02 at the same time, too ashamed of herself to listen to what Asuka would say. She didn't even pay attention to the conversation that was occurring right behind her back.  
+“将二号机的 LCL 压力调至最大。”美里命令道，头低垂着，声音刚好能让机组人员听见。她不得不这么做，别无选择。同时，她也切断了与二号机的通讯，羞愧难当，不愿听到明日香的回应。她甚至没有留意身后正在进行的对话。
+
 .
+
 .
-"Aaaaaargh ! Stop ! Stop ! Stop it ! Stay out of my head !" Shinji screamed at the top of his lungs. His throat was getting sore, his screams more and more hoarse.
-"Shinji ! Get out of here ! Fall back !" Misato shouted but Shinji didn't hear her.
+
+"Aaaaaargh ! Stop ! Stop ! Stop it ! Stay out of my head !" Shinji screamed at the top of his lungs. His throat was getting sore, his screams more and more hoarse.  
+“啊啊啊啊啊！停下！停下！快停下！别进我的脑袋！” 真嗣声嘶力竭地尖叫着。他的喉咙开始疼痛，喊声也越发沙哑。
+
+"Shinji ! Get out of here ! Fall back !" Misato shouted but Shinji didn't hear her.  
+“真嗣！快离开这里！撤退！” 美里喊道，但真嗣没有听到她的声音。
+
 "Aaaaaaaaaargh !"
-*Flash*
-Shinji was standing in a large room. His father, Sub-Commander Fuyutsuki and Doctor Akagi were behind him. He was just in front of a window, smiling and waving at his mother. She was looking at him for what would be the last time before she entered Unit 01's entry-plug. And before she was wiped from this existence. This memory had always been with him. The Angel just showed him what he had subconsciously repressed for years.
-*Flash*
-"Leave me alone !" His voice was getting weaker.
-*Flash*
-He could barely see anything. His whole vision was filled with reddish orange. He was hot. Very hot. With some effort, he could see his Eva's hand, outstretched as much as possible. He could also see a second hand. Unit 02's. Just out of reach.
-"Shinji ! Shinji !" He could hear her screaming. He had never heard her so terrified in his life. "I don't want to die !" He couldn't see the hand anymore. He had arrived too late. He failed to grab Unit 02 before it sunk in the volcano. "Shinji ! Please ! I don't want to die ! I don't want to..." She didn't have time to finish her plea. The last thing Shinji heard was a loud metallic sound. Then there was only static.
-*Flash*
-"Stop ! Don't ! I don't want to see this." He was crying from the visions, from exhaustion, from pain. There was something else, however, which came with the vision. It wasn't a voice in his head, more like a message imprinted in his mind : 'You could have saved her...
-你本可以救她的...'
-*Flash*
-Shinji could see inside a derelict house, and more precisely inside the bathroom. There were wood panels everywhere, the ceiling had collapsed so the early morning sunlight could enter the room. Oddly enough, there was a chair still standing with neatly folded clothes on it. The bathtub was bent and rusty. He could see Asuka inside. She looked terrible. Her hair was messy, her cheeks creased, she looked tired and malnourished. She was soaking in tepid reddish water. "There's no reason for me to live now." She said as he came closer Terrified of the sight before his eyes yet incapable of doing anything or even say anything to her. He could see blood spilling from fresh wounds on her wrists.
-*Flash*
-"Leave me alone." His voice was now very weak. The simple act of speaking seemed painful to him. 'But you abandoned her...'
-但你却抛弃了她...
-*Flash*
-He was now in an entry-plug. What startled him at first was that he wasn't sitting in the Pilot's chair. This early realization was quickly replaced however, by the foul stench filling his nostrils, making him dry heave before he could do anything else. He navigated with difficulty towards the chair. That's when he saw her. Asuka was sitting on the chair. She was dead. She had been for a long time. Her red plugsuit was dirty and seemed hollow. Her hair was dry and looked crusty. What shocked Shinji the most however, was her face.
-Her skin was dry and rotten were it still stuck to her skull. There were maggots coming and going from the empty cavities of her eye sockets, and even more crawling on her face, the only exposed part of her decaying corpse.
-*Flash*
-"Please stop. Stop it. Stop invading my mind." He whispered weakly. 'But you ran away...'
-*Flash*
-He was on a beach. He could hear the waves lapping gently on the white sand he was kneeling on. The night was eerily clear... And quiet. He was strangling her. He could feel how much pressure he was putting on her windpipe. She wasn't struggling, but he could see out of her right eye that she was alive. He didn't stop. He was begging his own body in his mind to stop. To let her breathe. He wished she would do something to repel him. She didn't move.
-*Flash*
-Shinji said nothing, he was holding his knees close to himself, whimpering. 'In the end, it was you who killed her.'
-*Flash*
-The Geofront had been turned into a war zone. Nothing had been left unscathed by the fight happening. A gigantic hole in the cavern's structure let the sun shine through. Shinji was fighting like he had never fought before. He didn't control his movements but he could see the destruction he was causing along with his enemies. He couldn't see them, they looked like blurry white masses. He could also see in the distance Unit 02, also fighting these white masses. And the Jet Alone. The image puzzled him for a second before an ear-splitting explosion brought his attention back to the red Eva, which was nowhere to be found. He knew deep down that the explosion had been Unit 02 self-destructing.
-'Because you are weak.'
-*Flash*
-This street was familiar. He had already passed by this cinema several times since he had arrived in Tokyo 3. He had wanted to take Asuka there, to have a nice, normal date with her. He was seeing it from afar. He could hear gunshots, he could see bullet holes in several place, shop windows, a food cart, its umbrella... He was witnessing a scene of urban guerrilla. Suddenly, he saw Asuka awkwardly bolt from a storefront she was using as cover. He heard a gunshot, then he heard her scream. He saw her flop ungracefully onto her front.
-'Because you are a coward.'
-*Flash*
-Shinji couldn't even begin to comprehend what was happening. Asuka was clothed in a black duffel coat, in a snowstorm, aiming a rifle at a wolf. She looked exhausted and famished, with dark rings around her eyes, on top of creased cheeks. The noise from the rifle pierced his ears as she shot the wolf down. The creature fell onto her, knocking her down. She shot a second wolf before several others jumped on her. She screamed as she managed to smash one of her assailants' jaw with her rifle. They were too many, however. She was surrounded. Two wolves were biting at her limbs as a third one was trying to rip her face off with its powerful jaw.
-'Because you did nothing. 因为你什么都没做。'
-*Flash*
-He knew that scene. It was during the fight against the Angel which took control of Toji's Evangelion. Unit 01 was holding Toji's entry-plug in its hand, squeezing it. However, this time, nobody came before he managed to crush it with his own hand.
+
+_Flash_
+
+Shinji was standing in a large room. His father, Sub-Commander Fuyutsuki and Doctor Akagi were behind him. He was just in front of a window, smiling and waving at his mother. She was looking at him for what would be the last time before she entered Unit 01's entry-plug. And before she was wiped from this existence. This memory had always been with him. The Angel just showed him what he had subconsciously repressed for years.  
+真嗣站在一个宽敞的房间里。他的父亲、副司令官冬月和博士赤木律子站在他身后。他正对着一扇窗户，微笑着向母亲挥手。这是她进入零号机插入栓前最后一次看着他，也是她从这个世界上消失前的最后一眼。这段记忆一直伴随着他。天使刚刚向他展示了那些他潜意识里压抑多年的回忆。
+
+_Flash_
+
+"Leave me alone !" His voice was getting weaker.  
+“别管我！”他的声音越来越弱。
+
+_Flash_
+
+He could barely see anything. His whole vision was filled with reddish orange. He was hot. Very hot. With some effort, he could see his Eva's hand, outstretched as much as possible. He could also see a second hand. Unit 02's. Just out of reach.  
+他几乎看不清任何东西。整个视野都被红橙色填满。他感到热，非常热。费了些力气，他能看到自己的 Eva 的手，尽可能地伸展开来。他还能看到另一只手，02 号机的手，就在触手可及之外。
+
+"Shinji ! Shinji !" He could hear her screaming. He had never heard her so terrified in his life. "I don't want to die !" He couldn't see the hand anymore. He had arrived too late. He failed to grab Unit 02 before it sunk in the volcano. "Shinji ! Please ! I don't want to die ! I don't want to..." She didn't have time to finish her plea. The last thing Shinji heard was a loud metallic sound. Then there was only static.  
+“真嗣！真嗣！”他能听到她在尖叫。他从未听过她如此恐惧的声音。“我不想死！”他再也看不见那只手了。他来得太迟了。他未能抓住 02 号机，它沉入了火山中。“真嗣！求求你！我不想死！我不想……”她没来得及说完她的恳求。真嗣最后听到的是一声响亮的金属声，随后便只剩下了静电噪音。
+
+_Flash_
+
+"Stop ! Don't ! I don't want to see this." He was crying from the visions, from exhaustion, from pain. There was something else, however, which came with the vision. It wasn't a voice in his head, more like a message imprinted in his mind : 'You could have saved her...'  
+"停下！不要！我不想看到这些。" 他因幻象、疲惫和痛苦而哭泣。然而，幻象中还伴随着其他东西。那不是他脑海中的声音，更像是一条刻在他心中的信息：'你本可以救她的...'
+
+_Flash_
+
+Shinji could see inside a derelict house, and more precisely inside the bathroom. There were wood panels everywhere, the ceiling had collapsed so the early morning sunlight could enter the room. Oddly enough, there was a chair still standing with neatly folded clothes on it. The bathtub was bent and rusty. He could see Asuka inside. She looked terrible. Her hair was messy, her cheeks creased, she looked tired and malnourished. She was soaking in tepid reddish water. "There's no reason for me to live now." She said as he came closer Terrified of the sight before his eyes yet incapable of doing anything or even say anything to her. He could see blood spilling from fresh wounds on her wrists.  
+真嗣能看到一座废弃的房子内部，更确切地说是在浴室里。到处都是木板，天花板已经坍塌，清晨的阳光得以照进房间。奇怪的是，还有一把椅子依然立着，上面整齐地叠放着衣服。浴缸弯曲生锈。他能看到明日香在里面。她看起来很糟糕。头发凌乱，脸颊皱巴巴的，显得疲惫且营养不良。她泡在温热的微红色水中。"我现在没有理由活下去了。" 她说着，当他走近时，他恐惧于眼前的景象，却无能为力，甚至无法对她说些什么。他能看到鲜血从她手腕上的新伤口中流出。
+
+_Flash_
+
+"Leave me alone." His voice was now very weak. The simple act of speaking seemed painful to him. 'But you abandoned her...'  
+"别管我。" 他的声音现在非常微弱。仅仅是说话这个简单的动作似乎都让他感到痛苦。'但你抛弃了她...'
+
+_Flash_
+
+He was now in an entry-plug. What startled him at first was that he wasn't sitting in the Pilot's chair. This early realization was quickly replaced however, by the foul stench filling his nostrils, making him dry heave before he could do anything else. He navigated with difficulty towards the chair. That's when he saw her. Asuka was sitting on the chair. She was dead. She had been for a long time. Her red plugsuit was dirty and seemed hollow. Her hair was dry and looked crusty. What shocked Shinji the most however, was her face.  
+他现在身处插入栓内。最初让他惊愕的是，自己并未坐在驾驶员的椅子上。然而，这一早期的认知很快被充斥鼻腔的恶臭所取代，使他在采取任何行动之前就干呕起来。他艰难地向椅子走去。就在那时，他看到了她。明日香坐在椅子上。她已经死了。死了很久。她的红色插入栓服肮脏且显得空洞。她的头发干枯，看起来像结了壳。然而，最让真嗣震惊的是她的脸。
+
+Her skin was dry and rotten were it still stuck to her skull. There were maggots coming and going from the empty cavities of her eye sockets, and even more crawling on her face, the only exposed part of her decaying corpse.  
+她的皮肤干燥且腐烂，仍粘附在她的头骨上。蛆虫从她眼窝的空洞中进进出出，更多的则在她的脸上爬行，那是她腐烂尸体唯一暴露的部分。
+
+_Flash_
+
+"Please stop. Stop it. Stop invading my mind." He whispered weakly. 'But you ran away...'  
+“请停下来。别再这样了。别再侵入我的心灵。”他虚弱地低语。‘但你逃走了...’
+
+_Flash_
+
+He was on a beach. He could hear the waves lapping gently on the white sand he was kneeling on. The night was eerily clear... And quiet. He was strangling her. He could feel how much pressure he was putting on her windpipe. She wasn't struggling, but he could see out of her right eye that she was alive. He didn't stop. He was begging his own body in his mind to stop. To let her breathe. He wished she would do something to repel him. She didn't move.  
+他身处一片海滩。耳边是海浪轻柔地拍打着他跪着的白沙。夜空异常清晰……且寂静。他正掐着她的脖子。他能感觉到自己施加在她气管上的压力有多大。她没有挣扎，但从她的右眼他能看出她还活着。他没有停手。他在心里恳求自己的身体停下来。让她呼吸。他希望她能做些什么来反抗他。她一动不动。
+
+_Flash_
+
+Shinji said nothing, he was holding his knees close to himself, whimpering. 'In the end, it was you who killed her.'  
+真嗣一言不发，紧紧抱着自己的膝盖，呜咽着。'最终，是你杀了她。'
+
+_Flash_
+
+The Geofront had been turned into a war zone. Nothing had been left unscathed by the fight happening. A gigantic hole in the cavern's structure let the sun shine through. Shinji was fighting like he had never fought before. He didn't control his movements but he could see the destruction he was causing along with his enemies. He couldn't see them, they looked like blurry white masses. He could also see in the distance Unit 02, also fighting these white masses. And the Jet Alone. The image puzzled him for a second before an ear-splitting explosion brought his attention back to the red Eva, which was nowhere to be found. He knew deep down that the explosion had been Unit 02 self-destructing.  
+地底都市已经变成了战场。战斗的痕迹无处不在，巨大的洞口让阳光得以透入。真嗣战斗得前所未有地激烈，他并未操控自己的动作，却能目睹自己与敌人共同造成的破坏。那些敌人看起来像模糊的白色团块，他还能远远望见零号机也在与这些白色团块战斗，还有那台 Jet Alone。这一幕让他困惑了一瞬，直到一声震耳欲聋的爆炸将他的注意力拉回到红色的 EVA 上，而它已消失无踪。他内心深处明白，那爆炸是零号机自毁的结果。
+
+'Because you are weak.'  
+'因为你太软弱了。'
+
+_Flash_
+
+This street was familiar. He had already passed by this cinema several times since he had arrived in Tokyo 3. He had wanted to take Asuka there, to have a nice, normal date with her. He was seeing it from afar. He could hear gunshots, he could see bullet holes in several place, shop windows, a food cart, its umbrella... He was witnessing a scene of urban guerrilla. Suddenly, he saw Asuka awkwardly bolt from a storefront she was using as cover. He heard a gunshot, then he heard her scream. He saw her flop ungracefully onto her front.  
+这条街道他很熟悉。自从来到东京 3 区后，他已经多次路过这家电影院。他本想带明日香去那里，和她进行一次美好而正常的约会。他远远地望着它。他能听到枪声，能看到多处的弹孔，商店橱窗，一个食品摊，它的遮阳伞……他目睹了一场城市游击战的场景。突然，他看到明日香笨拙地从她用作掩体的店面冲出来。他听到一声枪响，接着是她尖叫的声音。他看到她狼狈地扑倒在地。
+
+'Because you are a coward.'  
+'因为你是个懦夫。'
+
+_Flash_
+
+Shinji couldn't even begin to comprehend what was happening. Asuka was clothed in a black duffel coat, in a snowstorm, aiming a rifle at a wolf. She looked exhausted and famished, with dark rings around her eyes, on top of creased cheeks. The noise from the rifle pierced his ears as she shot the wolf down. The creature fell onto her, knocking her down. She shot a second wolf before several others jumped on her. She screamed as she managed to smash one of her assailants' jaw with her rifle. They were too many, however. She was surrounded. Two wolves were biting at her limbs as a third one was trying to rip her face off with its powerful jaw.  
+真嗣完全无法理解正在发生的事情。明日香穿着一件黑色羽绒外套，在暴风雪中，举枪瞄准一只狼。她看起来疲惫不堪，饥饿难耐，眼圈乌黑，脸颊上还有皱纹。随着她开枪射中狼，枪声刺穿了他的耳膜。那只狼倒在她身上，将她撞倒。她又射中了一只狼，但随后几只狼扑向了她。她尖叫着，用枪托砸碎了一只攻击者的下巴。然而，狼太多了。她被包围了。两只狼咬住了她的四肢，第三只则试图用它强有力的下颚撕裂她的脸。
+
+'Because you did nothing.'  
+'因为你什么都没做。'
+
+_Flash_
+
+He knew that scene. It was during the fight against the Angel which took control of Toji's Evangelion. Unit 01 was holding Toji's entry-plug in its hand, squeezing it. However, this time, nobody came before he managed to crush it with his own hand.  
+他记得那个场景。那是在与控制了冬二 EVA 的使徒战斗时。初号机正握着冬二的插入栓，挤压着它。然而这一次，在他亲手将其捏碎之前，没有人前来阻止。
+
 'You...'
-*Flash*
-He was in his entry-plug, looking at a battlefield. He could see Unit 00 struggling against an enemy he could not identify. Suddenly, Unit 00 disappeared in a blinding light.
+
+_Flash_
+
+He was in his entry-plug, looking at a battlefield. He could see Unit 00 struggling against an enemy he could not identify. Suddenly, Unit 00 disappeared in a blinding light.  
+他身处自己的插入栓内，望着一片战场。他能看到零号机正与一个无法辨认的敌人搏斗。突然间，零号机在一阵刺眼的光芒中消失了。
+
 'Killed...'
-*Flash*
-Misato was sitting on the floor, inside a corridor of the Geofront. She was breathing heavily. She had her back against a door which led to an elevator. As Shinji saw more details, he could see that she was bleeding from a gunshot. Blood was also dripping from her mouth. Her breathing was getting shallower with each breath.
-'Them... 它们...'
-*Flash*
-Shinji was standing in another corridor of the Geofront. It smelled like burning. As he took in his surroundings, he understood where the smell came from. Dozens of corpses littered the floor, some of them had been shot. Most of them, however, had been burned alive.
+
+_Flash_
+
+Misato was sitting on the floor, inside a corridor of the Geofront. She was breathing heavily. She had her back against a door which led to an elevator. As Shinji saw more details, he could see that she was bleeding from a gunshot. Blood was also dripping from her mouth. Her breathing was getting shallower with each breath.  
+美里坐在地面上，位于地底都市的一个走廊里。她呼吸急促，背靠着一扇通往电梯的门。随着真嗣观察到更多细节，他发现她被枪击中，鲜血从伤口流出，嘴角也有血滴落。她的呼吸随着每一次呼吸变得越来越浅。
+
+'Them...'
+
+_Flash_
+
+Shinji was standing in another corridor of the Geofront. It smelled like burning. As he took in his surroundings, he understood where the smell came from. Dozens of corpses littered the floor, some of them had been shot. Most of them, however, had been burned alive.  
+真嗣站在地底都市的另一个走廊里，空气中弥漫着烧焦的味道。当他环顾四周时，明白了这股味道的来源。数十具尸体散落在地板上，其中一些是被枪杀的。然而，大多数是被活活烧死的。
+
 'All.'
+
 .
+
 .
-Unit 01 has shut down ! Life support has developed a problem !
+
+Unit 01 has shut down ! Life support has developed a problem !  
 初号机已关闭！生命维持系统出现故障！
-"Pilot entering a dangerous state !" Maya exclaimed, incapable of hiding how worried she was about Shinji.
-"No change in target." Aoba added. "Relative distance has remained the same."
-"Probability of it moving within firing range is 0.02%." Makoto finished the status report.
-.
-.
-Rei was finally getting back to the surface, the Lance of Longinus in her right hand. She had never ran this fast in her life. She had experimented feelings she was very unfamiliar with for the first time. Fear for her fellow pilots. Fear for Shinji. Frustration. The cable lowering her Eva to the depths of the Geofront was excruciatingly slow, so much that she had to cut her communications with everyone. She couldn't stand hearing Shinji's screams of agony. Each scream was tearing a hole in her soul. For the first time ever she also felt helplessness.
-"Unit 00, prepared to throw." Aoba said.
-"Target confirmed. Adjustment for errors made." Makoto declared.
-"Beginning countdown." Maya stated. "T-minus ten seconds."
-Upon hearing that, Rei got into position and started running before throwing the Lance with all her Eva's strength towards the Angel. A bestial wail came from the Eva as it threw the weapon. Shinji's screams had stopped, which had terrified her even more. She was expecting the worst. At least when he screamed she had proof that he was still alive.
-Maya had just said "eight" when the Lance left her hand and flew through the clouds, dissipating them at the same time, allowing the sun to shine unobstructed on Tokyo 3, then breaking through the Angel's AT-Field like it wasn't even there before piercing its core and destroying it.
-"Target has been destroyed." Rei heard Aoba confirm. She cut her communications again and rested her head on her chair's headrest and exhaled, closing her eyes, physically and mentally drained by the battle.
 
+"Pilot entering a dangerous state !" Maya exclaimed, incapable of hiding how worried she was about Shinji.  
+“驾驶员进入危险状态！”玛雅惊呼，无法掩饰她对真嗣的担忧。
+
+"No change in target." Aoba added. "Relative distance has remained the same."  
+"目标未发生变化。" 青叶补充道，"相对距离保持不变。"
+
+"Probability of it moving within firing range is 0.02%." Makoto finished the status report.  
+"其在射程内移动的概率为 0.02%。" 真嗣完成了状态报告。"
 
 .
+
 .
-Shinji was sitting on the floor, right next to the lift that was bringing his Evangelion back to its cage. He wasn't moving, seemingly oblivious to the behemoth's face in front of him, the slow beeping of the alarm or the cicadas' stridulations. He also seemed oblivious to the footsteps which were quickly approaching him.
-"Shinji !" Asuka was furious at Misato, but now was not the time. Shinji had been hurt during this fight. She didn't want him to be hurt. So she wanted to be there for him, to help him go through this. She had heard him. Heard every single word he had said. Heard his silence. She couldn't begin to imagine what it must have felt like to have his mind violated by this monster. "Shinji ! Are you okay ?" He didn't move. He just sat there.
-She didn't care that the Commander would see her. She didn't care about anything except him, she just wanted him to be safe. She swiftly ducked under the quarantine tape and got in front of him, putting her left hand on his shoulder and raising his head with her right. "Shin..."
-She fell silent as she saw him. She understood when she looked directly into his blank, emotionless, cobalt stare... Into these empty eyes which usually expressed so much emotions, which always made her feel butterflies in her stomach. She understood in a heartbeat that something was wrong with him. She knew this expression. She had seen it before. At this moment, she felt very, very small. As if she were four again. "Shinji... Please... Don't... Don't stop being my Shinji."
+
+Rei was finally getting back to the surface, the Lance of Longinus in her right hand. She had never ran this fast in her life. She had experimented feelings she was very unfamiliar with for the first time. Fear for her fellow pilots. Fear for Shinji. Frustration. The cable lowering her Eva to the depths of the Geofront was excruciatingly slow, so much that she had to cut her communications with everyone. She couldn't stand hearing Shinji's screams of agony. Each scream was tearing a hole in her soul. For the first time ever she also felt helplessness.  
+绫波终于回到了地面，右手紧握着朗基努斯之枪。她从未如此拼命奔跑过。第一次体验到了许多陌生的情感：对同伴驾驶员的担忧，对真嗣的恐惧，还有挫败感。降下 EVA 至地底都市的缆绳慢得令人痛苦，以至于她不得不切断了与所有人的通讯。她无法忍受听到真嗣痛苦的尖叫声，每一声都像是在撕裂她的灵魂。这是她第一次感到如此无助。
+
+"Unit 00, prepared to throw." Aoba said.  
+"初号机，准备投掷。" 青叶说道。
+
+"Target confirmed. Adjustment for errors made." Makoto declared.  
+"目标已确认。进行误差调整。" 真琴宣布。
+
+"Beginning countdown." Maya stated. "T-minus ten seconds."  
+"开始倒计时。" 真耶陈述。"十秒倒计时。"
+
+Upon hearing that, Rei got into position and started running before throwing the Lance with all her Eva's strength towards the Angel. A bestial wail came from the Eva as it threw the weapon. Shinji's screams had stopped, which had terrified her even more. She was expecting the worst. At least when he screamed she had proof that he was still alive.  
+听到这话，丽迅速就位并开始奔跑，然后用 EVA 的全部力量将长枪投向使徒。EVA 发出野兽般的嚎叫，将武器掷出。真嗣的尖叫声已经停止，这让她更加恐惧。她预料到了最坏的情况。至少当他尖叫时，她还能证明他还活着。
+
+Maya had just said "eight" when the Lance left her hand and flew through the clouds, dissipating them at the same time, allowing the sun to shine unobstructed on Tokyo 3, then breaking through the Angel's AT-Field like it wasn't even there before piercing its core and destroying it.  
+玛雅刚数到“八”，长枪就脱手而出，穿云破雾，让阳光无阻地照耀在第三新东京市上，随后如同无物般突破使徒的 AT 力场，直刺其核心并将其摧毁。
+
+"Target has been destroyed." Rei heard Aoba confirm. She cut her communications again and rested her head on her chair's headrest and exhaled, closing her eyes, physically and mentally drained by the battle.  
+“目标已被摧毁。”青叶确认道。丽再次切断通讯，将头靠在椅子的头枕上，长舒一口气，闭上眼睛，身心俱疲地结束了这场战斗。
+
+.
+
+.
+
+Shinji was sitting on the floor, right next to the lift that was bringing his Evangelion back to its cage. He wasn't moving, seemingly oblivious to the behemoth's face in front of him, the slow beeping of the alarm or the cicadas' stridulations. He also seemed oblivious to the footsteps which were quickly approaching him.  
+真嗣坐在地板上，就在升降机旁边，升降机正将他的 EVA 送回笼中。他一动不动，似乎对面前巨兽的脸庞、缓慢的警报声或蝉的鸣叫声都毫无察觉。他似乎也没有注意到正迅速向他逼近的脚步声。
+
+"Shinji !" Asuka was furious at Misato, but now was not the time. Shinji had been hurt during this fight. She didn't want him to be hurt. So she wanted to be there for him, to help him go through this. She had heard him. Heard every single word he had said. Heard his silence. She couldn't begin to imagine what it must have felt like to have his mind violated by this monster. "Shinji ! Are you okay ?" He didn't move. He just sat there.  
+“真嗣！”明日香对美里感到愤怒，但此刻并非发泄之时。真嗣在这场战斗中受伤了。她不希望他受伤。所以她想陪在他身边，帮助他度过这一切。她听到了他。听到了他说的每一个字。听到了他的沉默。她无法想象他的心灵被这怪物侵犯时是何种感受。“真嗣！你还好吗？”他没有动。只是坐在那里。
+
+She didn't care that the Commander would see her. She didn't care about anything except him, she just wanted him to be safe. She swiftly ducked under the quarantine tape and got in front of him, putting her left hand on his shoulder and raising his head with her right. "Shin..."  
+她不在乎指挥官是否会看到她。除了他，她什么都不在乎，只希望他能平安无事。她迅速弯腰穿过隔离带，走到他面前，左手搭在他的肩膀上，右手抬起他的头。“真嗣……”
+
+She fell silent as she saw him. She understood when she looked directly into his blank, emotionless, cobalt stare... Into these empty eyes which usually expressed so much emotions, which always made her feel butterflies in her stomach. She understood in a heartbeat that something was wrong with him. She knew this expression. She had seen it before. At this moment, she felt very, very small. As if she were four again. "Shinji... Please... Don't... Don't stop being my Shinji."  
+"她看到他时沉默了。当她直视他那空洞、无情的钴蓝色目光时，她立刻明白了... 那双通常充满情感、总让她心动的空洞眼睛。她瞬间意识到他有些不对劲。她熟悉这种表情。她曾见过。此刻，她感到自己非常渺小，仿佛回到了四岁。“真嗣... 请... 不要... 不要不再是我的真嗣。”
 
 ---
 ### Chapter 15 : The one that got away
-Hey ! long time so nee ! Here's a new chapter ! And this one has been a pain in the ass to write !
+Hey ! long time so nee ! Here's a new chapter ! And this one has been a pain in the ass to write !  
+嘿！好久不见！新章节来啦！这一章写得可真是费劲！
 
-On a side note, I think that I'll stop posting here after this chapter. Every time I get the message that I'm spamming etc and I don't like it (maybe if I didn't take as much time between chapters this wouldn't be a problem !). Anyway, I'll still update the story on ff.net of course.
+On a side note, I think that I'll stop posting here after this chapter. Every time I get the message that I'm spamming etc and I don't like it (maybe if I didn't take as much time between chapters this wouldn't be a problem !). Anyway, I'll still update the story on ff.net of course.  
+顺便提一下，我想这章之后就不在这里更新了。每次收到说我刷屏之类的消息，我都不太喜欢（也许如果我不隔那么久更新章节，这问题就不会出现了！）。不过，我当然还会在 ff.net 上更新故事。
 
-I think I'll post everything once the story is over here, I don't know. And I still have some time to think about it !
+I think I'll post everything once the story is over here, I don't know. And I still have some time to think about it !  
+我想等这里的故事完结后，再一次性发布所有内容，我也不确定。而且我还有时间考虑这件事！
 
-Anyway ! here's chapter 15 :It had left her paralyzed. Numb. It wasn't true. It couldn't be. She didn't move when they took Shinji away on a stretcher. She just automatically followed when two Section 2 agents helped her up roughly and put her in a car.
-Her shock didn't dissipate. She wandered aimlessly from room to room in the apartment. Sometimes she sat somewhere, on a chair, on the couch, other times she just paced, still wearing her plugsuit. It had been a pragmatic decision at the time, she wanted to get to Shinji as soon as possible so she didn't shower nor change before she came to see him. And she couldn't think about anything else since she had seen him. Her hair was coated in dry LCL. She reeked of blood. She couldn't care less. Shinji was gone. Exactly like her mother before.
-When she finally came to her senses, she was standing between the doors of his former room and hers. Their room. Her Shinji had been ripped away from her. Of course, he was still there physically, however, the same couldn't be said for his mind. She didn't need to wait for a diagnosis to know. She had already seen it all before. She collapsed on her knees right there, in the corridor. For the first time in over a decade, Asuka Langley Soryu broke down. There was no pretending anymore at this moment. She didn't even care if Misato came back home right now. She couldn't take it anymore. Too much had happened in too little time. It had only been a week since she had been salvaged from her Eva. And during this week, she had lost the two most important persons in her life. And she had been betrayed by her guardian. The same woman who was supposed to be there for her. And there were still all the questions she had concerning her mother.
-So, at this moment, she laid down her walls and cried. She screamed and wailed unintelligibly, covering the ringing phone with her despair.
-Eventually, she calmed down. Almost automatically. It was over now, she had cried enough. She stood up and went to the living room. The sun was already low in the horizon. It was obvious now that neither Shinji nor Misato would come back home tonight. She had expected that much. Misato could say what she wanted, she had proved that she didn't care about her as much as she pretended to. She went to the bathroom and turned the bathtub tap before shedding her plugsuit. "She could have called, at least..." She whispered to herself.
-She wouldn't admit it, but crying her eyes out had soothed her. And soaking in hot water relaxed her even further. She was exhausted and unable to hang to a thought for more than a few seconds. In this blissful torpor, her bad memories didn't come to haunt her. The overwhelming ache in her heart was dulled. She dried herself quickly and left the bathroom with a towel loosely tied around her. She didn't care about such a mundane thing. Nobody was there to see her.
-She didn't want to be alone. She had never wanted to despite how she acted around others. She went to Shinji's old room without even realizing it. When she saw where she was, she began to turn around to leave when something caught her eye. There, in this dark room, she noticed something that wasn't in its place. The room was as clean and tidy as ever, the bed was neatly made, everything was in its place. 'He's always expecting me to kick him out.' She thought bitterly. 'It wouldn't be the first time...' She hated herself for that. She didn't want to push him away, sometimes she just couldn't help herself. And now it was too late to make things right.
-However, there was something on his bed that shouldn't have been there. The t-shirt he had been wearing the night before. The salmon shirt he also wore when they first kissed. She hated that shirt. It was the embodiment of the boy's lack of a fashion sense. It was far too big for his small frame, not to mention the color ! That being said, she also loved it because of what it reminded her. It was the shirt he had been wearing when he took his most important step towards her. When for the first time in a long time, she had felt safe with someone.
-Without even thinking about it, she dropped her towel on the floor and put his shirt on. She then went to his desk and grabbed his SDAT before leaving to her room to put on underwear and a pair of loose shorts. Finally, she got on her bed, put the headphones in her ears and lulled herself to sleep with his music and his fading scent.
+Anyway ! here's chapter 15 :  
+总之！这是第 15 章：
+
+It had left her paralyzed. Numb. It wasn't true. It couldn't be. She didn't move when they took Shinji away on a stretcher. She just automatically followed when two Section 2 agents helped her up roughly and put her in a car.  
+这让她陷入了瘫痪。麻木。这不可能是真的。她一动不动地看着他们用担架把真嗣抬走。当两名第二分部的特工粗鲁地扶她起来并把她塞进车里时，她只是机械地跟着。
+
+Her shock didn't dissipate. She wandered aimlessly from room to room in the apartment. Sometimes she sat somewhere, on a chair, on the couch, other times she just paced, still wearing her plugsuit. It had been a pragmatic decision at the time, she wanted to get to Shinji as soon as possible so she didn't shower nor change before she came to see him. And she couldn't think about anything else since she had seen him. Her hair was coated in dry LCL. She reeked of blood. She couldn't care less. Shinji was gone. Exactly like her mother before.  
+她的震惊没有消散。她在公寓里漫无目的地从一个房间游荡到另一个房间。有时她会坐下，椅子上，沙发上，其他时候她只是来回踱步，依旧穿着她的插入栓服。当时这是一个务实的决定，她想尽快见到真嗣，所以没有洗澡也没有换衣服就赶来了。自从见到他后，她无法思考其他任何事情。她的头发上沾满了干涸的 LCL。她浑身血腥味。她毫不在意。真嗣走了。就像她母亲之前一样。
+
+When she finally came to her senses, she was standing between the doors of his former room and hers. Their room. Her Shinji had been ripped away from her. Of course, he was still there physically, however, the same couldn't be said for his mind. She didn't need to wait for a diagnosis to know. She had already seen it all before. She collapsed on her knees right there, in the corridor. For the first time in over a decade, Asuka Langley Soryu broke down. There was no pretending anymore at this moment. She didn't even care if Misato came back home right now. She couldn't take it anymore. Too much had happened in too little time. It had only been a week since she had been salvaged from her Eva. And during this week, she had lost the two most important persons in her life. And she had been betrayed by her guardian. The same woman who was supposed to be there for her. And there were still all the questions she had concerning her mother.  
+当她终于回过神来，发现自己正站在他曾经的房间和她房间之间的门口。他们的房间。她的真嗣被夺走了。当然，他身体上还在这里，但他的心灵却已不复存在。她不需要等待诊断结果就能知道。她早已目睹过这一切。她就在走廊上跪倒在地。十多年来，惣流·明日香·兰格雷第一次崩溃了。此刻已无需再伪装。她甚至不在乎美里现在是否回家。她再也承受不住了。太多的事情在太短的时间内发生。仅仅一周前，她才从 EVA 中获救。而在这周里，她失去了生命中最重要的两个人。还被她的监护人背叛了。那个本应守护她的女人。还有关于她母亲的种种疑问，依然悬而未决。
+
+So, at this moment, she laid down her walls and cried. She screamed and wailed unintelligibly, covering the ringing phone with her despair.  
+所以，此刻，她放下了所有的防备，痛哭失声。她尖叫着，哭喊着，无法理解地用绝望掩盖了响起的电话。
+
+Eventually, she calmed down. Almost automatically. It was over now, she had cried enough. She stood up and went to the living room. The sun was already low in the horizon. It was obvious now that neither Shinji nor Misato would come back home tonight. She had expected that much. Misato could say what she wanted, she had proved that she didn't care about her as much as she pretended to. She went to the bathroom and turned the bathtub tap before shedding her plugsuit. "She could have called, at least..." She whispered to herself.  
+最终，她平静了下来。几乎是自然而然的。现在一切都结束了，她已经哭够了。她站起身，走向客厅。太阳已经低垂在地平线上。显然，无论是真嗣还是美里今晚都不会回家了。她早有预料。美里说什么都无所谓，她已经证明了自己并不像她假装的那样在乎她。她走进浴室，打开浴缸的水龙头，然后脱下插入栓服。“至少她可以打个电话的...”她自言自语道。
+
+She wouldn't admit it, but crying her eyes out had soothed her. And soaking in hot water relaxed her even further. She was exhausted and unable to hang to a thought for more than a few seconds. In this blissful torpor, her bad memories didn't come to haunt her. The overwhelming ache in her heart was dulled. She dried herself quickly and left the bathroom with a towel loosely tied around her. She didn't care about such a mundane thing. Nobody was there to see her.  
+她不会承认，但痛哭一场确实让她感到舒缓。而泡在热水里更是让她进一步放松。她筋疲力尽，无法长时间抓住任何一个念头。在这种愉悦的迟钝中，糟糕的记忆没有来困扰她。心中那股强烈的痛楚也变得迟钝了。她迅速擦干身体，用一条松松垮垮的毛巾裹住自己，离开了浴室。她不在乎这种琐事。没有人会在那里看到她。
+
+She didn't want to be alone. She had never wanted to despite how she acted around others. She went to Shinji's old room without even realizing it. When she saw where she was, she began to turn around to leave when something caught her eye. There, in this dark room, she noticed something that wasn't in its place. The room was as clean and tidy as ever, the bed was neatly made, everything was in its place. 'He's always expecting me to kick him out.' She thought bitterly. 'It wouldn't be the first time...' She hated herself for that. She didn't want to push him away, sometimes she just couldn't help herself. And now it was too late to make things right.  
+她不想独自一人。尽管她在别人面前的表现如此，但她从未有过这样的愿望。她不知不觉地走到了真嗣的旧房间。当她意识到自己在哪里时，正准备转身离开，却有什么东西吸引了她的目光。在这个昏暗的房间里，她注意到有些东西不在原位。房间一如既往地干净整洁，床铺整理得一丝不苟，一切都井然有序。“他总是以为我会把他赶出去。”她苦涩地想，“这已经不是第一次了……”她为此痛恨自己。她并不想推开他，只是有时候她控制不住自己。而现在，想要弥补已经太迟了。
+
+However, there was something on his bed that shouldn't have been there. The t-shirt he had been wearing the night before. The salmon shirt he also wore when they first kissed. She hated that shirt. It was the embodiment of the boy's lack of a fashion sense. It was far too big for his small frame, not to mention the color ! That being said, she also loved it because of what it reminded her. It was the shirt he had been wearing when he took his most important step towards her. When for the first time in a long time, she had felt safe with someone.  
+然而，他的床上有些不该出现的东西。那件他前一晚穿过的 T 恤，那件三文鱼色的衬衫，他们初次接吻时他也穿着它。她讨厌那件衬衫。它体现了这个男孩对时尚的无知。对于他瘦小的身躯来说，这件衬衫太大了，更别提颜色了！尽管如此，她也爱它，因为它让她想起了什么。那是他向她迈出最重要一步时穿的衬衫。那是久违以来，她第一次在别人身边感到安全。
+
+Without even thinking about it, she dropped her towel on the floor and put his shirt on. She then went to his desk and grabbed his SDAT before leaving to her room to put on underwear and a pair of loose shorts. Finally, she got on her bed, put the headphones in her ears and lulled herself to sleep with his music and his fading scent.  
+她毫不犹豫地扔掉毛巾，穿上他的衬衫。然后走到他的书桌前，抓起他的 SDAT，回到自己的房间穿上内衣和一条宽松的短裤。最后，她躺在床上，将耳机塞进耳朵，伴着他的音乐和他逐渐消散的气息，渐渐入睡。
+
 .
+
 .
-She woke up in a cold sweat. It was the middle of the night. She didn't remember falling asleep. The day's events had taken a toll on her. That didn't mean she was to get some rest. Her nightmares came back with a vengeance. Shinji wasn't there to shield her from them. Even worse, he had been the main tormentor of this new nightmare. It had started like an old one, she was looking in a hospital room through a glass panel. She expected to see her mother, as she was used to. The horror started when she saw Shinji. He was sitting on the hospital bed, his hair was longer and messier and he was wearing a hospital gown. He was holding something in his arms, almost cradling it, caressing its red hair.
-"I love you Asuka. I'll always be there for you." She wanted to move, to run away from this torture. Shinji was there, whispering sweet nothings to a doll instead of her. That same doll her Mother took care of before she took her own life. He told her things he had already told her, mixed with things she wished he would tell her, even if she hadn't realized it before.
-This sight alone was already unsettling. It was only the beginning, unfortunately for her. "Please Asuka... Why won't you talk to me ?" Each word was uttered with so much pain that it made her flinch.
-"Shinji !" She screamed through the glass. He didn't react, as if he couldn't hear her.
-"Answer me ! Talk to me !.. I'm begging you !" He cried, his tears falling on the doll's head. She was crying too, watching, powerless, the scene before her eyes. He was breathing heavily, tears occasionally falling from his eyes. She couldn't see his face anymore. Suddenly, he grabbed the doll by its neck and started squeezing. "If you won't talk to me, then you'll die with me !" He finally shouted as he ripped the doll's head. The expression on his face absolutely terrified her. She knew this part of him existed. It broke her heart to see him deliberately hurt her. And at this moment, just before she woke up, she realized how much she was scared of him.
-She couldn't help but sob quietly in her bed as her dream gave way to reality. She kept repeating herself that it was just a dream in her head. That he would never hurt her, he had told her so. His SDAT had stopped a few hours earlier when the tape ended. It was next to her head, the headphones entangled on the mattress. She hugged herself and breathed his scent on his shirt's sleeve. She didn't move, except for the occasional sob that she couldn't control, ignoring her rumbling stomach. She eventually calmed down and got out of bed as the sun rose, unable to ignore her hunger anymore.
-As she passed next to the phone, she saw the blinking light of the answering machine. She pushed the button and kept going to the refrigerator. "Asuka, it's me. Shinji has to stay in observation tonight. They want to keep him in the mental ward. I promise I'll bring him home as soon as possible. In the meantime, please take care of yourself. I'll come home tomorrow anyway. Bye !"
-"Like you give a damn !" She shouted at the answering machine. She had not forgotten what happened the day before. She hadn't forgotten that she hadn't been able to help Shinji because of her. Because she had betrayed her. Because she had betrayed them both. 'She's coming back today ? I'll give her one hell of a welcoming party.' She thought as she grabbed a club sandwich in the fridge and a small bag of chips in a cupboard. This was going to be a long day.
+
+She woke up in a cold sweat. It was the middle of the night. She didn't remember falling asleep. The day's events had taken a toll on her. That didn't mean she was to get some rest. Her nightmares came back with a vengeance. Shinji wasn't there to shield her from them. Even worse, he had been the main tormentor of this new nightmare. It had started like an old one, she was looking in a hospital room through a glass panel. She expected to see her mother, as she was used to. The horror started when she saw Shinji. He was sitting on the hospital bed, his hair was longer and messier and he was wearing a hospital gown. He was holding something in his arms, almost cradling it, caressing its red hair.  
+她惊醒过来，浑身冷汗。夜已深沉，她不记得自己何时入睡。白日的事件让她身心俱疲。但这并不意味着她能得到片刻安宁。她的噩梦卷土重来，变本加厉。真嗣不在身边保护她免受其扰。更糟糕的是，他竟成了这场新噩梦的主使。一切始于一个熟悉的场景，她透过玻璃窗望向病房。本以为会看到母亲，如同往常一样。但当她看到真嗣时，恐惧油然而生。他坐在病床上，头发更长更凌乱，穿着病号服。他怀中抱着什么，仿佛在呵护，轻抚着那红色的头发。
+
+"I love you Asuka. I'll always be there for you." She wanted to move, to run away from this torture. Shinji was there, whispering sweet nothings to a doll instead of her. That same doll her Mother took care of before she took her own life. He told her things he had already told her, mixed with things she wished he would tell her, even if she hadn't realized it before.  
+“我爱你，明日香。我会一直在你身边。”她想动身，逃离这折磨。真嗣就在那里，对着一个玩偶低语甜言蜜语，而非对她。那个玩偶，正是她母亲生前照顾过的，直至她选择结束自己的生命。他对她说着那些已经说过的话，混杂着她希望他说的，即便她之前未曾意识到。
+
+This sight alone was already unsettling. It was only the beginning, unfortunately for her. "Please Asuka... Why won't you talk to me ?" Each word was uttered with so much pain that it made her flinch.  
+这景象本身已足够令人不安。不幸的是，这只是开始。“求你了，明日香……你为什么不跟我说话？”每一个字都带着如此深的痛苦，让她不禁退缩。
+
+"Shinji !" She screamed through the glass. He didn't react, as if he couldn't hear her.  
+“真嗣！”她透过玻璃尖叫。他没有反应，仿佛听不见她。
+
+"Answer me ! Talk to me !.. I'm begging you !" He cried, his tears falling on the doll's head. She was crying too, watching, powerless, the scene before her eyes. He was breathing heavily, tears occasionally falling from his eyes. She couldn't see his face anymore. Suddenly, he grabbed the doll by its neck and started squeezing. "If you won't talk to me, then you'll die with me !" He finally shouted as he ripped the doll's head. The expression on his face absolutely terrified her. She knew this part of him existed. It broke her heart to see him deliberately hurt her. And at this moment, just before she woke up, she realized how much she was scared of him.  
+“回答我！跟我说话！……我在求你！”他哭喊着，泪水滴落在玩偶头上。她也在哭泣，无力地看着眼前的场景。他呼吸急促，泪水不时从眼中滑落。她再也看不见他的脸了。突然，他抓住玩偶的脖子开始用力挤压。“如果你不跟我说话，那我们就一起死！”他终于大喊着扯下了玩偶的头。他脸上的表情绝对吓到了她。她知道他这一面存在。看到他故意伤害她，她的心都碎了。而就在她醒来之前的那一刻，她意识到自己有多么害怕他。
+
+She couldn't help but sob quietly in her bed as her dream gave way to reality. She kept repeating herself that it was just a dream in her head. That he would never hurt her, he had told her so. His SDAT had stopped a few hours earlier when the tape ended. It was next to her head, the headphones entangled on the mattress. She hugged herself and breathed his scent on his shirt's sleeve. She didn't move, except for the occasional sob that she couldn't control, ignoring her rumbling stomach. She eventually calmed down and got out of bed as the sun rose, unable to ignore her hunger anymore.  
+她忍不住在床上低声啜泣，梦境逐渐让位于现实。她不断对自己重复，那只是一场梦，他永远不会伤害她，他曾这样告诉过她。他的 SDAT 在几个小时前磁带结束时就停止了。它就在她头旁边，耳机缠绕在床垫上。她抱着自己，呼吸着他衬衫袖子上的气息。她没有动，除了偶尔无法控制的啜泣，无视着咕咕叫的肚子。最终，她平静下来，随着太阳升起，无法再忽视饥饿，走下了床。
+
+As she passed next to the phone, she saw the blinking light of the answering machine. She pushed the button and kept going to the refrigerator. "Asuka, it's me. Shinji has to stay in observation tonight. They want to keep him in the mental ward. I promise I'll bring him home as soon as possible. In the meantime, please take care of yourself. I'll come home tomorrow anyway. Bye !"  
+当她经过电话旁时，看到了答录机闪烁的灯光。她按下按钮，继续走向冰箱。“明日香，是我。真嗣今晚得留在观察室。他们想让他待在精神科病房。我保证会尽快带他回家。这段时间请照顾好自己。我明天无论如何都会回家。再见！”
+
+"Like you give a damn !" She shouted at the answering machine. She had not forgotten what happened the day before. She hadn't forgotten that she hadn't been able to help Shinji because of her. Because she had betrayed her. Because she had betrayed them both. 'She's coming back today ? I'll give her one hell of a welcoming party.' She thought as she grabbed a club sandwich in the fridge and a small bag of chips in a cupboard. This was going to be a long day.  
+“你才不在乎呢！”她对着答录机吼道。她没有忘记昨天发生的事。她没有忘记自己没能帮助真嗣是因为她。因为她背叛了她。因为她背叛了他们俩。‘她今天回来？我要给她一个难忘的欢迎会。’她想着，从冰箱里抓起一个俱乐部三明治，又从橱柜里拿了一小袋薯片。这将是一个漫长的日子。
+
 .
+
 .
-She had been dozing on the couch when she heard the front door hissed open. It took her some time to register the sound before she sprang to her feet and dashed through the apartment. She had been torturing herself for most of the day until her body couldn't take it anymore.
-She stopped abruptly when she saw them. Seeing him instantly made her feel better. She didn't feel tired or desperate anymore. Even her anger towards Misato had vanished. Maybe he was okay. It was the only thing that mattered. She lunged at him and embraced him tightly. She didn't even spare a glance towards Misato. There would be time to deal with her. Right now, she just felt relieved to see him. She failed to realize that something wasn't quite right.
-"Asuka, we need to talk." Misato said as Asuka released Shinji, who had not embraced her back.
-"What ?" She snarled as she finally looked at her boyfriend's eyes. Her heart sank when she saw his blank expression. His still empty eyes. She wanted to lash out at her commanding officer, but she knew that she wouldn't be able to conceal her sorrow. She didn't want Misato to see.
-"I understand that you're angry." Misato continued. She knew that she deserved everything Asuka would throw her. She also knew that now was not the time. They had to take care of Shinji first. Then, she would accept the Second Child's ire. This was the best plan she could come up with. She was exhausted too. She had not slept since the attack. She had hoped it would bring her some sympathy.
-"Oh you understand !?" Asuka asked rhetorically. "Let me tell you one thing, Major, you have no idea how angry I am !" Misato's last sentence had been enough to rekindle the flames of her anger.
-"Asuka !" Misato shouted to silence her. "I really messed up this time. I know. Believe me. I couldn't think straight back then. I thought I was protecting you from the Commander but I only managed to screw everything up." She paused for a second as she felt a tear roll down her right cheek. "I'm sorry."
-"That doesn't change anything." Asuka's anger had receded a little. She could see how affected Misato was. "You know that I could have helped him." Her voice was low and filled with tension. "Because of you he was alone out there ! You let that thing rape his mind !" Her voice cracked, but she kept looking Misato in the eyes.
-She had to stay strong to convince Asuka, so she tried not to flinch at what she last said. "... You're right." She was. Even his Father had done something to shorten Shinji's ordeal, she thought for a second before shaking off this preposterous idea. Shinji had suffered through this because of the Commander. If she started taking all the blame for herself, she was going to go crazy and right now she couldn't afford to. Asuka had not been the only one to torture herself after the debacle that was the last Angel fight. "I'll understand if you never forgive me. I won't blame you if you hate me." She was openly crying now. Her voice didn't crack however. "But we have to be there for him. I need you to trust me on this." She wasn't sure how Asuka was going to take that last sentence. She had to take the chance.
-"Trust you ?" She didn't take it well. "How am I supposed to trust you ? How could we trust you after what you did ?" She decided to include Shinji, mainly to hurt Misato more. She knew that Shinji would have accepted had their roles been swapped.
-"You think this is easy for me ?" She exclaimed. "I care about you guys as if you were my own kids !"
-"Then you really have no excuse for what you did." Asuka lamented.
-"You would have been fired !" Misato shouted. "Again ! Do you think this would have helped ?"
-"I don't care !" This surprised her more than anyone else. A few months ago, being fired would have been the worst thing that could have happened to her. "At least he wouldn't have been like this." She added in a more subdued tone.
-Misato realized at this moment how affected her charge was. She decided to take a different approach to try and defuse the situation. She had made a colossal mistake, now it was her duty to fix it. "You remember my scar ?" Asuka didn't react. She continued nonetheless. "I am the only survivor of the Katsuragi expedition. I was in Antarctica when it happened. I saw the Second Impact first hand." She lowered her gaze because of the painful memories. Despite her anger, Asuka stayed silent, her eyes still locked on her Guardian. "After that, I spent years like him." She looked back at Asuka and spoke with more emotions. "Years ! Because they put me in a hospital room ! Alone ! Please Asuka. I know what I did was inexcusable, and I know I don't deserve your forgiveness. I just need your help !"
-It felt strange to Asuka to see Misato begging her like this. It didn't sound like her. She looked at Shinji, who still hadn't moved from his spot in the corridor. "... I can't." She said as she headed for the front door.
-"What you can't do is leave !" Misato was screaming at her now. Not only with anger, but also with desperation. "He needs us !" She realized that it wasn't a good idea to put herself at the same level as Asuka after what she had done. Asuka had just finished putting her shoes on. "He needs you." She said more calmly. Asuka stopped in her tracks. "More than anyone else."
-Asuka was standing in front of the door, her back turned to Misato. Nobody could see the tears on her face. "I know how this ends Misato." She said, her voice cracking a little. "I've already witnessed it." She opened the front door. "I can't see it happen again.". She didn't tell her about the nightmare she had and that she was scared to stay in case it would really happen. She left without waiting for an answer. Misato didn't try to catch her.
-She stayed in the corridor, looking at the front door. Her tears had dried when she went to the living room. She had failed. On her way, she sat Shinji on one of the kitchen's chair.
-Her eyes caught the picture on the wall as she was about to get to her room. She looked at it with more attention. She fell to her knees, still looking at it. It reminded her that she was alone now. "Goddammit." She whispered into the empty room.
-Shinji still hadn't moved.
+
+She had been dozing on the couch when she heard the front door hissed open. It took her some time to register the sound before she sprang to her feet and dashed through the apartment. She had been torturing herself for most of the day until her body couldn't take it anymore.  
+她原本在沙发上打盹，突然听到前门嘶嘶地打开。她花了些时间才反应过来，然后一跃而起，冲过公寓。她一整天都在折磨自己，直到身体再也承受不住。
+
+She stopped abruptly when she saw them. Seeing him instantly made her feel better. She didn't feel tired or desperate anymore. Even her anger towards Misato had vanished. Maybe he was okay. It was the only thing that mattered. She lunged at him and embraced him tightly. She didn't even spare a glance towards Misato. There would be time to deal with her. Right now, she just felt relieved to see him. She failed to realize that something wasn't quite right.  
+她突然停了下来，看到他们时。看到他立刻让她感觉好多了。她不再感到疲惫或绝望。甚至连对美里子的愤怒也消失了。也许他没事。这是唯一重要的事情。她向他扑去，紧紧拥抱他。她甚至没有看美里子一眼。会有时间处理她的。现在，她只是感到见到他很欣慰。她没有意识到有些事情不太对劲。
+
+"Asuka, we need to talk." Misato said as Asuka released Shinji, who had not embraced her back.  
+"明日香，我们需要谈谈。" 美里说道，此时明日香放开了真嗣，他没有回抱她。
+
+"What ?" She snarled as she finally looked at her boyfriend's eyes. Her heart sank when she saw his blank expression. His still empty eyes. She wanted to lash out at her commanding officer, but she knew that she wouldn't be able to conceal her sorrow. She didn't want Misato to see.  
+"什么？" 她咆哮着，终于看向男友的眼睛。看到他空洞的表情，她的心沉了下去。他依旧空洞的眼神。她想对指挥官发火，但她知道无法掩饰自己的悲伤。她不想让美里看到。
+
+"I understand that you're angry." Misato continued. She knew that she deserved everything Asuka would throw her. She also knew that now was not the time. They had to take care of Shinji first. Then, she would accept the Second Child's ire. This was the best plan she could come up with. She was exhausted too. She had not slept since the attack. She had hoped it would bring her some sympathy.  
+"我明白你在生气。" 美里继续说。她知道自己理应承受明日香的一切责难。她也知道现在不是时候。他们得先照顾好真嗣。然后，她会接受二号机的怒火。这是她能想到的最佳计划。她也很疲惫。自袭击以来她就没睡过觉。她曾希望这能换来一些同情。
+
+"Oh you understand !?" Asuka asked rhetorically. "Let me tell you one thing, Major, you have no idea how angry I am !" Misato's last sentence had been enough to rekindle the flames of her anger.  
+"哦，你明白了吗？！" 明日香反问着。"让我告诉你一件事，少校，你根本不知道我有多生气！" 美里最后那句话足以重新点燃她心中的怒火。
+
+"Asuka !" Misato shouted to silence her. "I really messed up this time. I know. Believe me. I couldn't think straight back then. I thought I was protecting you from the Commander but I only managed to screw everything up." She paused for a second as she felt a tear roll down her right cheek. "I'm sorry."  
+"明日香！" 美里大声喝止她。"这次我真的搞砸了。我知道。相信我。那时候我无法冷静思考。我以为我在保护你免受司令的侵害，结果却把一切都搞砸了。" 她停顿了一下，感觉到一滴泪珠从右脸颊滑落。"对不起。"
+
+"That doesn't change anything." Asuka's anger had receded a little. She could see how affected Misato was. "You know that I could have helped him." Her voice was low and filled with tension. "Because of you he was alone out there ! You let that thing rape his mind !" Her voice cracked, but she kept looking Misato in the eyes.  
+"这改变不了什么。" 明日香的怒气稍稍减退了些。她能看出美里的情绪波动。"你知道我本可以帮他的。" 她的声音低沉而充满紧张。"因为你，他孤身一人在外！你让那东西侵犯了他的心灵！" 她的声音哽咽，但她依然直视着美里的眼睛。
+
+She had to stay strong to convince Asuka, so she tried not to flinch at what she last said. "... You're right." She was. Even his Father had done something to shorten Shinji's ordeal, she thought for a second before shaking off this preposterous idea. Shinji had suffered through this because of the Commander. If she started taking all the blame for herself, she was going to go crazy and right now she couldn't afford to. Asuka had not been the only one to torture herself after the debacle that was the last Angel fight. "I'll understand if you never forgive me. I won't blame you if you hate me." She was openly crying now. Her voice didn't crack however. "But we have to be there for him. I need you to trust me on this." She wasn't sure how Asuka was going to take that last sentence. She had to take the chance.  
+她必须保持坚强以说服明日香，因此她尽量不因最后那句话而退缩。“……你说得对。”确实如此。即便是他的父亲也曾做过什么来缩短真嗣的苦难，她这样想了一秒钟，随即甩开了这个荒谬的想法。真嗣遭受这一切都是因为司令。如果她开始把所有责任揽在自己身上，她会疯掉的，而此刻她承受不起。在最后一次使徒战斗的灾难之后，不仅仅是明日香在折磨自己。“如果你永远不原谅我，我也不会怪你。如果你恨我，我不会责怪你。”她现在公开地哭泣着。然而，她的声音并没有破裂。“但我们需要在他身边。我需要你在这件事上信任我。”她不确定明日香会如何接受最后一句话。她必须抓住这个机会。
+
+"Trust you ?" She didn't take it well. "How am I supposed to trust you ? How could we trust you after what you did ?" She decided to include Shinji, mainly to hurt Misato more. She knew that Shinji would have accepted had their roles been swapped.  
+“信任你？”她接受得并不好。“我怎么可能信任你？在你做了那些事之后，我们怎么可能信任你？”她决定把真嗣也包括进来，主要是为了更深地伤害美里。她知道如果角色互换，真嗣会接受的。
+
+"You think this is easy for me ?" She exclaimed. "I care about you guys as if you were my own kids !"  
+“你以为这对我来说容易吗？”她喊道。“我把你们当作自己的孩子一样关心！”
+
+"Then you really have no excuse for what you did." Asuka lamented.  
+"那么你真的没有借口为你的所作所为了。" 明日香哀叹道。
+
+"You would have been fired !" Misato shouted. "Again ! Do you think this would have helped ?"  
+"你早就被炒鱿鱼了！" 美里大喊。"又一次！你以为这会有帮助吗？"
+
+"I don't care !" This surprised her more than anyone else. A few months ago, being fired would have been the worst thing that could have happened to her. "At least he wouldn't have been like this." She added in a more subdued tone.  
+"我不在乎！" 这让她自己都感到惊讶。几个月前，被解雇本是她能想象到的最糟糕的事情。"至少他不会变成这样。" 她用更柔和的语气补充道。
+
+Misato realized at this moment how affected her charge was. She decided to take a different approach to try and defuse the situation. She had made a colossal mistake, now it was her duty to fix it. "You remember my scar ?" Asuka didn't react. She continued nonetheless. "I am the only survivor of the Katsuragi expedition. I was in Antarctica when it happened. I saw the Second Impact first hand." She lowered her gaze because of the painful memories. Despite her anger, Asuka stayed silent, her eyes still locked on her Guardian. "After that, I spent years like him." She looked back at Asuka and spoke with more emotions. "Years ! Because they put me in a hospital room ! Alone ! Please Asuka. I know what I did was inexcusable, and I know I don't deserve your forgiveness. I just need your help !"  
+"在这一刻，美里意识到她的监护人受到了多么大的影响。她决定采取不同的方法来试图化解这一局面。她犯了一个巨大的错误，现在她的责任是纠正它。“你记得我的伤疤吗？”明日香没有反应。她继续说道：“我是葛城探险队唯一的幸存者。当时我在南极，亲眼目睹了第二次冲击。”她因为痛苦的记忆而垂下了目光。尽管愤怒，明日香依然保持沉默，她的眼睛仍然锁定在她的监护人身上。“在那之后，我和他一样度过了多年。”她再次看向明日香，带着更多的情感说道，“多年！因为他们把我关在医院病房里！独自一人！请明日香。我知道我所做的不可原谅，我也知道我不配得到你的宽恕。我只是需要你的帮助！””
+
+It felt strange to Asuka to see Misato begging her like this. It didn't sound like her. She looked at Shinji, who still hadn't moved from his spot in the corridor. "... I can't." She said as she headed for the front door.  
+对明日香来说，看到美里这样恳求她感到很奇怪。这听起来不像她。她看着真嗣，他仍然没有从走廊的位置移动。“……我做不到。”她说着朝前门走去。
+
+"What you can't do is leave !" Misato was screaming at her now. Not only with anger, but also with desperation. "He needs us !" She realized that it wasn't a good idea to put herself at the same level as Asuka after what she had done. Asuka had just finished putting her shoes on. "He needs you." She said more calmly. Asuka stopped in her tracks. "More than anyone else."  
+“你不能做的就是离开！”美里现在对她大喊大叫。不仅是愤怒，还有绝望。“他需要我们！”她意识到，在做了那些事后，把自己放在与明日香同等的位置上并不是个好主意。明日香刚刚穿好鞋子。“他需要你。”她更平静地说。明日香停下了脚步。“比任何人都需要。”
+
+Asuka was standing in front of the door, her back turned to Misato. Nobody could see the tears on her face. "I know how this ends Misato." She said, her voice cracking a little. "I've already witnessed it." She opened the front door. "I can't see it happen again.". She didn't tell her about the nightmare she had and that she was scared to stay in case it would really happen. She left without waiting for an answer. Misato didn't try to catch her.  
+明日香站在门前，背对着美里。没人能看到她脸上的泪水。“我知道这结局，美里。”她说，声音有些哽咽。“我已经见证过了。”她打开了前门。“我不能再看到它发生。”她没有告诉美里她做的噩梦，以及她害怕留下来以防噩梦成真。她没有等待回答就离开了。美里没有试图追她。
+
+She stayed in the corridor, looking at the front door. Her tears had dried when she went to the living room. She had failed. On her way, she sat Shinji on one of the kitchen's chair.  
+她站在走廊里，望着前门。当她走进客厅时，泪水已经干了。她失败了。在路上，她让真嗣坐在厨房的一把椅子上。
+
+Her eyes caught the picture on the wall as she was about to get to her room. She looked at it with more attention. She fell to her knees, still looking at it. It reminded her that she was alone now. "Goddammit." She whispered into the empty room.  
+她正要走进房间时，目光被墙上的照片吸引。她更加专注地凝视着它，跪倒在地，依旧盯着那张照片。这让她意识到自己现在是孤独一人。“该死。”她对着空荡荡的房间低声说道。
+
+Shinji still hadn't moved.  
+真嗣仍然一动不动。
+
 .
+
 .
-She walked for a long time, not paying attention to the people around her. There were not a lot anyway. They were scared after that last battle. If she had been in the mood to make jokes, she would have said something about thanking Toji for destroying half the city.
-She arrived at her destination rather late. She had to squint to shield her eyes from the rays of the setting sun in front of her. She stood there, a few meters from where she had seen the Third Child after his battle against the fifteenth Angel. She wiped a bit of sweat from her forehead as she took in her surroundings. It had only been a day so nothing had changed. The security tape was still there, the only reminder of the Third Child's makeshift quarantine.
-She looked to the spot where Shinji had been sitting the day before. The spot where all her hopes came crashing down. When she saw that the only person helping her was no longer there. She didn't want to run away. She wanted to be there for him. As he was... Used to be there for her. She just couldn't. She still, after all these years, had nightmares about her mother, she wouldn't be able to bear seeing it happen to Shinji. So she left. She couldn't stay there. It was too painful.
-She stared ahead until a sound brought her out of her trance. A melody. One that was so close to her heart that it would have brought a tear to her eye if she had not controlled herself. Someone close was humming the Ode to Joy. A single tear managed to escape her eye as she closed her eyelids, images of the concert appearing in her mind.
-"Singing is great. Singing enriches the soul. It's the crowning achievement of the civilization that the Lilim created." Said the person who had been singing. This cryptic sentence brought her back from her wistful reminiscence. Even there she couldn't even get a break !
-"I'm not in the mood to talk to strangers. Get lost !" She tried to sound aggressive, she only managed to sound crestfallen.
-"I understand. In that case, I am Kaworu, Kaworu Nagisa. It's a pleasure to finally meet you, Asuka Langley Soryu." He replied with a smile.
-"Oh. So you're the impostor ! And I thought this day couldn't get any better." She answered sardonically.
-"I am part of the design. Just like you." Kaworu answered, unfazed by his interlocutor's tone.
-"Yeah well, don't get too comfortable ! Unit 02 is mine. And I won't let you replace me. Or anyone else for that matter." Asuka said, annoyed by Kaworu's lack of reactions to her sarcasms. He reminded her of Rei in that moment
-"I never intended to replace you. Not that I would have had anything to say in the matter." His tone was kind, almost friendly. Despite herself, Asuka felt her resentment towards the Fifth Child ebb away little by little.
-"Maybe. That being said, I know that some people want me out, and let me tell you, I will not give up my Eva without a fight." After all, she felt like Unit 02 was all she had left. The last thing she could hold on to.
-"Why ?" He asked, still smiling softly.
-"What do you mean why ?" She retorted harshly.
-"Why do you want to keep on piloting if it brings you this much pain ?" He wasn't smiling anymore. He could see how despondent she was, so the answer genuinely interested him. He waited for several seconds, studying the Second Child's face. She was struggling to try and hide her pain. She knew that this question was pertinent. She had asked it herself a lot lately. She was starting to feel that giving up was not such a bad option anymore. When she failed to answer, he pressed on. "Moreover, why do you want to keep on piloting now that Shinji Ikari cannot pilot anymore ?"
-He shouldn't have asked this question. "Don't you dare talk about Shinji !" Reacting like this was stupid and she realized it as soon as she said it. She just couldn't control herself.
-"You chose to open your heart to him despite knowing what could happen." He smiled again. She could have sworn he looked proud of her, which didn't make any sense in her mind.
-Having this stranger read her so well was particularly unsettling to her. This boy seemed to know everything about her and Shinji. "Incredible." She exclaimed, amazed. "Even the New Fish knows about us ! Is it too much to ask for some privacy ?"
-Again, Kaworu ignored Asuka's caustic remark and continued. "It is very courageous of you. If you don't get close to others, you'll never be betrayed and you'll never hurt each other. But you'll also never be able to forget your loneliness. Humans can never banish their loneliness for good, because being human means being alone. However, you chose to take the risk of getting hurt in order not to feel lonely anymore. This is admirable of you." He paused, looking in the Second Child's eyes. "You may act aggressive towards me, but it is obvious that you are upset."
-"Of course I am upset !" Asuka shouted, her eyes brimming with tears. She had just about enough of Kaworu's shrewdness.
-"Then maybe I was born so that I would meet you..." He was still smiling. Which was starting to get on Asuka's nerves. She was about to berate him because of his cheap flirting attempt when he continued. "So I could tell you not to lose hope. Things will get better... And more importantly, that you deserve to be loved."
-Asuka stared at him in astonishment. She was trying to parse what he had just said, and moreover how she was supposed to react. Her instinct was telling her to punch him in the throat so he wouldn't be able to say stupid things like this anymore. She then realized she had been staring at him for far too long so she decided to just answer him. " Sure. Whatever." This conversation had been long enough already, and she wasn't in control. He had manipulated her into saying things she didn't want to say so easily that she was scared it would continue if she were to keep talking with him. "You're finished ?" She tried to sound jaded.
-"I'd like to talk more with you."
-"No thanks." She cut him sternly before turning on her heels. Maybe a bit too quickly. She didn't care. This discussion had been far too upsetting. "Bye." She mumbled before walking away. He kept looking at her with a smile on his face until she disappeared from his sight.
+
+She walked for a long time, not paying attention to the people around her. There were not a lot anyway. They were scared after that last battle. If she had been in the mood to make jokes, she would have said something about thanking Toji for destroying half the city.  
+她走了很久，对周围的人视而不见。反正也没多少人。经历了上一场战斗后，大家都害怕了。如果她有心情开玩笑的话，她可能会说些感谢真治毁掉半个城市的话。
+
+She arrived at her destination rather late. She had to squint to shield her eyes from the rays of the setting sun in front of her. She stood there, a few meters from where she had seen the Third Child after his battle against the fifteenth Angel. She wiped a bit of sweat from her forehead as she took in her surroundings. It had only been a day so nothing had changed. The security tape was still there, the only reminder of the Third Child's makeshift quarantine.  
+她到达目的地时已相当晚。她不得不眯起眼睛，遮挡眼前落日的余晖。她站在那里，距离上次看到第三适格者在对抗第十五使徒后的地方仅几米之遥。她擦去额头上的汗珠，环顾四周。仅仅过了一天，一切都没有改变。安全胶带依旧在那里，是第三适格者临时隔离的唯一痕迹。
+
+She looked to the spot where Shinji had been sitting the day before. The spot where all her hopes came crashing down. When she saw that the only person helping her was no longer there. She didn't want to run away. She wanted to be there for him. As he was... Used to be there for her. She just couldn't. She still, after all these years, had nightmares about her mother, she wouldn't be able to bear seeing it happen to Shinji. So she left. She couldn't stay there. It was too painful.  
+她望向昨天真嗣坐过的地方。那个让她的所有希望破灭的地方。当她发现唯一帮助她的人已不在那里时。她不想逃跑。她想在那里陪着他。就像他曾经...习惯于陪伴她那样。但她做不到。尽管这么多年过去了，她仍会梦见母亲，她无法承受看到真嗣也经历同样的事情。所以她离开了。她无法留在那里。那太痛苦了。
+
+She stared ahead until a sound brought her out of her trance. A melody. One that was so close to her heart that it would have brought a tear to her eye if she had not controlled herself. Someone close was humming the Ode to Joy. A single tear managed to escape her eye as she closed her eyelids, images of the concert appearing in her mind.  
+她凝视前方，直到一声响动将她从恍惚中唤醒。一段旋律。那旋律如此贴近她的心，若非她极力克制，早已泪流满面。有人在附近哼唱着《欢乐颂》。她闭上眼睑，一滴泪珠悄然滑落，脑海中浮现出音乐会的画面。
+
+"Singing is great. Singing enriches the soul. It's the crowning achievement of the civilization that the Lilim created." Said the person who had been singing. This cryptic sentence brought her back from her wistful reminiscence. Even there she couldn't even get a break !  
+“唱歌真好。唱歌能丰富灵魂。这是莉莉姆所创造的文明的最高成就。”唱歌的人说道。这句神秘的话将她从怀旧的回忆中拉回。即便在那里，她也无法得到片刻安宁！
+
+"I'm not in the mood to talk to strangers. Get lost !" She tried to sound aggressive, she only managed to sound crestfallen.  
+“我没心情和陌生人说话。走开！”她试图显得咄咄逼人，却只流露出沮丧之情。
+
+"I understand. In that case, I am Kaworu, Kaworu Nagisa. It's a pleasure to finally meet you, Asuka Langley Soryu." He replied with a smile.  
+"我明白了。那么，我是渚薰，渚薰。很高兴终于见到你，惣流·明日香·兰格雷。" 他微笑着回答。
+
+"Oh. So you're the impostor ! And I thought this day couldn't get any better." She answered sardonically.  
+"哦。原来你是冒牌货！我还以为今天不会更精彩了呢。" 她讽刺地回答。
+
+"I am part of the design. Just like you." Kaworu answered, unfazed by his interlocutor's tone.  
+"我是设计的一部分，就像你一样。" 渚薰回答，对他的对话者的语气毫不在意。
+
+"Yeah well, don't get too comfortable ! Unit 02 is mine. And I won't let you replace me. Or anyone else for that matter." Asuka said, annoyed by Kaworu's lack of reactions to her sarcasms. He reminded her of Rei in that moment  
+“哼，别太得意了！二号机是我的。我不会让你取代我，或者任何人。”明日香对渚薰对她讽刺的无动于衷感到恼火。那一刻，他让她想起了绫波。
+
+"I never intended to replace you. Not that I would have had anything to say in the matter." His tone was kind, almost friendly. Despite herself, Asuka felt her resentment towards the Fifth Child ebb away little by little.  
+“我从没想过要取代你。即便我有发言权，也不会那样做。”他的语气温和，近乎友好。尽管如此，明日香对第五适格者的怨恨还是一点点消退了。
+
+"Maybe. That being said, I know that some people want me out, and let me tell you, I will not give up my Eva without a fight." After all, she felt like Unit 02 was all she had left. The last thing she could hold on to.  
+“也许吧。不过，我知道有些人想让我离开，我告诉你，我不会不战而退地放弃我的 Eva。”毕竟，她觉得二号机是她仅剩的一切，是她唯一能抓住的东西。
+
+"Why ?" He asked, still smiling softly.  
+"为什么？" 他问道，依旧温柔地微笑着。
+
+"What do you mean why ?" She retorted harshly.  
+"你什么意思，为什么？" 她尖锐地反驳道。
+
+"Why do you want to keep on piloting if it brings you this much pain ?" He wasn't smiling anymore. He could see how despondent she was, so the answer genuinely interested him. He waited for several seconds, studying the Second Child's face. She was struggling to try and hide her pain. She knew that this question was pertinent. She had asked it herself a lot lately. She was starting to feel that giving up was not such a bad option anymore. When she failed to answer, he pressed on. "Moreover, why do you want to keep on piloting now that Shinji Ikari cannot pilot anymore ?"  
+"既然驾驶给你带来这么多痛苦，为什么你还想继续驾驶？" 他不再微笑，能看出她有多么沮丧，所以这个答案真正引起了他的兴趣。他等待了几秒钟，仔细观察着这位第二适格者的脸。她在努力掩饰自己的痛苦。她知道这个问题很关键。最近她自己也常常问这个问题。她开始觉得放弃并不是那么糟糕的选择。当她未能回答时，他继续追问："而且，既然碇真嗣不能再驾驶了，为什么你还想继续驾驶？"
+
+He shouldn't have asked this question. "Don't you dare talk about Shinji !" Reacting like this was stupid and she realized it as soon as she said it. She just couldn't control herself.  
+他不该问这个问题的。“你敢提真嗣试试！”她这样反应既愚蠢，又在她话一出口就意识到了。她就是控制不住自己。
+
+"You chose to open your heart to him despite knowing what could happen." He smiled again. She could have sworn he looked proud of her, which didn't make any sense in her mind.  
+“尽管知道可能发生什么，你还是选择向他敞开心扉。”他又笑了。她几乎可以发誓，他看起来为她感到骄傲，这在她的脑海中毫无道理。
+
+Having this stranger read her so well was particularly unsettling to her. This boy seemed to know everything about her and Shinji. "Incredible." She exclaimed, amazed. "Even the New Fish knows about us ! Is it too much to ask for some privacy ?"  
+被这个陌生人如此透彻地看穿，让她感到特别不安。这个男孩似乎对她和真嗣的一切了如指掌。“难以置信。”她惊叹道，“连新来的都知道我们的事！就不能给我们留点隐私吗？”
+
+Again, Kaworu ignored Asuka's caustic remark and continued. "It is very courageous of you. If you don't get close to others, you'll never be betrayed and you'll never hurt each other. But you'll also never be able to forget your loneliness. Humans can never banish their loneliness for good, because being human means being alone. However, you chose to take the risk of getting hurt in order not to feel lonely anymore. This is admirable of you." He paused, looking in the Second Child's eyes. "You may act aggressive towards me, but it is obvious that you are upset."  
+又一次，渚薰无视了明日香尖刻的评论，继续说道：“你非常勇敢。如果你不接近他人，你就永远不会被背叛，也不会彼此伤害。但你也将永远无法忘记你的孤独。人类永远无法彻底驱散孤独，因为成为人类就意味着孤独。然而，你选择冒着受伤的风险，不再感到孤独。这令人钦佩。”他停顿了一下，凝视着第二适格者的眼睛。“你可能对我表现出攻击性，但显然你很难过。”
+
+"Of course I am upset !" Asuka shouted, her eyes brimming with tears. She had just about enough of Kaworu's shrewdness.  
+“我当然难过！”明日香喊道，眼中噙满泪水。她已经受够了渚薰的敏锐洞察。
+
+"Then maybe I was born so that I would meet you..." He was still smiling. Which was starting to get on Asuka's nerves. She was about to berate him because of his cheap flirting attempt when he continued. "So I could tell you not to lose hope. Things will get better... And more importantly, that you deserve to be loved."  
+“那么也许我出生就是为了遇见你……”他依然微笑着。这让明日香开始感到烦躁。她正要因为他轻浮的调情而斥责他，他却继续说道：“所以我可以告诉你不要失去希望。事情会变得更好……更重要的是，你值得被爱。”
+
+Asuka stared at him in astonishment. She was trying to parse what he had just said, and moreover how she was supposed to react. Her instinct was telling her to punch him in the throat so he wouldn't be able to say stupid things like this anymore. She then realized she had been staring at him for far too long so she decided to just answer him. " Sure. Whatever." This conversation had been long enough already, and she wasn't in control. He had manipulated her into saying things she didn't want to say so easily that she was scared it would continue if she were to keep talking with him. "You're finished ?" She tried to sound jaded.  
+明日香惊讶地盯着他。她试图理解他刚刚说的话，以及她应该如何反应。她的本能告诉她应该一拳打在他的喉咙上，这样他就不能再说出这种愚蠢的话了。随后她意识到自己盯着他看的时间太长了，于是决定简单回应他。"当然，随便。"这场对话已经够长了，而且她不在掌控之中。他轻易地操纵她说了一些她不想说的话，这让她害怕如果继续和他交谈，这种情况会持续下去。"你完了吗？"她试图显得冷漠。
+
+"I'd like to talk more with you."  
+"我想和你多聊聊。"
+
+"No thanks." She cut him sternly before turning on her heels. Maybe a bit too quickly. She didn't care. This discussion had been far too upsetting. "Bye." She mumbled before walking away. He kept looking at her with a smile on his face until she disappeared from his sight.  
+"不了，谢谢。"她严厉地打断他，然后转身就走。也许有点太快了。她不在乎。这次讨论太让人心烦了。"再见。"她咕哝着走开。他一直微笑着看着她，直到她从他的视线中消失。
+
 .
+
 .
-"What a load of crap !" She said a little too loud right next to a middle aged man and her young son. She stared the father down until he looked away. If he had a problem with her, she was listening ! 'I deserve to be loved. Yeah. Right.' She had been wandering the streets of Tokyo 3 for hours. 'If that were the case, maybe the ones supposed to love me wouldn't abandon me one after the other !'. She didn't know where to go. She didn't want to see anyone.
-In truth, all she wanted at the moment was to lay down on the asphalt and let herself die. This day had been far too harrowing for the young girl. She took a deep breath for the umpteenth time since her meeting with Kaworu to keep the tears at bay. She went to the first clothing shop she found. Section 2 was probably following her right now, so she had to shake them off. She thus bought a big black hooded sweatshirt that she used to cover her hair. She left the store at the same time as a group of people and disappeared into the crowd. The last thing she wanted was to be brought back to the apartment. Even if a part of her wanted to go back to her Shinji. The thing was that wasn't a Shinji to go back to anymore in her mind.
-She felt like a fugitive, despite having no intention of leaving Tokyo 3. She decided to go to one of the ruined parts of the city, where she was sure no one would be. She eventually stumbled across a house which was less ruined than the others. That meant that its roof was still sufficiently intact. This would have to do for the time being.
+
+"What a load of crap !" She said a little too loud right next to a middle aged man and her young son. She stared the father down until he looked away. If he had a problem with her, she was listening ! 'I deserve to be loved. Yeah. Right.' She had been wandering the streets of Tokyo 3 for hours. 'If that were the case, maybe the ones supposed to love me wouldn't abandon me one after the other !'. She didn't know where to go. She didn't want to see anyone.  
+“真是胡说八道！”她对着一位中年男子和她的小儿子大声说道，声音略显刺耳。她盯着那位父亲，直到他移开目光。如果他对她有意见，她倒是愿意倾听！“我值得被爱。是啊，没错。”她在第三东京市的街道上徘徊了数小时。“如果真是那样，也许那些本该爱我的人就不会一个接一个地抛弃我了！”她不知道该去哪里。她不想见任何人。
+
+In truth, all she wanted at the moment was to lay down on the asphalt and let herself die. This day had been far too harrowing for the young girl. She took a deep breath for the umpteenth time since her meeting with Kaworu to keep the tears at bay. She went to the first clothing shop she found. Section 2 was probably following her right now, so she had to shake them off. She thus bought a big black hooded sweatshirt that she used to cover her hair. She left the store at the same time as a group of people and disappeared into the crowd. The last thing she wanted was to be brought back to the apartment. Even if a part of her wanted to go back to her Shinji. The thing was that wasn't a Shinji to go back to anymore in her mind.  
+实际上，此刻她唯一想做的就是躺在柏油路上，任由自己死去。这一天对这位年轻女孩来说太过煎熬。自从与薰见面后，她不知第几次深呼吸，试图抑制泪水。她走进了第一家服装店。第二支部很可能正在跟踪她，所以她必须甩掉他们。于是她买了一件黑色的大号连帽运动衫，用来遮住头发。她与一群人同时离开商店，消失在人群中。她最不想的就是被带回公寓。尽管她内心的一部分想要回到真嗣身边。但问题是，在她心中，那个真嗣已经不复存在了。
+
+She felt like a fugitive, despite having no intention of leaving Tokyo 3. She decided to go to one of the ruined parts of the city, where she was sure no one would be. She eventually stumbled across a house which was less ruined than the others. That meant that its roof was still sufficiently intact. This would have to do for the time being.  
+她感觉自己像个逃犯，尽管并无离开第三新东京市的打算。她决定前往城市中损毁严重的区域之一，那里她确信无人会去。最终，她偶然发现了一栋比其他房屋破坏程度较轻的房子。这意味着它的屋顶还算完好。暂时只能将就了。
+
 .
+
 .
-Ritsuko was sitting in her office. The ashtray on her desk was full of smoked cigarettes. It was late in the evening. She didn't bother going home anymore. There was no point."I see, so she passed away." She did her best to hide her annoyance. She still had a lot of work to do. "Yes, probably, even cats eventually reach the end of their lives." 'That's what happens.' She thought cynically. She crossed her legs. She just wanted this phone call to end. "Don't cry anymore, Grandma." She couldn't just hang up. She was a poor, lonely old woman. Much like herself. "I will. When I get some time, I'll come home for a bit. I haven't visited Mother's grave in three years either." She wouldn't miss her granddaughter for long. The end was approaching quickly now. There was no point in getting sentimental now. She did her best to convince herself. "I'll call you next time. Okay, I'm hanging up now."
-"So, she died." She looked to the little cat figurines on her desk. The only personal effects in the room. 'Soon, nothing will matter.' Or so she tried to convince herself. She kept looking wistfully at the two porcelain cats. She loved her cats. Losing one, even due to old age, was a little tragedy in the grand scheme of things, but a tragedy nonetheless.
-Her musings were interrupted by her office door opening suddenly, almost violently. There was only one person who usually opened it like this. "Misato. Can I help you with something ?" Since the 12th Angel, the two women barely spoke to each other anymore. Nobody could have told they used to be close friends with their attitude towards the other.
-"Do you know if Section 2 has found Asuka ?"
-Ritsuko raised an eyebrow at the question. If she wanted to know that, she could have asked Section 2 directly. She didn't even know that the Second Child had been missing. She had been so deep in the bowels of NERV for so long that she didn't even know what was happening outside of her office or the Command Center. "How would I know ?" She answered tiredly. "Is it really why you came to see me ?"
-Misato was a little surprised at her friend's insight. "I miss my friend." She decided to be straightforward. She was all alone now and she desperately needed to know that she could still count on someone. "Everything is falling apart around us." She declared woefully.
-"This is about Shinji ?" She asked with a bit of annoyance. She had managed to avoid an uncomfortable conversation just a few minutes earlier only to have an other one forced upon her. The woman inside her was almost beginning to believe in karma.
-"If only it were just about him..." She answered, staring vacantly into space. Her eyes suddenly darted back to her friend. "Can you believe him though !?" She continued with renewed anger. "He left his own son suffer through this ! I know I shouldn't be surprised anymore but he didn't even come see him in the hospital !"
-'I know Misato. I was there the whole time.' She wasn't proud of how her mind was working at the moment. Her oldest friend just barged in her office with an olive branch. The least she could do was humor her. Moreover, she needed a friend too. It didn't matter how close the end was, she didn't want to feel this loneliness. Even the Commander was getting more and more distant. "You know, the Commander is a busy man."
-"That's bullshit and you know it Rits ! This man doesn't even love his own son !" She barked back. She needed to vent out her frustration and anger. "I'm pretty sure he's incapable of loving anyone or anything !"
-Despite her anger, the woman's reasoning was quite logical. It made Ritsuko uncomfortable thinking about it. It made sense. That's what she didn't like about it, so she decided it was time to end this conversation. "We should go out for a drink sometime. Soon." She added, once again absorbed in her own thoughts.
-"Sure thing ! I'll call you ! Thanks Rits !" The Major said almost cheerfully, as if it had been a pleasant chat with her friend. She had been able to talk. That was enough for her.
+
+Ritsuko was sitting in her office. The ashtray on her desk was full of smoked cigarettes. It was late in the evening. She didn't bother going home anymore. There was no point."I see, so she passed away." She did her best to hide her annoyance. She still had a lot of work to do. "Yes, probably, even cats eventually reach the end of their lives." 'That's what happens.' She thought cynically. She crossed her legs. She just wanted this phone call to end. "Don't cry anymore, Grandma." She couldn't just hang up. She was a poor, lonely old woman. Much like herself. "I will. When I get some time, I'll come home for a bit. I haven't visited Mother's grave in three years either." She wouldn't miss her granddaughter for long. The end was approaching quickly now. There was no point in getting sentimental now. She did her best to convince herself. "I'll call you next time. Okay, I'm hanging up now."  
+Ritsuko 坐在她的办公室里，桌上的烟灰缸堆满了烟蒂。夜已深沉，她不再费心回家，毫无意义。“我明白了，她去世了。”她尽力掩饰自己的烦躁，还有许多工作待完成。“是的，或许，连猫的寿命也有尽头。”她愤世嫉俗地想。她跷起二郎腿，只盼这通电话快些结束。“别再哭了，奶奶。”她不能就这样挂断，那是个可怜孤独的老人，与她自己何其相似。“我会回去的，等我有空时，会回家看看。我也已经三年没去母亲墓前了。”她不会太久地思念孙女，终点正迅速逼近，此刻多愁善感毫无意义。她竭力说服自己。“下次再聊，好了，我要挂电话了。”
+
+"So, she died." She looked to the little cat figurines on her desk. The only personal effects in the room. 'Soon, nothing will matter.' Or so she tried to convince herself. She kept looking wistfully at the two porcelain cats. She loved her cats. Losing one, even due to old age, was a little tragedy in the grand scheme of things, but a tragedy nonetheless.  
+"所以，她去世了。" 她望向桌上的小猫摆件，那是房间里仅有的个人物品。'很快，一切都不再重要。' 或者她试图这样说服自己。她一直深情地凝视着那对瓷猫。她深爱着她的猫。失去一只，即便是因为年老，在宏大的事物中也算是一场小小的悲剧，但悲剧终究是悲剧。
+
+Her musings were interrupted by her office door opening suddenly, almost violently. There was only one person who usually opened it like this. "Misato. Can I help you with something ?" Since the 12th Angel, the two women barely spoke to each other anymore. Nobody could have told they used to be close friends with their attitude towards the other.  
+她的沉思被办公室门突然且几乎猛烈地打开所打断。通常这样开门的人只有一个。"美里。有什么我能帮忙的吗？" 自从第 12 使徒事件后，这两位女性几乎不再交谈。没有人能从她们对待对方的态度中看出她们曾经是亲密的朋友。
+
+"Do you know if Section 2 has found Asuka ?"  
+"你知道第二分部找到明日香了吗？"
+
+Ritsuko raised an eyebrow at the question. If she wanted to know that, she could have asked Section 2 directly. She didn't even know that the Second Child had been missing. She had been so deep in the bowels of NERV for so long that she didn't even know what was happening outside of her office or the Command Center. "How would I know ?" She answered tiredly. "Is it really why you came to see me ?"  
+律子对这个问题的反应是挑了挑眉。如果她想知道，完全可以直接问第二课。她甚至不知道二号适格者已经失踪了。她在 NERV 深处待得太久，以至于对办公室和指挥中心之外的事情一无所知。“我怎么会知道？”她疲惫地回答，“你来找我，真的只是为了这个吗？”
+
+Misato was a little surprised at her friend's insight. "I miss my friend." She decided to be straightforward. She was all alone now and she desperately needed to know that she could still count on someone. "Everything is falling apart around us." She declared woefully.  
+美里对朋友的洞察力感到有些惊讶。“我想念我的朋友。”她决定直截了当。现在她孤身一人，迫切需要知道还有人可以依靠。“我们周围的一切都在崩溃。”她悲伤地宣布。
+
+"This is about Shinji ?" She asked with a bit of annoyance. She had managed to avoid an uncomfortable conversation just a few minutes earlier only to have an other one forced upon her. The woman inside her was almost beginning to believe in karma.  
+“这是关于真嗣的吗？”她带着一丝不悦问道。她刚刚设法避免了一场尴尬的对话，结果又被迫面对另一场。她内心深处几乎开始相信因果报应了。
+
+"If only it were just about him..." She answered, staring vacantly into space. Her eyes suddenly darted back to her friend. "Can you believe him though !?" She continued with renewed anger. "He left his own son suffer through this ! I know I shouldn't be surprised anymore but he didn't even come see him in the hospital !"  
+"要是只关乎他就好了..." 她回答道，眼神空洞地凝视着远方。突然，她的目光又回到了朋友身上。"你能相信他吗？！" 她带着新生的怒气继续说道，"他让自己的亲生儿子承受这一切！我知道我不该再感到惊讶，但他甚至没来医院看他一眼！"
+
+'I know Misato. I was there the whole time.' She wasn't proud of how her mind was working at the moment. Her oldest friend just barged in her office with an olive branch. The least she could do was humor her. Moreover, she needed a friend too. It didn't matter how close the end was, she didn't want to feel this loneliness. Even the Commander was getting more and more distant. "You know, the Commander is a busy man."  
+'我知道，美里。我一直都在那里。' 她并不为自己的心境感到自豪。她最老的朋友突然带着橄榄枝闯进她的办公室，她至少应该迁就一下。而且，她也确实需要一个朋友。无论结局多么临近，她都不想再感受这种孤独。甚至连指挥官也变得越来越疏远。"你知道的，指挥官是个大忙人。"
+
+"That's bullshit and you know it Rits ! This man doesn't even love his own son !" She barked back. She needed to vent out her frustration and anger. "I'm pretty sure he's incapable of loving anyone or anything !"  
+"那是胡说八道，你也知道，律子！这个人连自己的儿子都不爱！" 她厉声反驳。她需要发泄自己的沮丧和愤怒。"我敢肯定，他根本无法爱任何人或任何事物！"
+
+Despite her anger, the woman's reasoning was quite logical. It made Ritsuko uncomfortable thinking about it. It made sense. That's what she didn't like about it, so she decided it was time to end this conversation. "We should go out for a drink sometime. Soon." She added, once again absorbed in her own thoughts.  
+尽管愤怒，女人的推理却相当合乎逻辑。这让律子感到不安，思考起来。这很有道理。正是这一点让她不喜欢，于是她决定是时候结束这场对话了。“我们应该找个时间出去喝一杯。很快。”她补充道，再次沉浸在自己的思绪中。
+
+"Sure thing ! I'll call you ! Thanks Rits !" The Major said almost cheerfully, as if it had been a pleasant chat with her friend. She had been able to talk. That was enough for her.  
+“当然可以！我会给你打电话的！谢谢你，律子！”玛丽少校几乎愉快地说道，仿佛这是一次与朋友的愉快聊天。她已经能够倾诉了。这对她来说已经足够了。
+
 .
+
 .
-"It is impossible for us to recover the Lance of Longinus." The distorted voice of one of SEELE's Committee stated, obviously not pleased about the situation.
-"Why did you use it ?" A second voice asked.
-"We still do not have the planned number of the Eva Series." And a third remarked. This debriefing was more of a tribunal than anything else.
-"I made destroying the Angel my first priority. It was an unavoidable situation." Gendo didn't care about this masquerade. The Lance had been used. There was no point crying over spilled milk. Besides, they should be aware that Unit 01 was of essential importance to their plan as a contingency. He of course didn't feel the need to mention his own plan.
-"Unavoidable, was it ? You should make your excuses more convincing than that. Your recent actions have become intolerable." The first voice answered in an attempt to intimidate the Supreme Commander of NERV. Thankfully for him, the phone on his desk rang.
-"Fuyutsuki, we're in the middle of deliberations here... All right." He hung up. "An Angel in currently drawing near. Let us continue this at another time." This was good news for the Commander. He didn't have time for such childish behavior. And technically, neither did the Old Men.
-"If your seat is still waiting for you, that is." The second voice added, again in a vain attempt to intimidate Gendo Ikari.
-"Ikari... Does he intend to betray SEELE ?" Kiel asked right after Gendo had left the meeting. His tone was mostly rhetorical. Mixed with disbelief.
+
+"It is impossible for us to recover the Lance of Longinus." The distorted voice of one of SEELE's Committee stated, obviously not pleased about the situation.  
+“我们不可能找回朗基努斯之枪。”SEELE 委员会中一个扭曲的声音说道，显然对这种情况感到不满。
+
+"Why did you use it ?" A second voice asked.  
+“你为什么使用了它？”另一个声音问道。
+
+"We still do not have the planned number of the Eva Series." And a third remarked. This debriefing was more of a tribunal than anything else.  
+“我们还没有达到计划中的 Eva 系列数量。”第三个人评论道。这次汇报更像是一场审判，而非其他。
+
+"I made destroying the Angel my first priority. It was an unavoidable situation." Gendo didn't care about this masquerade. The Lance had been used. There was no point crying over spilled milk. Besides, they should be aware that Unit 01 was of essential importance to their plan as a contingency. He of course didn't feel the need to mention his own plan.  
+“我将摧毁使徒作为首要任务。那是一个无法避免的情况。”碇源堂并不在乎这场伪装。朗基努斯之枪已经被使用，覆水难收。此外，他们应该明白初号机作为应急计划的重要性。当然，他没必要提及自己的计划。
+
+"Unavoidable, was it ? You should make your excuses more convincing than that. Your recent actions have become intolerable." The first voice answered in an attempt to intimidate the Supreme Commander of NERV. Thankfully for him, the phone on his desk rang.  
+"不可避免，是吗？你的借口应该比这更有说服力。你最近的行为已经到了无法容忍的地步。" 第一个声音试图恐吓 NERV 最高指挥官。幸运的是，他桌上的电话响了。
+
+"Fuyutsuki, we're in the middle of deliberations here... All right." He hung up. "An Angel in currently drawing near. Let us continue this at another time." This was good news for the Commander. He didn't have time for such childish behavior. And technically, neither did the Old Men.  
+"副司令，我们正在讨论中……好吧。" 他挂了电话。"一个使徒正在逼近。我们改天再继续这个话题。" 这对指挥官来说是好消息。他没有时间处理这种幼稚的行为。从技术上讲，那些老头子们也没有时间。
+
+"If your seat is still waiting for you, that is." The second voice added, again in a vain attempt to intimidate Gendo Ikari.  
+"如果你的位置还在等着你，那就是了。" 第二个声音补充道，再次徒劳地试图恐吓碇源堂。
+
+"Ikari... Does he intend to betray SEELE ?" Kiel asked right after Gendo had left the meeting. His tone was mostly rhetorical. Mixed with disbelief.  
+"碇...他打算背叛 Seele 吗？" 基尔在源渡离开会议后立即问道。他的语气多半是反问，夹杂着难以置信。
+
+---
+A/N : 对不起！这一章写得很艰难。当我意识到我必须重写整个第一部分 
+当我意识到我不得不重写整个第一部分的时候，我真的很沮丧 
+很糟糕！再加上明日香和川流之间的讨论，写起来非常麻烦。
+ 再加上明日香和卡瓦鲁之间的讨论，写起来非常痛苦，于是就有了这一章！这一章写得很晚很晚！
+最糟糕的是，比如说律子和美里的部分 
+之后就很自然地出现了。
+我不会放弃这个 
+我希望你们知道这一点。就像我之前说的，我已经计划好了大部分内容。
+我想把它进行到底。
+结束。我不会给你们发布日期之类的东西，因为现在我 
+更清楚了。
+我想说的是，我非常感谢你们给我的反馈、PM 
+反馈、PM、评论等等。它们就像在 
+有时，我需要这样的感觉！
+最后一点，我没有像重读其他章节那样重读这一章，所以如果有比平时更多的错误，请多多包涵！
+总之，这一章没什么意思，我就不再啰嗦了（如果你读到这里，请问你好！）。
+非常非常感谢你们所做的一切！
+再见！
+
+
